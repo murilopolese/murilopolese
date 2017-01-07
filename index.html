@@ -1,217 +1,182 @@
 <!DOCTYPE html>
 <!--
 
-      Theme: Murilo's Basic v0.1
-      Author: Murilo Polese  [http://www.murilopolese.com.br]
-      For: Tumblr  [http://tumblr.com/]
-      Terms: Protected under Creative Commons. [http://creativecommons.org/licenses/by-nc/3.0/]
+			Theme: Murilo's Basic v0.1
+			Author: Murilo Polese	[http://www.murilopolese.com.br]
+			For: Tumblr	[http://tumblr.com/]
+			Terms: Protected under Creative Commons. [http://creativecommons.org/licenses/by-nc/3.0/]
 
 -->
 <html lang="en">
 <head>
-    <title>{Title}</title>
-    <meta charset="UTF-8">
-    <!-- {block:Description}
-      <meta name="description" content="{MetaDescription}">
-    {/block:Description} -->
-    <!-- Custom Variables -->
-    <meta name="text:GoogleAnalyticsID" content=""/>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
-    <link rel="shortcut icon" href="https://cdn0.iconfinder.com/data/icons/octicons/1024/terminal-128.png">
-    <link rel="apple-touch-icon" href="{PortraitURL-128}">
-    <link rel="alternate" type="application/rss+xml" href="{RSS}">
+		<title>{Title}</title>
+		<meta charset="UTF-8">
+		<!-- {block:Description} -->
+			<meta name="description" content="{MetaDescription}">
+		<!-- {/block:Description} -->
+		<!-- Custom Variables -->
+		<meta name="text:GoogleAnalyticsID" content=""/>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+		<link rel="shortcut icon" href="https://cdn0.iconfinder.com/data/icons/octicons/1024/terminal-128.png">
+		<link rel="apple-touch-icon" href="{PortraitURL-128}">
+		<link rel="alternate" type="application/rss+xml" href="{RSS}">
 
-    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Inconsolata:400,700">
-    <link rel="stylesheet" href="main.css">
+		<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Inconsolata:400,700">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/4.2.0/normalize.css">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha/css/bootstrap.css">
+
+		<!--[if lt IE 9]>
+			<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+		<style>
+				body {
+					font-family: 'Inconsolata';
+					padding-bottom: 1.75rem;
+					padding-top: 1.75rem;
+					font-size: 1.1rem;
+				}
+				h1,
+				h2,
+				h3 {
+					font-weight: bold;
+				}
+				li {
+					margin: 0 0 12.5px;
+				}
+				/* Custom, iPhone Retina */
+				/* Extra Small Devices, Phones */
+				/* Small Devices, Tablets */
+				@media only screen and (min-width: 768px) {
+					li {
+						margin: 0;
+					}
+				}
+				/* Medium Devices, Desktops */
+				/* Large Devices, Wide Screens */
+				ul, ol {
+					list-style: none;
+					padding-left: 0;
+				}
+				img {
+						max-width: 100%;
+						min-width: 100%;
+				}
+				a:link,
+				a:visited,
+				a:active,
+				a:hover {
+						color: #9DA0A2;
+				}
+				strong {
+						color: #373A3C;
+				}
+				.title {
+					margin-top: 1.25rem;
+					margin-bottom: 1.25rem;
+				}
+				.menu {
+					letter-spacing: 0.2em;
+					line-height: 3rem;
+					margin-bottom: 0;
+					text-transform: uppercase;
+				}
+				.menu .active {
+					font-weight: bold;
+				}
+				.header a:link,
+				.header a:visited,
+				.header a:active,
+				.header a:hover {
+						color: #373A3C;
+				}
+				.video iframe {
+					max-width: 100%;
+				}
+				.grid-item {
+					margin-bottom: 20px;
+				}
+		</style>
 </head>
 <body>
 
-  <div class="container">
+	<div class="container">
+		<div class="row header">
+				<div class="col-md-4 col-md-offset-2">
+						<h1><a href="/">Murilo Polese</a></h1>
+				</div>
+				<div class="col-md-4 text-right">
+						<ul class="menu list-inline">
+							<li><a href="/work">Work</a></li>
+							<li><a href="/feed">Feed</a></li>
+						</ul>
+				</div>
+		</div>
 
-		<h1>Murilo Polese</h1>
-		<section>
-			<p>
-				Hi! I’m a Brazilian creative technologist living in Stockholm.
-			</p>
-			<p>
-				Ex-physics student, relapse rugbier, clumsy capoeira player, memory-less
-				musician and totally in love with programming!
-			</p>
-			<p>
-				I’m interested on Interactivity, Procedural Music, Generative Art,
-				Communication Protocols, Kinetic Sculptures, Pedagogy, Math and Scientific
-				Method.
-			</p>
-		</section>
-		<section>
-			<h3>Quirkbot</h3>
-			<p>
-				Quirkbot is a little character you can program and construct into
-				different shapes and forms.
-			</p>
-			<p>
-				I participated on the Quirkbot development
-				while Kids Hack Day volunteer since the beggining and recently had the
-				pleasure to work developing content for workshops for teachers, media
-				industry and big corporations as much as marketing material and lesson
-				plans for Swedish classrooms.
-			</p>
-			<ul>
-				<li><a href="#">My maker corner</a>
-				<li><a href="#">Workshops</a>
-				<li><a href="#">Walker robots</a>
-				<li><a href="#">Drawing machines</a>
-				<li><a href="#">Robotic arms</a>
-			</ul>
-		</section>
-		<section>
-			<h3>Strawbees</h3>
-			<p>
-				Strawbees is a plastic connector that enables kids of all ages to
-				build and play with 3D structures and mechanisms made out of drinking
-				straws.
-			</p>
-			<p>
-				I worked with a mixed team of freelances, shareholders and educators
-				to plan and execute its first manual. Also represented the company
-				on international events and workshops.
-			</p>
-			<ul>
-				<li><a href="#">Strawbees Booklet</a></li>
-				<li><a href="#">Global Maker Faire</a></li>
-			</ul>
-		</section>
-		<section>
-			<h3>Kids Hack Day</h3>
-			<p>
-				Kids Hack Day is a global series of free creative tech events for kids.
-				We give kids tools to express their creativity, be curious and
-				empathetic towards each other and the world around them. We empower
-				kids to take control over their own future and not just passively
-				consume what someone else has designed for them.
-			</p>
-			<p>
-				At Kids Hack Day I've been coorganizing and running a few events,
-				summer camps and a regular club where kids can come and hack their
-				way through their ideas. I have been also deeply involved on how to
-				organize the events in a way the community can benefit from great
-				documentation and the events maximize its pedagogical potentials.
-			</p>
-			<ul>
-				<li><a href="#">Kids hack day camps</a></li>
-				<li><a href="#">Minecraft programming</a></li>
-				<li><a href="#">Kids hack day club</a></li>
-				<li><a href="#">Kids hack day wiki</a></li>
-			</ul>
-		</section>
-		<section>
-			<h3>Science Hack Day</h3>
-			<p>
-				Science Hack Day is a two-day-all-night event where anyone excited
-				about making weird, silly or serious things with science comes together
-				in the same physical space to see what they can prototype within 24
-				consecutive hours. The mission of Science Hack Day is to get excited
-				and make things with science.
-			</p>
-			<p>
-				After I organized a Science Hack Day in my hometown in Brazil I was
-				selected by their ambassador program and went to the international
-				edition of the event in San Francisco where our team won the music
-				category.
-			</p>
-			<ul>
-				<li><a href="#">Science Hack Day Vitória</a></li>
-				<li><a href="#">Science Hack Day San Francisco</a></li>
-			</ul>
-		</section>
-		<section>
-			<h3>Oakwood Creative</h3>
-			<p>
-				Oakwood Creative is a digital agency in Stockholm that works developing
-				strategies, telling stories, designing commercial art and coding cool
-				stuff in an open environment. Our roles are organically intertwined
-				and we bring the full set of skills to the table from day one.
-			</p>
-			<p>
-				I worked as a Creative Technologist at Oakwood on projects from
-				big interactive advertising campaigns, WordPress based systems for
-				ecommerces, competitions, games and media publishers from 2014 to 2015.
-			</p>
-			<ul>
-				<li><a href="#">Oakwood</a></li>
-			</ul>
-		</section>
-		<section>
-			<h3>Sveriges Radio</h3>
-			<p>
-				Sveriges Radio AB is Sweden's national publicly funded radio broadcaster.
-				It has an innovation department that research and develop concepts around
-				the experience of listening to radio.
-			</p>
-			<p>
-				I work closely to this department on both idealizing and developing
-				prototypes for testing and research purposes.
-			</p>
-			<ul>
-				<li><a href="#">Sveriges Radio</a></li>
-			</ul>
-		</section>
-		<section>
-			<h3>Sandbox</h3>
-			<p>
-				During my work or on my spare time I'm always playing and trying new
-				ideas and technologies. I am absolutelly passionated about learning
-				and each of the following toys were created to explore one to a milion
-				of new and different ways to do something.
-			</p>
-			<ul>
-				<li><a href="#">Chubbee</a></li>
-				<li><a href="#">Makey Honey, Honey!</a></li>
-				<li><a href="#">Robotic arm</a></li>
-				<li><a href="#">Magnetic Worm</a></li>
-				<li><a href="#">Parametric</a></li>
-				<li><a href="#">Fabulous Jibber Jabber</a></li>
-				<li><a href="#">Gif playground</a></li>
-				<li><a href="#">Clock</a></li>
-				<li><a href="#">Fabulous Cogoguido</a></li>
-				<li><a href="#">Fabulous Minesweeper</a></li>
-				<li><a href="#">Ende Gelände</a></li>
-				<li><a href="#">You are a pixel</a></li>
-				<li><a href="#">Fabulous hexagons</a></li>
-			</ul>
-		</section>
-		<section>
-			<h3>Contact</h3>
-			<p>
-				If you feel you want to work or collaborate on a project with me, please
-				do now hesitat to reach me on any of those ways:
-			</p>
-			<ul>
-				<li><a href="#">Email</a></li>
-				<li><a href="#">Github</a></li>
-			</ul>
-		</section>
+		{block:PermalinkPage}
+			{block:Posts}
+				{block:Text}
+					<div class="row">
+						<div class="col-md-8 col-md-offset-2">
+							{block:Title}
+							<h2 class="title">{Title}</h2>
+							{/block:Title}
+							{Body}
+						</div>
+					</div>
+				{/block:Text}
+			{/block:Posts}
+		{/block:PermalinkPage}
 
-		<br><br>
-    <!-- <h1>{Title}</h1>
+		{block:IndexPage}
+			<div class="row">
+				<div class="col-md-8 col-md-offset-2">
+					<p><br></p>
+					<p>
+						Here I collect other projects, experiments or just random
+						things I do for fun in my spare time.
+					</p>
+					<p><br></p>
+				</div>
+				<div class="col-md-8 col-md-offset-2">
+					<div class="row grid">
+						{block:Posts}
+							{block:Text}
+								<div class="col-md-4 grid-item">
+									{block:More}
+										{Body}
+									{/block:More}
+									<a href="{Permalink}">{Title}</a>
+								</div>
+							{/block:Text}
+						{/block:Posts}
+					</div>
+				</div>
+			</div>
+		{/block:IndexPage}
+	</div>
 
-    {block:Posts}
-      {block:Text}
-        <h3>{Title}</h3>
-        {Body}
-      {/block:Text}
-    {/block:Posts} -->
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			 m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+		ga('create', 'UA-50202990-1', 'auto');
+		ga('send', 'pageview');
+	</script>
 
-  </div>
-
-  <script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-    ga('create', 'UA-50202990-1', 'auto');
-    ga('send', 'pageview');
-  </script>
+	<script type="text/javascript" src="https://code.jquery.com/jquery-2.x-git.min.js"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/masonry/4.1.1/masonry.pkgd.min.js"></script>
+	<script type="text/javascript">
+		$( document ).ready(function() {
+			$('.grid').masonry({
+				// set itemSelector so .grid-sizer is not used in layout
+				itemSelector: '.grid-item',
+				// use element for option
+				columnWidth: '.col-md-4',
+				percentPosition: true
+			})
+		});
+	</script>
 
 </body>
 </html>
