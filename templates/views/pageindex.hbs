@@ -1,0 +1,17 @@
+{{!< default}}
+<div class="row">
+	<div class="col-md-8 col-md-offset-2">
+		{{{content.body}}}
+		<div class="row grid">
+			{{#each posts}}
+				<div class="col-md-4 grid-item">
+					<a href="/{{slug}}">
+						<img src="{{thumbnail.secure_url}}" alt="" />
+						{{title}}
+					</a>
+				</div>
+			{{/each}}
+		</div>
+
+	</div>
+</div>
