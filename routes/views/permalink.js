@@ -48,7 +48,7 @@ exports = module.exports = function (req, res) {
 					case 'pageindex':
 					Post.model.find()
 					.where( 'state', 'published' )
-					.sort( '-priority' )
+					.sort( 'priority' )
 					.exec( function( err, posts ) {
 						locals.posts = posts;
 						view.render( page.template );
