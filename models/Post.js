@@ -18,7 +18,7 @@ Post.add({
 	thumbnail: { type: Types.CloudinaryImage, required: false },
 	categories: { type: Types.Relationship, ref: 'PostCategory', many: true, initial: true },
 	createdAt: { type: Date, default: Date.now },
-	priority: { type: Types.Number, required: false, default: 50 }
+	priority: { type: Types.Number, required: false, default: 0 }
 });
 
 
