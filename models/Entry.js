@@ -16,7 +16,6 @@ var Entry = new keystone.List('Entry', {
 });
 
 Entry.add({
-	createdAt: { type: Date, default: Date.now, hidden: true },
 	title: { type: Types.Text, required: true, initial: true },
 	slug: { type: Types.Key, index: true },
 	status: { type: Types.Select, required: false, options: 'draft,published,archived', default: 'draft' },
@@ -66,7 +65,8 @@ Entry.add({
 		content: { type: Types.Markdown, dependsOn: { type: 'vaporwave' } }
 	},
 
-	homepage: { type: Types.Boolean, default: false }
+	homepage: { type: Types.Boolean, default: false },
+	createdAt: { type: Date, default: Date.now }
 });
 
 /**
