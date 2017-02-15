@@ -10,12 +10,12 @@
 		{{#each entries}}
 			<div class="row py-4">
 				<div class="col">
-					{{#if page.images.[0]}}
-						<div class="mb-3" style="width:100%;height:200px;background: url('{{page.images.[0].secure_url}}');background-size: cover; background-position: center center;"></div>
+					{{#if blog.images.[0]}}
+						<div class="mb-3" style="width:100%;height:200px;background: url('{{blog.images.[0].secure_url}}');background-size: cover; background-position: center center;"></div>
 					{{/if}}
 					<h3><a href="/{{slug}}">{{title}}</a></h3>
 					<h6>{{date createdAt}}</h6>
-					{{{page.brief.html}}}
+					{{{blog.brief.html}}}
 					<p>
 						<a href="/{{slug}}">Read more</a>
 					</p>

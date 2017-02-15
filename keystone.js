@@ -32,11 +32,6 @@ keystone.init({
 	'session': true,
 	'auth': true,
 	'user model': 'User',
-
-	'wysiwyg additional plugins': 'autolink media',
-	'wysiwyg images': true,
-	'wysiwyg cloudinary images': true
-
 });
 
 // Load your project's Models
@@ -62,8 +57,7 @@ keystone.Email.defaults.templateEngine = require('handlebars');
 
 // Configure the navigation bar in Keystone's Admin UI
 keystone.set('nav', {
-	content: [ 'posts', 'pages', 'navigations', 'PostCategory' ],
-	admin: 'users'
+	users: 'users',
 });
 
 // Start Keystone to connect to your database and initialise the web server
