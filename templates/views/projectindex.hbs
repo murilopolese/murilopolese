@@ -11,7 +11,9 @@
 			<div class="row py-4">
 				<div class="col">
 					{{#if project.images.[0]}}
-						<div class="mb-3" style="width:100%;height:200px;background: url('{{project.images.[0].secure_url}}');background-size: cover; background-position: center center;"></div>
+						<div class="mb-3 thumbnail" style="width:100%;height:200px;background: url('{{project.images.[0].secure_url}}');background-size: cover; background-position: center center;">
+							<a class="thumbnail-clickable" href="/{{slug}}"></a>
+						</div>
 					{{/if}}
 					<h3><a href="/{{slug}}">{{title}}</a></h3>
 					{{{project.brief.html}}}
