@@ -25,5 +25,8 @@
   "scripts": {
     "lint": "eslint .",
     "start": "node keystone.js"
+  },
+	"engines": {
+    "node": "4.8.0"
   }
 }
