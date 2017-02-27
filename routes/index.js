@@ -36,4 +36,7 @@ exports = module.exports = function (app) {
 	// Views
 	app.get('/', routes.views.home);
 	app.get('/:slug', routes.views.slug);
+
+	/* RSS Feeds */
+	app.get('/blog/feed.xml', routes.views.blogrss);
 };
