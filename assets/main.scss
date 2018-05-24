@@ -1,0 +1,116 @@
+---
+---
+@import 'normalize.css';
+@import 'bootstrap.min.css';
+
+$primary-color: #292B2C;
+$secondary-color: #9DA0A2;
+
+html {
+    font-size: 16px;
+}
+
+body {
+    font-family: 'Inconsolata';
+    padding-bottom: 1.75rem;
+    padding-top: 1.75rem;
+    font-size: 1.1em;
+    color: $primary-color;
+    font-weight: 400;
+    line-height: 1.5;
+}
+
+a:link, a:visited, a:active, a:hover {
+    color: $secondary-color;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+img {
+    max-width: 100%;
+}
+
+h1,
+h2,
+h3 {
+	font-weight: bold;
+	margin-bottom: 1rem;
+	a:link,
+	a:visited,
+	a:active,
+	a:hover {
+		color: $primary-color;
+	}
+}
+
+a:link,
+a:visited,
+a:active,
+a:hover {
+	color: $secondary-color;
+}
+strong {
+	color: $secondary-color;
+}
+
+img {
+	max-width: 100%;
+	min-width: 100%;
+}
+
+.list-inline {
+	list-style: none;
+	padding-left: 0;
+}
+
+.list-inline li {
+	margin: 0 0 12.5px;
+}
+@media only screen and (min-width: 768px) {
+	.list-inline li {
+		margin: 0;
+	}
+}
+
+.list-inline > li {
+    display: inline-block;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+.container {
+    max-width: 740px;
+}
+.container {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 1.5rem;
+}
+
+.menu {
+	letter-spacing: 0.2em;
+	margin-bottom: 0;
+	text-transform: uppercase;
+}
+.menu .active {
+	font-weight: bold;
+}
+
+.list {
+    margin-top: 3rem;
+}
+.item {
+    margin-bottom: 3rem;
+}

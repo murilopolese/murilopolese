@@ -1,0 +1,15 @@
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: "blog"
+      type: "posts" # previously `page` in Jekyll 2.2.
+    values:
+      layout: "blog" # overrides previous default layout
+      author: "Murilo Polese"
+      excerpt_separator: <!--more-->
