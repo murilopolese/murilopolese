@@ -10,5 +10,6 @@ Students were divided into groups, each one with a fictional brief for a real br
 
 To do that we gave a small introduction on Processing and taught them how to setup Makey Makeys to interact with the Processing sketches.
 
-https://github.com/oakwood/BerghsLAB2014/tree/spring2014
 This was the material we used:
+
+[https://github.com/oakwood/BerghsLAB2014/tree/spring2014](https://github.com/oakwood/BerghsLAB2014/tree/spring2014)
