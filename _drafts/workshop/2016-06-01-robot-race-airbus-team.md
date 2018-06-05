@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Quirkbot Robot Race: Airbus Management Team June 2016"
-categories: workshopx fast-prototyping
+categories: workshopx robot-race
 ---
 
 While working for Quirkbot we were based at THINGS, a hardware focused startup accelerator, coworking space and home for Stockholm Makerspace. THINGS occupy a building at KTH and it’s an international reference because of its installations, companies and community around it.

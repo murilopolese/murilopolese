@@ -3,6 +3,7 @@ layout: post
 title: Urbanears Radioheads
 categories: dev
 excerpt: "Urbanears Radio Heads was a live streamed tournament with youtubers racing each other with radio controlled heads to dramatize the freedom of wireless listening."
+cover: '/assets/dev/radioheads.jpg'
 ---
 
 <iframe src="https://player.vimeo.com/video/153515494" width="640" height="426" frameborder="0" allowfullscreen></iframe>
