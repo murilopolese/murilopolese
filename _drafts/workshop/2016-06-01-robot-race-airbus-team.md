@@ -1,14 +1,12 @@
 ---
 layout: post
-title: "Fast Prototyping: Berghs August 2016"
-categories: workshop fast-prototyping
+title: "Quirkbot Robot Race: Airbus Management Team June 2016"
+categories: workshopx fast-prototyping
 ---
 
-Yet again Joe invited Paulo and I to give a lecture about techniques and tools for rapid prototyping at Berghs School of Communication. The goal was still the same although we updated the content and tools to focus even more on how to integrate and hack the new tools presented into everyone’s existing creative workflow.
+While working for Quirkbot we were based at THINGS, a hardware focused startup accelerator, coworking space and home for Stockholm Makerspace. THINGS occupy a building at KTH and it’s an international reference because of its installations, companies and community around it.
 
-For the first time the main board we used to do hardware interaction was a Quirkbot. We began the day with a robot race and followed it with the classic run through examples of what can be done using the MakeyMakey capabilities on Quirkbot. The following days were about guiding the students on how to use the tools to prototype their ideas.
+A group of managers from AirBus paid a visit to the building to learn and share their views about the future of the technology industry. During the visit they interacted with many companies on the building and with Quirkbot was a robot race workshop, as it should be!
 
-https://photos.google.com/photo/AF1QipMpFHST1BsDzoyTHcpzL7P9q-9txMQGmVw1NWAo
-https://photos.google.com/photo/AF1QipOxZpHE9gyxoUgrGn8YrwSO5MUYaGUtvEJDgK_I
-https://photos.google.com/photo/AF1QipNr23EBYI96wxR4OIFYB5Uz9ldQ1td-vdXoPmX6
-https://photos.google.com/photo/AF1QipPlIpDFymOBKfJitaZ9Yn9rsD3PddFDkwvUsvYo
+https://photos.google.com/photo/AF1QipPiZLJvq-VYliU7EnhQh2b5Q2Z4b7jTWqdY_CJn
+https://photos.google.com/photo/AF1QipP9lLkdj5S_TTg5LcxgFLV1Qu97mMsPyld_A-wB

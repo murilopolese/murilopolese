@@ -12,6 +12,8 @@ I found this a quite unique opportunity to learn from so many different perspect
 
 Besides giving the workshop we were also talking about Kids Hack Day and Quirkbot with a stand that took place near to other fantastic projects and companies such as Lego.
 
+![](/assets/workshops/quirkbot-2015-03_01.jpg)
+
 {% youtube eR-6w9PROhU %}
 {% youtube ouHFY6QZo8s %}
 {% youtube FhWrjjlcUt0 %}

@@ -1,14 +1,12 @@
 ---
 layout: post
-title: "Fast Prototyping: Bergs September 2014"
+title: "Fast Prototyping: Bergs August 2016"
 categories: workshop fast-prototyping
+cover: 'assets/workshops/berghs-2016-08_01.jpg'
 ---
 
-As everybody enjoyed the spring lectures, Paulo got invited again to give the same lecture and extended the invitation to me. I was more than happy to join again and the idea was very similar: Give a class of Copywriting students a crash course on rapid prototyping.
+Yet again Joe invited Paulo and I to give a lecture about techniques and tools for rapid prototyping at Berghs School of Communication. The goal was still the same although we updated the content and tools to focus even more on how to integrate and hack the new tools presented into everyone’s existing creative workflow.
 
-The idea behind the workshop was to enable students to not wait until the technical support to arrive to start prototyping, with some simple tools and techniques everybody could experience and demonstrate complex concepts with simple prototypes.
+For the first time the main board we used to do hardware interaction was a Quirkbot. We began the day with a robot race and followed it with the classic run through examples of what can be done using the MakeyMakey capabilities on Quirkbot. The following days were about guiding the students on how to use the tools to prototype their ideas.
 
-This time we still used Processing and Makey Makeys but we also used Arduinos for motor outputs and [Spacebrew](http://docs.spacebrew.cc/) for connecting hardware and software over the internet.
-
-We made a game to demonstrate how to control a servo motor with software, hardware and over the internet:
-https://www.instagram.com/p/svApNHFp0F/?taken-by=murilopolese
+![](/assets/workshops/berghs-2016-08_01.jpg)

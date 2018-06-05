@@ -9,6 +9,7 @@ Yet again Paulo and I got invited to lecture at Berghs School of Communication f
 
 This time was no much different from the previous two, except we took out the focus on teaching how to program on Processing in exchange to suggest students to hack their own professional tools such as keynote, media players or word processors for prototyping purposes. We also upgraded the hardware to a DIY version of Makey Makey Go.
 
+![](/assets/workshops/berghs-2015-10_01.jpg)
 ![](/assets/workshops/berghs-2015-10_03.jpg)
 ![](/assets/workshops/berghs-2015-10_02.jpg)
 
