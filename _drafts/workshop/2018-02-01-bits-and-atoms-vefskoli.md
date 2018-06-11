@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Bits and Atoms: Vefskoli February 2018"
+categories: workshop bits-and-atoms
+---
+
 My great friend Pedro teaches web technologies (html, css, javascript) at Vefskoli at Reykjavik. He invited me to give a 3 day lecture about how his students could extend their web knowledge beyond the browser to the physical world. We sold the workshop as Internet of Things although I do prefer to call it “A journey from atoms to bits and back again” or just “bits and atoms” for short.
 
 The course was all about the journey electricity does from the browser to the boards and back again. It covered basic electronics, microprocessors, general purpose input and output devices and networks. It’s quite a journey so the main goal for the course was not to go super deep in any step specifically but to experience the whole process by playing with demos, experiments and challenges.

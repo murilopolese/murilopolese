@@ -5,7 +5,7 @@ categories: workshop khd
 cover: 'assets/workshops/khd-club-2015_01.jpg'
 ---
 
-Following the success of 2014’s Summer Camp, it was time to plan another camp when we decided to go further and establish a Kids Hack Day Club that would run initially from Makerspark basement but we soon moved to a few rooms at Stadsgården. Finally we moved to Stockholm Makerspace in 2016.
+Following the success of 2014’s Summer Camp, it was time to plan another camp when we decided to go further and establish a Kids Hack Day Club that would run initially from Makerspark basement. We soon moved to a few rooms at Stadsgården then to Stockholm Makerspace in 2016.
 
 Kids Hack Day Club ran much as a maker/hackerspace, children would have access to equipaments, material, instructions (with or without instructors) and most importantly time to spend on their own projects or helping out other friends.
 

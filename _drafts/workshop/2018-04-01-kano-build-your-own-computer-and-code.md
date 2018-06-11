@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kano: Build your computer and code (April 29th and May 12th)"
+title: "Kano: Build your computer and code April and May 2018"
 categories: workshop kano
 ---
 
