@@ -2,7 +2,7 @@
 layout: post
 title: "Quirkbot Robot Race: Stockholm Chamber of Commerce September 2016"
 categories: workshop robot-race
-cover: 'assets/workshops/quirkbot-2016-09_01.jpg'
+cover: '/assets/workshops/quirkbot-2016-09_01.jpg'
 ---
 
 Stockholm Chamber of Commerce donated Quirkbot kits to a list of schools in Sweden and as part of the delivery we would give a series of workshops with members from the organization, educators and students. The activity we reproduced with most success was the robot race and was the one that generated most engagement.

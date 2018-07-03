@@ -2,7 +2,7 @@
 layout: post
 title: "Kids Hack Day: Club (2015 - 2016)"
 categories: workshop khd
-cover: 'assets/workshops/khd-club-2015_01.jpg'
+cover: '/assets/workshops/khd-club-2015_01.jpg'
 ---
 
 Following the success of 2014’s Summer Camp, it was time to plan another camp when we decided to go further and establish a Kids Hack Day Club that would run initially from Makerspark basement. We soon moved to a few rooms at Stadsgården then to Stockholm Makerspace in 2016.

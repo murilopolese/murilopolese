@@ -2,7 +2,7 @@
 layout: post
 title: "Kids Hack Day: Summer Camp June 2014"
 categories: workshop khd
-cover: 'assets/workshops/khd-2014-06_01.jpg'
+cover: '/assets/workshops/khd-2014-06_01.jpg'
 ---
 
 During early days of Kids Hack Day, the main format was “one day events”. As people were asking more and more about next events and the subscription list was increasing I was invited to join the new format Kids Hack Day was trying out: Summer Camp.

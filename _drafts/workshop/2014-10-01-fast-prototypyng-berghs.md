@@ -3,7 +3,7 @@ layout: post
 title: "Fast Prototyping: Berghs September 2014"
 categories: workshop fast-prototyping
 date: 2014-10-01 00:00:00
-cover: 'assets/workshops/berghs-2014-10_01.jpg'
+cover: '/assets/workshops/berghs-2014-10_01.jpg'
 ---
 
 As everybody enjoyed the spring lectures, Paulo got invited again to give the same lecture and extended the invitation to me. I was more than happy to join again and the idea was very similar: Give a class of Copywriting students a crash course on rapid prototyping.

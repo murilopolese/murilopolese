@@ -2,7 +2,7 @@
 layout: post
 title: "Fast Prototyping: Bergs September 2015"
 categories: workshop fast-prototyping
-cover: 'assets/workshops/berghs-2015-10_01.jpg'
+cover: '/assets/workshops/berghs-2015-10_01.jpg'
 ---
 
 Yet again Paulo and I got invited to lecture at Berghs School of Communication for a mixed of students from different courses about the process and techniques to bring ideas to reality through prototyping fast and constantly.
