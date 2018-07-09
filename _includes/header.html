@@ -4,8 +4,12 @@
     </div>
     <div class="menu">
         <ul class="list-inline">
-            <li><a href="/workshops">Workshops</a></li>
-            <li><a href="/dev">Dev</a></li>
+            <li class="{% if page.categories[0] == 'workshop' or page.category == 'workshop' %}active{% endif %}">
+                <a href="{{page.basepath}}workshops">Workshops</a>
+            </li>
+            <li class="{% if page.categories[0] == 'dev' or page.category == 'dev' %}active{% endif %}">
+                <a href="{{page.basepath}}developer">Dev</a>
+            </li>
         </ul>
     </div>
 </div>

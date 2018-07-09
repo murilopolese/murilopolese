@@ -1,4 +1,5 @@
-instagram_cache: true
+# permalink: /:categories/:year-:month-:title:output_ext
+permalink: none
 defaults:
   -
     scope:
@@ -6,11 +7,9 @@ defaults:
       type: "pages"
     values:
       layout: "page"
+      basepath: "./"
   -
     scope:
-      path: "blog"
-      type: "posts" # previously `page` in Jekyll 2.2.
+      path: "_posts/*/*"
     values:
-      layout: "blog" # overrides previous default layout
-      author: "Murilo Polese"
-      excerpt_separator: <!--more-->
+      basepath: "../"
