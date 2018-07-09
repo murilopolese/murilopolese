@@ -15,5 +15,14 @@ Other than that our booth was a drop in building party, anyone could come, sit a
 
 ![](/assets/workshops/strawbees-makerfaire-2015-10_01.jpg)
 
-{% youtube HdjJwpAghwg %}
-{% youtube fKLIDv6dUl0 %}
+<div class="video">
+    <figure>
+        <iframe width="640" height="480" src="//www.youtube.com/embed/HdjJwpAghwg" allowfullscreen></iframe>
+    </figure>
+</div>
+
+<div class="video">
+    <figure>
+        <iframe width="640" height="480" src="//www.youtube.com/embed/fKLIDv6dUl0" allowfullscreen></iframe>
+    </figure>
+</div>

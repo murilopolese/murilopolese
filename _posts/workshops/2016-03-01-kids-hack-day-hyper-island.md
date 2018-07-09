@@ -12,4 +12,8 @@ The event was drop in and went through the whole day. After going through a rece
 
 ![](/assets/workshops/khd-2016-03_01.jpg)
 
-{% youtube NAYQZ68pAg0 %}
+<div class="video">
+    <figure>
+        <iframe width="640" height="480" src="//www.youtube.com/embed/NAYQZ68pAg0" allowfullscreen></iframe>
+    </figure>
+</div>
