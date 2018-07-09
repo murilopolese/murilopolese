@@ -3,7 +3,7 @@ layout: post
 title: "Quirkbot Robot Race: FabLab@School March 2015"
 categories: workshop
 tag: robot-race
-cover: '/assets/workshops/quirkbot-2015-03_01.jpg'
+cover: '{{page.basepath}}assets/workshops/quirkbot-2015-03_01.jpg'
 ---
 
 I went to Vejle with Carl Bärstad to join a national conference of schools who had or wanted to have a FabLab at their schools. We ran a workshop with a classic Quirkbot activity: Build a moving creature with Strawbees and a pre-programmed Quirkbot in 20 to 30 minutes. After the build we suggested a few competitions like a races or battles and participants interacted with each other creations.
@@ -14,4 +14,4 @@ I found this a quite unique opportunity to learn from so many different perspect
 
 We were also talking about Kids Hack Day and Quirkbot on a booth next to other fantastic projects and companies such as Lego.
 
-![](/assets/workshops/quirkbot-2015-03_01.jpg)
+![]({{page.basepath}}assets/workshops/quirkbot-2015-03_01.jpg)

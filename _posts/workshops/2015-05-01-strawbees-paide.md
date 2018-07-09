@@ -3,7 +3,7 @@ layout: post
 title: "Strawbees: Paide May 2015"
 categories: workshop
 tag: strawbees
-cover: '/assets/workshops/strawbees-2015-05_01.jpg'
+cover: '{{page.basepath}}assets/workshops/strawbees-2015-05_01.jpg'
 ---
 
 I was invited through Makerspark and [Pixelache](https://pixelache.ac/) to give a Strawbees workshop at Paide, in Estonia during a gathering to advertise a residency program on the city’s community center. When I got there I was amazed by the strength of the ideas people were articulating around there.
@@ -14,4 +14,4 @@ That is where Reiner, behind the community center, comes in. He’s life is dedi
 
 I gave a workshop more focused on using Strawbees as a tool to communicate ideas and arguments then the technical side. The activity was to build the widest hanging structure that wouldn’t touch the floor. After building we did a few rounds of reflection followed by very quick rebuilding sessions to consolidate what was said during the chat.
 
-![Strawbees at Paide](/assets/workshops/strawbees-2015-05_01.jpg)
+![Strawbees at Paide]({{page.basepath}}assets/workshops/strawbees-2015-05_01.jpg)

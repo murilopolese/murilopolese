@@ -6,7 +6,7 @@ excerpt: "While working at Oakwood I did a few projects involving a guessing gam
 cover: '/assets/dev/guessing-game.png'
 ---
 
-![](/assets/dev/guessing-game.png)
+![]({{page.basepath}}assets/dev/guessing-game.png)
 
 While working at [Oakwood](http://oakwood.se/) I did a few projects involving a guessing game for song releases. The basic concept is that you would listen to the instrumental version of the song and guess the lyric. As people guess correctly, parts of the music starts to get vocals until the whole song is released.
 

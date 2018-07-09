@@ -3,7 +3,7 @@ layout: page
 title: Murilo Polese
 ---
 
-![](/assets/murilopolese.jpg)
+![](assets/murilopolese.jpg)
 
 **Hello! My name is Murilo, I am a Brazilian technologist** (or a full stack developer if you prefer).
 

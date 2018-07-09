@@ -3,7 +3,7 @@ layout: post
 title: "Kids Hack Day: Club (2015 - 2016)"
 categories: workshop
 tag: khd
-cover: '/assets/workshops/khd-club-2015_01.jpg'
+cover: '{{page.basepath}}assets/workshops/khd-club-2015_01.jpg'
 ---
 
 Following the success of 2014’s Summer Camp, it was time to plan another camp when we decided to go further and establish a Kids Hack Day Club that would run initially from Makerspark basement. We soon moved to a few rooms at Stadsgården then to Stockholm Makerspace in 2016.
@@ -12,7 +12,7 @@ Kids Hack Day Club ran much as a maker/hackerspace, children would have access t
 
 In the beginning I ran a series of Minecraft hacking sessions using a version of Minecraft that would only allow to modify the world through code. Later on I also ran robotics, 3D printing, hardware and software hacking workshops to get them excited and started with their own projects.
 
-![](/assets/workshops/khd-club-2015_01.jpg)
+![]({{page.basepath}}assets/workshops/khd-club-2015_01.jpg)
 
 <div class="video">
     <figure>
