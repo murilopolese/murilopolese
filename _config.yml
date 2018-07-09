@@ -1,5 +1,7 @@
 # permalink: /:categories/:year-:month-:title:output_ext
 permalink: none
+plugins:
+    - jekyll-youtube
 defaults:
   -
     scope:
