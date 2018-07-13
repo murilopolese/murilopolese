@@ -3,7 +3,7 @@ layout: post
 title: "Bits and Atoms: Vefskoli February 2018"
 categories: workshop
 tag: bits-and-atoms
-cover: '{{page.basepath}}assets/workshops/bits-and-atoms-2018-02_01.jpg'
+cover: '/assets/workshops/bits-and-atoms-2018-02_01.jpg'
 ---
 
 My great friend Pedro teaches web technologies at Vefskoli in Reykjavik. He invited me to give a 3 day lecture about how his students could extend their web knowledge beyond the browser to the physical world. We sold the workshop as Internet of Things although I do prefer to call it “A journey from atoms to bits and back again” or just “bits and atoms” for short.
@@ -14,7 +14,7 @@ The course was all about the journey electricity does from the browser to the bo
 
 Naturally, students and teachers found where was their major interest in the journey and were able to understand something they were curious about or find out entirely new worlds to explore.
 
-![]({{page.basepath}}assets/workshops/bits-and-atoms-2018-02_01.jpg)
-![]({{page.basepath}}assets/workshops/bits-and-atoms-2018-02_04.jpg)
-![]({{page.basepath}}assets/workshops/bits-and-atoms-2018-02_02.jpg)
-![]({{page.basepath}}assets/workshops/bits-and-atoms-2018-02_03.jpg)
+![]({{"/assets/workshops/bits-and-atoms-2018-02_01.jpg" | relative_url}})
+![]({{"/assets/workshops/bits-and-atoms-2018-02_04.jpg" | relative_url}})
+![]({{"/assets/workshops/bits-and-atoms-2018-02_02.jpg" | relative_url}})
+![]({{"/assets/workshops/bits-and-atoms-2018-02_03.jpg" | relative_url}})

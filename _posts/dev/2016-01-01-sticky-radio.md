@@ -6,7 +6,7 @@ excerpt: "Sticky Radio was the result of a consultancy and prototyping work for 
 cover: '/assets/dev/sticky-radio.jpg'
 ---
 
-![]({{page.basepath}}assets/dev/sticky-radio.jpg)
+![]({{"/assets/dev/sticky-radio.jpg" | relative_url}})
 
 Sticky Radio was the result of a consultancy and prototyping work for Sveriges Radio. Their R&D department was working on a "seamless experience" between the digital and analog radio broadcasting. I participated actively on the design process and developed a prototype of an app that would recognize which radio channel you were listening (something like a Shazam for Sveriges Radio) and display more information about it. It also gave an option to continue the stream from the device, transitioning seamlessly between the analog and digital.
 

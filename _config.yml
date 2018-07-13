@@ -1,17 +1,2 @@
 # permalink: /:categories/:year-:month-:title:output_ext
 permalink: none
-plugins:
-    - youtube
-defaults:
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "page"
-      basepath: "./"
-  -
-    scope:
-      path: "_posts/*/*"
-    values:
-      basepath: "../"

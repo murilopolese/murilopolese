@@ -1,14 +1,14 @@
 <div class="header">
     <div class="title">
-        <h1><a href="{{page.basepath}}">Murilo Polese</a></h1>
+        <h1><a href="{{ "/" | relative_url }}">Murilo Polese</a></h1>
     </div>
     <div class="menu">
         <ul class="list-inline">
             <li class="{% if page.categories[0] == 'workshop' or page.category == 'workshop' %}active{% endif %}">
-                <a href="{{page.basepath}}workshops">Workshops</a>
+                <a href="{{ "/workshops" | relative_url }}">Workshops</a>
             </li>
             <li class="{% if page.categories[0] == 'dev' or page.category == 'dev' %}active{% endif %}">
-                <a href="{{page.basepath}}developer">Dev</a>
+                <a href="{{ "/developer" | relative_url }}">Dev</a>
             </li>
         </ul>
     </div>
