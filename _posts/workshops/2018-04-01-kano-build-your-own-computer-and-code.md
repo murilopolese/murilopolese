@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Kano: Build your computer and code April and May 2018"
+title: "Kano: Build your computer and code"
+date: "April and May 2018"
 categories: workshop
-tag: kano
+tags: kano poplar-union
 cover: '/assets/workshops/kano-build-your-computer-2018-04_01.jpg'
 ---
 

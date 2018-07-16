@@ -2,7 +2,7 @@
 layout: post
 title: "Fast Prototyping: Berghs May 2014"
 categories: workshop
-tag: fast-prototyping
+tags: fast-prototyping berghs
 cover: '/assets/workshops/berghs-2014-05_01.jpg'
 ---
 
