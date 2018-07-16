@@ -11,6 +11,8 @@ In early February, my friend 2018 Taylor and I decided to give a few workshops c
 
 We introduced Strawbees as the framework for creating physical structures while Kano would be the brain to store the coding structures. The main challenge and theme for this workshop was "build an automated marble run/roller coaster".
 
+We've built amazing constructions from massive, combined marble runs to crazy castles with waving towers.
+
 ![]({{"/assets/workshops/strawbees-fun-with-motors-2017-11_01.jpg" | relative_url}})
 ![]({{"/assets/workshops/strawbees-fun-with-motors-2017-11_02.jpg" | relative_url}})
 ![]({{"/assets/workshops/strawbees-fun-with-motors-2017-11_03.jpg" | relative_url}})
