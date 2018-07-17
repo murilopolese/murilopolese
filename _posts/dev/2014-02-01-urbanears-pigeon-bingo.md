@@ -12,4 +12,4 @@ cover: '/assets/dev/pigeon-bingo.jpg'
 
 The pigeon bingo was live streamed on urbanears.com with six one-hour games in three days. Each game was turned into an interactive show with live commentators – like the Youtube star Sp4zie – who let viewers engage with the show via Twitter.
 
-I worked as front end developer and managed part of the devOps for this project.
+I worked as front-end developer and managed part of the devOps for this project.

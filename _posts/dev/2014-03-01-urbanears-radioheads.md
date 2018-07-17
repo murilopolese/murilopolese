@@ -12,4 +12,4 @@ cover: '/assets/dev/radioheads.jpg'
 
 The track was custom-built for an interactive experience, and viewers could win the new headphone by claiming a color tile on the track or by guessing the winner.
 
-I worked both as a front end and backend developer on this project executing the entire web experience. It included the users sign in, picking their guesses for headphone color and race winner, sending the participants data to the video broadcaster so they could integrate with the real time graphics on the transmission and finally watching the race.
+I worked both as a front-end and backend developer on this project executing the entire web experience. It included the users sign in, picking their guesses for headphone color and race winner, sending the participants data to the video broadcaster so they could integrate with the real time graphics on the transmission and finally watching the race.
