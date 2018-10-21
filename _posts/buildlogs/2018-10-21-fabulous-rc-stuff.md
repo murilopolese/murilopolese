@@ -29,9 +29,9 @@ It would get a nice custom domain using mDNS (something like http://fabulous-car
 
 A few days after building the first one, I made a second one only changing the motors and the housing.
 
-https://www.youtube.com/watch?v=YUY0712q7UU
-https://www.youtube.com/watch?v=YhmTvO1K7pw
-https://www.youtube.com/watch?v=JVZBXbz1MTU
+- https://www.youtube.com/watch?v=YUY0712q7UU
+- https://www.youtube.com/watch?v=YhmTvO1K7pw
+- https://www.youtube.com/watch?v=JVZBXbz1MTU
 
 Figuring out how much fun that was, I flashed a second board and build a second car (using the big servos instead of the small ones).
 
@@ -41,14 +41,14 @@ After a long weekend of playing I was amazed by the response time over websocket
 
 At this point I had to test it with other people to make sure me and [Bee](https://beegrandinetti.com/) were not going totally nuts. Plus we wanted to make real nice cars so she invited some friends over to build cool cars and race. The result was awesome:
 
-https://www.instagram.com/p/BWm58wzBbTN/
-https://www.youtube.com/watch?v=1xfpP4DiD-k
-https://www.youtube.com/watch?v=_K0wJcru81c
+- https://www.instagram.com/p/BWm58wzBbTN/
+- https://www.youtube.com/watch?v=1xfpP4DiD-k
+- https://www.youtube.com/watch?v=_K0wJcru81c
 
 I kept the green one for longer and even build some new, mode advanced tracks:
 
-https://www.youtube.com/watch?v=8NV_yfLuNQ0
-https://www.youtube.com/watch?v=BAb8MPA5VQ4
+- https://www.youtube.com/watch?v=8NV_yfLuNQ0
+- https://www.youtube.com/watch?v=BAb8MPA5VQ4
 
 You can check the code I used for all those cars [here](https://gist.github.com/murilopolese/67c657863a14641df26abe670cb0da29#file-fabulous-car-continuous-servo-ino)
 
@@ -56,13 +56,13 @@ I believe that was when I started to think about reproducing it for a workshop, 
 
 DC motors on the other hand are way more available and dead cheap (when not for free if you find on trash). But also require a driver, a gearbox to strengthen the movement and eventually more calibration than the servos to have a car walking on a straight line. Because of that I decided to try a different design using only one DC for pushing the car and a regular hobby servo for steering it. The mechanism is far more complex but not impossible to make with simple materials as you can see in this design using only popsicles, paper clips, rubber band and because I wanted to try out, 3D printed wheels.
 
-https://www.youtube.com/watch?v=orERmnNw00w
-https://www.youtube.com/watch?v=y9BPpDNsV-4
+- https://www.youtube.com/watch?v=orERmnNw00w
+- https://www.youtube.com/watch?v=y9BPpDNsV-4
 
 I repurposed the DC motors from my previous adventure: A steering mechanism for a spider bot. Also added a driver to be able to reverse the movement.
 
-https://www.youtube.com/watch?v=PIT5GvHz98g
-https://www.youtube.com/watch?v=gyuaZGs3uz0
+- https://www.youtube.com/watch?v=PIT5GvHz98g
+- https://www.youtube.com/watch?v=gyuaZGs3uz0
 
 I had to make [a few adjustments on the code](https://gist.github.com/murilopolese/67c657863a14641df26abe670cb0da29#file-fabulous-car-dc-motor-and-servo-ino) and on the interface. The changes were mostly changing the “backward” and “forward” messages of one motor to “left” and “right”. Also, switched servo PWM to digital pins toggling.
 
@@ -74,9 +74,9 @@ But even using the same components and exactly the same design the cars were ver
 
 This is still my favourite design and driving experience but when showing to people it looked very complicated to build and most of them didn’t believe they could reverse engineer it. I decided to try a simpler design with the same components and came up with those Strawbees based ones:
 
-https://www.youtube.com/watch?v=nA4M4s0oigs
-https://www.youtube.com/watch?v=KdB3SY64FcU
-https://www.youtube.com/watch?v=AfM0Fl08czc
+- https://www.youtube.com/watch?v=nA4M4s0oigs
+- https://www.youtube.com/watch?v=KdB3SY64FcU
+- https://www.youtube.com/watch?v=AfM0Fl08czc
 
 As my adventures with MicroPython WebREPL advanced, I am on the process to switch the custom Arduino code to MicroPython. The main problem so far is that the board isn’t able to host the remote control so I need to figure out how a solution for that. Response time is pretty good but I noticed the experience being way less reliable and battery time being not so good.
 
