@@ -2,7 +2,7 @@
 layout: post
 title: "Fabulous remote control"
 categories: buildlog
-excerpt: "Revisiting one of my favourite children game but now with more resources available."
+excerpt: "Revisiting one of my favourite childhood game but as a grown up kid."
 ---
 
 I believe it started when I remembered one of my favourite child games and got really sad feeling I was forgetting one really important and dear memory. The game was simple enough that could be replicated in most of places with very flexible rules and materials: A bottle lid race. You have to flick the lid all the way through a course avoiding landing outside the track and without flipping the lid. If any of those things happen, you pass turn and you return your lid to the previous place. If playing with other people we usually would give 3 flicks per turn. If playing solo, you could just practice a jump, try records or other crazy thing you might want to do.
