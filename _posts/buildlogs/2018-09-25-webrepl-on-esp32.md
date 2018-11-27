@@ -2,7 +2,7 @@
 layout: post
 title: "WebREPL on ESP32"
 categories: buildlog
-excerpt: "If the WebREPL just worked for the ESP32… Oh, well... Not it works!"
+excerpt: "If the WebREPL just worked for the ESP32… Oh, well... Now it works!"
 ---
 
 I’m currently trying to think and develop a MicroPython experience for learning and hobby development. It’s mostly created on top of the WebREPL feature with the ESP8266 as the low end target board but it should work on the ESP32 as well.
