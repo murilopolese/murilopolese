@@ -19,4 +19,4 @@ Today I live in London and work for a company called [Kano](https://kano.me/), w
 
 If you are smiling after reading this, please get in touch and let's have a chat! :)
 
-[Github](https://github.com/murilopolese) / [Gist](https://gist.github.com/murilopolese) / [Email](maito:murilopolese+dotcom@gmail.com) / [Instagram](https://instagram.com/murilopolese)
+[Github](https://github.com/murilopolese) / [Gist](https://gist.github.com/murilopolese) / [Email](maito:murilopolese+dotcom@gmail.com) / [Twitter](https://twitter.com/twitter) / [Instagram](https://instagram.com/murilopolese)
