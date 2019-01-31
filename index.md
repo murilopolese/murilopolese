@@ -17,7 +17,7 @@ Through all this time I’ve been involved with a non profit organization called
 
 From 2017 to 2018 I worked for a company called [Kano](https://kano.me/), where we develop an end to end experience for beginners in technology. From putting together our own computers to sharing interests through a social network specially created for it, we can learn about technology as we create and make with it.
 
-In 2019 I went back to work with my beloved friends at I work and play with [Strawbees](https://strawbees.com/) where  I develop software and content with educational focus.
+In 2019 I went back to work (and play) with my beloved friends at [Strawbees](https://strawbees.com/) where I develop software and content with educational focus.
 
 If you are smiling after reading this, please get in touch and let's have a chat! :)
 
