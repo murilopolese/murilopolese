@@ -5,6 +5,8 @@ categories: buildlog
 excerpt: "Using a 3D printer to print frames of a stop motion animation."
 ---
 
+![New Year's Experiment](https://static1.squarespace.com/static/55c63ae6e4b06ae6eeb73710/t/5c4f23456d2a73c5a05b007b/1548690416364/newyears.gif?format=1000w)
+
 2018 wasn’t a great year of collaborations between me and [Bee](http://www.beegrandinetti.com/) so we decided to fix that in 2019 by starting the year doing something together.
 
 I have been very, very into drawing machines and digital fabrication the past 4 years. During all this time my focus was try building machines made out of widely available materials such as plastic, cardboard, tape, strings, etc. While it gets me a special type of satisfaction to build from scratch using very simple materials, reliability and precision were not the strength of those builds.
