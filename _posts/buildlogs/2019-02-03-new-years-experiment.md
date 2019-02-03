@@ -33,7 +33,7 @@ To calibrate the pen pressure on the paper I would set the X and Y axis to their
 
 After calibrated the pen pressure I would raise the Z axis a few millimeters, remove the draft, put the final paper if it wasn’t there already and send the GCODE to print!
 
-The results were actually fantastic: https://www.instagram.com/p/Br3rruJjB6-/
+The results were actually fantastic: [https://www.instagram.com/p/Br3rruJjB6-/](https://www.instagram.com/p/Br3rruJjB6-/)
 
 When Bee saw that, she got so excited! I was so happy that we set to do something together with that technique. We had this idea to make a new years card to send to some of our friends but each card would be a frame of a stop motion animation we would make with the prints.
 
@@ -53,10 +53,6 @@ I personally felt like what we were doing was closer to woodblock printing than 
 
 After printing the 24 frames, which took about 6 hours spread on 2 or 3 days, Bee did her magic with photos, colors, corrections and made the stop motion animation. Not enough she made a soundtrack and added “behind the scenes” footage. So much talent!
 
-https://vimeo.com/channels/staffpicks/313494443
+[https://vimeo.com/channels/staffpicks/313494443](https://vimeo.com/channels/staffpicks/313494443)
 
 She posted it on Vimeo and for our surprise it got staff picked: The artsy interwebz podium! It’s kind of fun to be so happy about being validated when this was more of a play session and gift for our friends but it’s undeniable how nice it was! Such an awesome result for this first project of 2019.
-
-
-
-
