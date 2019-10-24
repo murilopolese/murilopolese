@@ -17,6 +17,8 @@ Recently I found out about the support for threading on ESP32 and that it could 
 
 If the WebREPL just worked for the ESP32…
 
-Oh, well... Not it works! And it’s as awesome as it sounds. I’m very excited about it and so far the only problem I encountered is that entering, evaluating code and leaving “raw repl” mode has to be done with some interval between.
+Oh, well... Now it works! And it’s as awesome as it sounds. I’m very excited about it and so far the only problem I encountered is that entering, evaluating code and leaving “raw repl” mode has to be done with some interval between.
 
 I assume it’s because the network is handled by a dedicated core on the processor and evaluating Python is handled by the other. But that is just a very long shot. I’m pasting line by line and giving 50 milliseconds between each, which definitely slows down code execution but it is very reliable.
+
+And there is [this javascript library](https://github.com/murilopolese/webrepl-client) I wrote to help with the WebREPL protocol using javascript.
