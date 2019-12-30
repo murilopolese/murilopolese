@@ -45,16 +45,16 @@ Moving around with that contraption sucks so looking at quickly moving creatures
 
 Videos of diverse creatures moving around:
 
-- https://i.imgur.com/oPI5FUT.mp4
-- https://i.imgur.com/nWjKlX2.mp4
-- https://i.imgur.com/SEh5xTh.mp4
-- https://i.imgur.com/kFSrUsj.mp4
-- https://i.imgur.com/6rEH7kS.mp4
-- https://i.imgur.com/YZN2eXs.mp4
-- https://i.imgur.com/ikGOzwM.mp4
-- https://i.imgur.com/xyWbcmD.mp4
-- https://i.imgur.com/bEs1EzE.mp4
-- https://i.imgur.com/OCsetfN.mp4
+- [https://i.imgur.com/oPI5FUT.mp4](https://i.imgur.com/oPI5FUT.mp4)
+- [https://i.imgur.com/nWjKlX2.mp4](https://i.imgur.com/nWjKlX2.mp4)
+- [https://i.imgur.com/SEh5xTh.mp4](https://i.imgur.com/SEh5xTh.mp4)
+- [https://i.imgur.com/kFSrUsj.mp4](https://i.imgur.com/kFSrUsj.mp4)
+- [https://i.imgur.com/6rEH7kS.mp4](https://i.imgur.com/6rEH7kS.mp4)
+- [https://i.imgur.com/YZN2eXs.mp4](https://i.imgur.com/YZN2eXs.mp4)
+- [https://i.imgur.com/ikGOzwM.mp4](https://i.imgur.com/ikGOzwM.mp4)
+- [https://i.imgur.com/xyWbcmD.mp4](https://i.imgur.com/xyWbcmD.mp4)
+- [https://i.imgur.com/bEs1EzE.mp4](https://i.imgur.com/bEs1EzE.mp4)
+- [https://i.imgur.com/OCsetfN.mp4](https://i.imgur.com/OCsetfN.mp4)
 
 People really have mixed feelings about being able to see this, some get really happy and emotional, some get into a psychonaut journey with the microscope and other think everything is disgusting. Some people I think never get to learn how to use the focus and are ashamed to admit so they give it back without making the characteristic sound someone makes when they see whatever on microscope: UUUUUHHHH!!!!! It doesn't matter if you give it back and don't really get excited or if you totally dig it, that sound is a reliabe threshold.
 
@@ -68,6 +68,4 @@ I started to think it would be really nice to make a contraption to move the wat
 
 Best thing I have done, I am very excited to the point I'm actually learning about protistology thanks to an actual PhD biologist friend and of course the interwebz! Here is the first video I made after an afternoon looking at exactly 01 water drop.
 
-https://www.youtube.com/watch?v=Z1O6gP7AFkM
-
-#microcosmos #microscope #microscopy #diy
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/Z1O6gP7AFkM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
