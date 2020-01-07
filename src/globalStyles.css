@@ -1,0 +1,49 @@
+@font-face { font-family: 'Inconsolata'; src: url('./fonts/Inconsolata-Regular.ttf') format('truetype'); font-weight: 400; font-style: normal; }
+@font-face { font-family: 'Inconsolata'; src: url('./fonts/Inconsolata-Bold.ttf') format('truetype'); font-weight: 700; font-style: bold; }
+
+body {
+	margin: 0;
+	padding: 0;
+	font-family: 'Inconsolata', monospace;
+	font-size: 18px;
+	line-height: 1.5rem;
+	color: #333;
+}
+
+img {
+	max-width: 100%;
+}
+
+a:link, a:visited, a:active {
+	font-weight: normal;
+	text-decoration: none;
+	color: #9DA0A2;
+}
+a:hover {
+	text-decoration: underline;
+}
+#header a:link,
+#header a:hover,
+#header a:visited,
+#header a:active {
+	color: #333;
+	font-weight: bold;
+}
+#menu a:link,
+#menu a:hover,
+#menu a:visited,
+#menu a:active {
+	text-transform: uppercase;
+	font-size: 1.2rem;
+	letter-spacing: 3.5px;
+}
+.thumbnail {
+	max-width: 740px;
+}
+.thumbnail a:link,
+.thumbnail a:active,
+.thumbnail a:visited,
+.thumbnail a:hover {
+	color: #333;
+	font-weight: bold;
+}
