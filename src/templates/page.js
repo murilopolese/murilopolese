@@ -1,4 +1,5 @@
 import React from "react"
+import { withPrefix } from 'gatsby'
 import { Container, Grid } from '@material-ui/core'
 import SEO from '../components/SEO'
 import Menu from '../components/Menu'
@@ -13,7 +14,7 @@ const SinglePage = (e) => {
 			<SEO
 				title={`Murilo Polese - ${page.title}`}
 				description={page.description}
-				image={page.image}
+				image={withPrefix(page.image)}
 			/>
 			<Grid container direction="column">
 				<Grid item><Menu /></Grid>
