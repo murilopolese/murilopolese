@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "WebREPL on ESP32"
 categories: buildlog
 excerpt: "If the WebREPL just worked for the ESP32… Oh, well... Now it works!"

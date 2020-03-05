@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Microcosmic Journal 2017-2019"
 cover: "https://i.imgur.com/rvpeuxd.jpg"
 excerpt: "Experiments with microscopy and taxonomy of protists. Maybe I can even call it my hobby."

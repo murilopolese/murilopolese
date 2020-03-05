@@ -1,8 +1,7 @@
 ---
-layout: post
 title: "Fabulous remote control"
 categories: buildlog
-cover: '/buildlogs/rccars.png'
+cover: '/buildlogs/rccars.jpg'
 excerpt: "Revisiting one of my favourite childhood game but as a grown up kid."
 ---
 
