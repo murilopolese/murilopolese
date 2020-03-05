@@ -12,9 +12,11 @@ async function getContent(contentPath) {
 	return files.map((file, i) => {
 		try {
 			let md = frontmatter(file)
+			let date = dir[i].split('-').slice(0, 3)
 			return {
 				content: md.content,
 				file: { name: dir[i], content: file },
+				date: date,
 				...md.data
 			}
 		} catch (e) {
