@@ -9,22 +9,14 @@
     "start": "npm run develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "deploy-gh": "gatsby build --prefix-paths && gh-pages -d public",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+    "deploy-gh": "gatsby build --prefix-paths && gh-pages -d public"
   },
   "dependencies": {
     "@material-ui/core": "^4.7.0",
     "@material-ui/styles": "^4.7.1",
-    "@strawbees/s3-publisher": "^0.2.0",
     "dotenv": "^8.2.0",
     "frontmatter": "0.0.3",
     "gatsby": "^2.18.4",
-    "gatsby-plugin-manifest": "^2.2.30",
-    "gatsby-plugin-material-ui": "^2.1.6",
-    "gatsby-plugin-offline": "^3.0.24",
-    "gatsby-plugin-react-helmet": "^3.1.16",
-    "gatsby-plugin-remove-serviceworker": "^1.0.0",
-    "gatsby-source-filesystem": "^2.1.39",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-helmet": "^5.2.1",
@@ -46,6 +38,10 @@
   },
   "homepage": "https://github.com/murilopolese/murilopolese#readme",
   "devDependencies": {
-    "gh-pages": "^2.2.0"
+    "gh-pages": "^2.2.0",
+    "@strawbees/s3-publisher": "^0.2.0",
+    "gatsby-plugin-material-ui": "^2.1.6",
+    "gatsby-plugin-react-helmet": "^3.1.16",
+    "gatsby-source-filesystem": "^2.1.39"
   }
 }
