@@ -39,7 +39,6 @@
   "homepage": "https://github.com/murilopolese/murilopolese#readme",
   "devDependencies": {
     "gh-pages": "^2.2.0",
-    "@strawbees/s3-publisher": "^0.2.0",
     "gatsby-plugin-material-ui": "^2.1.6",
     "gatsby-plugin-react-helmet": "^3.1.16",
     "gatsby-source-filesystem": "^2.1.39"
