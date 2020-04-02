@@ -1,7 +1,7 @@
 let pathPrefix = '/murilopolese'
 let siteUrl = 'https://murilopolese.github.io'
-// let pathPrefix = '/'
-// let siteUrl = 'http://localhost:9000'
+// let pathPrefix = '/public'
+// let siteUrl = 'http://localhost:8080'
 
 module.exports = {
 	pathPrefix: pathPrefix,
