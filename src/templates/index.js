@@ -1,8 +1,9 @@
 import React from 'react'
-import { Link, withPrefix } from 'gatsby'
+import { Link } from 'gatsby'
 import { Container, Grid, Box } from '@material-ui/core'
 import SEO from '../components/SEO'
 import Menu from '../components/Menu'
+import withPrefix from '../utils/prefix'
 
 import mdToReact from '../utils/mdToReact'
 import '../globalStyles.css'
@@ -29,7 +30,7 @@ const IndexPage = (e) => {
 							<Box className="thumbnail" key={i}>
 								<Link to={p.path}>
 									<h3>{p.date.join('-')}: {p.title}</h3>
-									{p.cover ? <img src={p.cover} alt={p.title} /> : ''}
+									{p.cover ? <img src={withPrefix(p.cover)} alt={p.title} /> : ''}
 								</Link>
 								<p>{p.excerpt}</p>
 								<p><Link to={p.path}>Read more</Link></p>

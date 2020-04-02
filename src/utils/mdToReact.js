@@ -1,7 +1,8 @@
 import React from "react"
-import { Link, withPrefix } from 'gatsby'
+import { Link } from 'gatsby'
 import { Box } from '@material-ui/core'
 import Youtube from '../components/Youtube.js'
+import withPrefix from '../utils/prefix'
 
 import unified from 'unified'
 import markdown from 'remark-parse'
@@ -13,7 +14,7 @@ function MyImage(props) {
 	if (props.src.indexOf('http') !== -1) {
 		return (
 			<Box py={1} display="inline-block" align="center" width="100%">
-				<img src={props.src} alt={props.alt} />
+				<img src={withPrefix(props.src)} alt={props.alt} />
 			</Box>
 		)
 	} else {
