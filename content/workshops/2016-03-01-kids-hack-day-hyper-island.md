@@ -10,8 +10,4 @@ The event was drop in and lasted for the whole day. It consisted of an open spac
 
 ![](/workshops/khd-2016-03_01.jpg)
 
-<div class="video">
-    <figure>
-        <iframe width="640" height="480" src="//www.youtube.com/embed/NAYQZ68pAg0" allowfullscreen></iframe>
-    </figure>
-</div>
+<iframe width="640" height="480" src="//www.youtube.com/embed/NAYQZ68pAg0" allowfullscreen></iframe>

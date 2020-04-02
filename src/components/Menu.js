@@ -12,6 +12,7 @@ const Menu = function(props) {
 				</Grid>
 				<Grid item>
 					<div id="menu">
+						<Box mx={1} component="span"><Link to="/cv">CV</Link></Box>
 						<Box mx={1} component="span"><Link to="/workshops">WORKSHOPS</Link></Box>
 						<Box mx={1} component="span"><Link to="/developer">DEV</Link></Box>
 						<Box mx={1} component="span"><Link to="/buildlogs">LOGS</Link></Box>

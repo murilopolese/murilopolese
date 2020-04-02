@@ -12,8 +12,4 @@ At the time I was working at Quirkbot, developing content and curriculum activit
 ![](/workshops/khd-for-adults-2016-03_02.jpg)
 ![](/workshops/khd-for-adults-2016-03_03.jpg)
 
-<div class="video">
-    <figure>
-        <iframe width="640" height="480" src="//www.youtube.com/embed/IbrmV32dptE" allowfullscreen></iframe>
-    </figure>
-</div>
+<iframe width="640" height="480" src="//www.youtube.com/embed/IbrmV32dptE" allowfullscreen></iframe>

@@ -12,8 +12,4 @@ This time we still used Processing and Makey Makeys but we also used Arduinos fo
 
 ![](/workshops/berghs-2014-10_01.jpg)
 
-<div class="video">
-    <figure>
-        <iframe width="640" height="480" src="//www.youtube.com/embed/-uB4NsL3Kbg" allowfullscreen></iframe>
-    </figure>
-</div>
+<iframe width="640" height="480" src="//www.youtube.com/embed/-uB4NsL3Kbg" allowfullscreen></iframe>

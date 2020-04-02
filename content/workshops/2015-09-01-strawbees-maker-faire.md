@@ -14,14 +14,5 @@ During the event, our booth functioned as a drop in, building party. Anyone coul
 
 ![](/workshops/strawbees-makerfaire-2015-10_01.jpg)
 
-<div class="video">
-    <figure>
-        <iframe width="640" height="480" src="//www.youtube.com/embed/HdjJwpAghwg" allowfullscreen></iframe>
-    </figure>
-</div>
-
-<div class="video">
-    <figure>
-        <iframe width="640" height="480" src="//www.youtube.com/embed/fKLIDv6dUl0" allowfullscreen></iframe>
-    </figure>
-</div>
+<iframe width="640" height="480" src="//www.youtube.com/embed/HdjJwpAghwg" allowfullscreen></iframe>
+<iframe width="640" height="480" src="//www.youtube.com/embed/fKLIDv6dUl0" allowfullscreen></iframe>

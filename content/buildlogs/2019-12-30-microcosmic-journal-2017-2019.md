@@ -4,11 +4,11 @@ cover: "https://i.imgur.com/rvpeuxd.jpg"
 excerpt: "Experiments with microscopy and taxonomy of protists. Maybe I can even call it my hobby."
 ---
 
+![Hairy head of a creature with two anthenas and 2 eyes that seems to be looking straight to the camera](https://i.imgur.com/rvpeuxd.jpg)
+
 > I have been experimenting a lot with microscopy and taxonomy of protists lately, maybe even calling it my hobby.  It's been almost 2 years I got my hands on a 10 pound pocket microscope and I have learned a lot about techniques to take pictures, what looks cool, collected insights, some of the best reactions when people realize, sometimes for the first time, the world is a freaking beautiful and complex place and once you have seen it, it's hard to unsee.
 
 After I found out that a pocket microscope with 120x magnification wouldn't cost me more than 20 pounds I got my hands on the cheapest option of all, I was really in doubt if I would be able to see any thing. It was actually great and looking at wood, skin, fabric, insects, the red, green and blue leds that make a pixel and printed paper was absolutely mindblowing. Some things would come with this really trippy crystal light beams. I also managed with a heroic effort to make a video of a cell moving on some dirt! This was actually what hooked me on.
-
-![Hairy head of a creature with two anthenas and 2 eyes that seems to be looking straight to the camera](https://i.imgur.com/rvpeuxd.jpg)
 
 ![Bright yellow marshmellow like structures attached to dark purple stem with light purple background](https://i.imgur.com/dQF8nZQ.jpg)
 
@@ -44,16 +44,16 @@ Moving around with that contraption sucks so looking at quickly moving creatures
 
 Videos of diverse creatures moving around:
 
-- [https://i.imgur.com/oPI5FUT.mp4](https://i.imgur.com/oPI5FUT.mp4)
-- [https://i.imgur.com/nWjKlX2.mp4](https://i.imgur.com/nWjKlX2.mp4)
-- [https://i.imgur.com/SEh5xTh.mp4](https://i.imgur.com/SEh5xTh.mp4)
-- [https://i.imgur.com/kFSrUsj.mp4](https://i.imgur.com/kFSrUsj.mp4)
-- [https://i.imgur.com/6rEH7kS.mp4](https://i.imgur.com/6rEH7kS.mp4)
-- [https://i.imgur.com/YZN2eXs.mp4](https://i.imgur.com/YZN2eXs.mp4)
-- [https://i.imgur.com/ikGOzwM.mp4](https://i.imgur.com/ikGOzwM.mp4)
-- [https://i.imgur.com/xyWbcmD.mp4](https://i.imgur.com/xyWbcmD.mp4)
-- [https://i.imgur.com/bEs1EzE.mp4](https://i.imgur.com/bEs1EzE.mp4)
-- [https://i.imgur.com/OCsetfN.mp4](https://i.imgur.com/OCsetfN.mp4)
+<iframe src="https://i.imgur.com/oPI5FUT.mp4" height="500px"></iframe>
+<iframe src="https://i.imgur.com/nWjKlX2.mp4" height="500px"></iframe>
+<iframe src="https://i.imgur.com/SEh5xTh.mp4" height="500px"></iframe>
+<iframe src="https://i.imgur.com/kFSrUsj.mp4" height="500px"></iframe>
+<iframe src="https://i.imgur.com/6rEH7kS.mp4" height="500px"></iframe>
+<iframe src="https://i.imgur.com/YZN2eXs.mp4" height="500px"></iframe>
+<iframe src="https://i.imgur.com/ikGOzwM.mp4" height="500px"></iframe>
+<iframe src="https://i.imgur.com/xyWbcmD.mp4" height="500px"></iframe>
+<iframe src="https://i.imgur.com/bEs1EzE.mp4" height="500px"></iframe>
+<iframe src="https://i.imgur.com/OCsetfN.mp4" height="500px"></iframe>
 
 People really have mixed feelings about being able to see this, some get really happy and emotional, some get into a psychonaut journey with the microscope and other think everything is disgusting. Some people I think never get to learn how to use the focus and are ashamed to admit so they give it back without making the characteristic sound someone makes when they see whatever on microscope: UUUUUHHHH!!!!! It doesn't matter if you give it back and don't really get excited or if you totally dig it, that sound is a reliabe threshold.
 

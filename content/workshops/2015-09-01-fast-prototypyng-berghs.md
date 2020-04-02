@@ -12,10 +12,6 @@ This time was no much different from the previous two, except we took out the fo
 ![](/workshops/berghs-2015-10_03.jpg)
 ![](/workshops/berghs-2015-10_02.jpg)
 
-<div class="video">
-    <figure>
-        <iframe width="640" height="480" src="//www.youtube.com/embed/vo51YZVkbDc" allowfullscreen></iframe>
-    </figure>
-</div>
+<iframe src="//www.youtube.com/embed/vo51YZVkbDc"></iframe>
 
 And [this is the source code](https://github.com/murilopolese/DesignitMakeyGo) for the Makey Makey Go "clone" we've made.

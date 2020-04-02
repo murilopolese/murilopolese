@@ -3,10 +3,10 @@ const fs = require('fs').promises
 const resolve = require('path').resolve
 
 async function getContent(contentPath) {
-	let activityDir = resolve('./content', contentPath)
-	let dir = await fs.readdir(activityDir)
+	let content = resolve('./content', contentPath)
+	let dir = await fs.readdir(content)
 	let filesPromise = dir.map(async (path) => {
-		return await fs.readFile(resolve(activityDir, path), 'utf8')
+		return await fs.readFile(resolve(content, path), 'utf8')
 	})
 	let files = await Promise.all(filesPromise)
 	return files.map((file, i) => {
@@ -46,37 +46,49 @@ exports.createPages = async function(e) {
 	// Sort posts by filename desc
 	buildlog.sort()
 	buildlog.reverse()
-	buildlog.forEach(function(post) {
+	buildlog.forEach(function(post, i) {
+		let prevPage = buildlog.slice(i-1, i)[0]
+		let nextPage = buildlog.slice(i+1, i+2)[0]
 		console.log('creating page', `/buildlog/${createPath(post)}`)
 		createPage({ // Index pages
 			path: `/buildlog/${createPath(post)}`,
 			component: require.resolve('./src/templates/page.js'),
 			context: {
-				page: post
+				page: post,
+				prevPage,
+				nextPage
 			}
 		})
 	})
 	dev.sort()
 	dev.reverse()
-	dev.forEach(function(post) {
+	dev.forEach(function(post, i) {
+		let prevPage = dev.slice(i-1, i)[0]
+		let nextPage = dev.slice(i+1, i+2)[0]
 		console.log('creating page', `/dev/${createPath(post)}`)
-		createPage({ // Index pages
+		createPage({
 			path: `/dev/${createPath(post)}`,
 			component: require.resolve('./src/templates/page.js'),
 			context: {
-				page: post
+				page: post,
+				prevPage,
+				nextPage
 			}
 		})
 	})
 	workshop.sort()
 	workshop.reverse()
-	workshop.forEach(function(post) {
+	workshop.forEach(function(post, i) {
+		let prevPage = workshop.slice(i-1, i)[0]
+		let nextPage = workshop.slice(i+1, i+2)[0]
 		console.log('creating page', `/workshop/${createPath(post)}`)
-		createPage({ // Index pages
+		createPage({
 			path: `/workshop/${createPath(post)}`,
 			component: require.resolve('./src/templates/page.js'),
 			context: {
-				page: post
+				page: post,
+				prevPage,
+				nextPage
 			}
 		})
 	})

@@ -1,5 +1,7 @@
 import React from "react"
 import { Link, withPrefix } from 'gatsby'
+import { Box } from '@material-ui/core'
+import Youtube from '../components/Youtube.js'
 
 import unified from 'unified'
 import markdown from 'remark-parse'
@@ -9,9 +11,17 @@ import raw from 'rehype-raw'
 
 function MyImage(props) {
 	if (props.src.indexOf('http') !== -1) {
-		return <img src={props.src} alt={props.alt} />
+		return (
+			<Box py={1} display="inline-block" align="center" width="100%">
+				<img src={props.src} alt={props.alt} />
+			</Box>
+		)
 	} else {
-		return <img src={withPrefix(props.src)} alt={props.alt} />
+		return (
+			<Box py={1} display="inline-block" align="center" width="100%">
+				<img src={withPrefix(props.src)} alt={props.alt} />
+			</Box>
+		)
 	}
 }
 function MyLink(props) {
@@ -22,6 +32,37 @@ function MyLink(props) {
 	}
 }
 
+function MyIframe(props) {
+	if (props.src.indexOf('youtube') !== -1) {
+		return (
+			<Box py={2}>
+				<Youtube url={props.src} />
+			</Box>
+		)
+	} else if (props.src.indexOf('vimeo') !== -1) {
+		return (
+			<Box py={2} >
+				<iframe src={props.src}
+					width="890" height="500" frameBorder="0"
+					allow="autoplay; fullscreen" allowFullScreen />
+			</Box>
+		)
+	} else if (props.src.indexOf('.mp4') !== -1) {
+		return (
+			<Box py={2} align="center">
+				<video width={props.width} height={props.height || 500} controls>
+					<source src={props.src} type="video/mp4" />
+					Your browser does not support the video tag. Watch the video
+					<a href={props.src} target="_blank" rel="noopener noreferer">here</a> instead.
+				</video>
+			</Box>
+		)
+	} else {
+		return <iframe {...props} />
+	}
+}
+
+
 let processor = unified()
 	.use(markdown)
 	.use(remark2rehype, { allowDangerousHTML: true })
@@ -31,6 +72,7 @@ let processor = unified()
 		components: {
 			a: MyLink,
 			img: MyImage,
+			iframe: MyIframe
 		}
 	})
 

@@ -10,13 +10,13 @@ But it would also provide me a much more interactive way to experiment with the 
 
 The lower entry point at that time was to run LUA on an ESP8266. I went on DXtreme and bought myself 3 modules of the NodeMCU prototyping board.
 
-![](/buildlogs/nodemcu_yellow.jpg){:class="small-image"}
+![](/buildlogs/nodemcu_yellow.jpg)
 
 As expected, it took 2+ months to arrive and when it arrived I was already into something else so it took me a little while to actually turn them on for the first time. When I did I was already thinking about flashing MicroPython on the board because I thought Python would be much more useful to learn than LUA. But the more I read about MicroPython the less I bothered with trying more than the blinky example in LUA. And the main reason for that was this feature called: WebREPL.
 
 This blew my mind, I was trying to figure out how to run interpreted languages on MicroProcessors over **SERIAL USB** and now I just found out I can do that over **WebSockets**. WOW!
 
-![](/buildlogs/mindblown.gif){:class="small-image"}
+![](/buildlogs/mindblown.gif)
 
 So the way I tested if for the first time was beautiful. After flashing with the esptool, which was fairly simple, the firmware at that time came with WebREPL activated by default so once I connected on wifi (the first things I did, even before blinky), I went to this wonderful, wonderful website: [http://micropython.org/webrepl/](http://micropython.org/webrepl/).
 
