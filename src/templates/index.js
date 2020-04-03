@@ -23,7 +23,7 @@ const IndexPage = (e) => {
 				<Grid item><Menu /></Grid>
 				<Grid item><h2>{page.title}</h2></Grid>
 				<Grid item>{mdToReact(page.content)}</Grid>
-				<Grid item container spacing={3}>
+				<Grid item container spacing={5}>
 				{posts.map((p, i) => {
 					return (
 						<Grid item xs={12} md={6}>
