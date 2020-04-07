@@ -29,7 +29,7 @@ const IndexPage = (e) => {
 						<Grid item xs={12} md={6}>
 							<Box className="thumbnail" key={i}>
 								<Link to={p.path}>
-									<h3>{p.date.join('-').slice(0, 2)}: {p.title}</h3>
+									<h3>{p.date.join('-')}: {p.title}</h3>
 									{p.cover ? <img src={withPrefix(p.cover)} alt={p.title} /> : ''}
 								</Link>
 								<p>{p.excerpt}</p>
