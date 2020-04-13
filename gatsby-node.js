@@ -25,7 +25,7 @@ async function getContent(contentPath) {
 	})
 }
 
-function createPath(post) {
+function createSlug(post) {
 	// Remove .md extension and split by -
 	let parsedName = post.file.name.slice(0, -3).split('-')
 	let year = parsedName[0]
@@ -38,80 +38,17 @@ function createPath(post) {
 exports.createPages = async function(e) {
 	const createPage = e.actions.createPage
 	const pages = await getContent('pages')
+	const content = {
+		'project': await getContent('projects'),
+		'workshop': await getContent('workshops'),
+		'blog': await getContent('blog')
+	}
 
-	const buildlog = await getContent('buildlogs')
-	const dev = await getContent('dev')
-	const workshop = await getContent('workshops')
-
-	// Sort posts by filename desc
-	buildlog.sort()
-	buildlog.reverse()
-	buildlog.forEach(function(post, i) {
-		let prevPage = buildlog.slice(i-1, i)[0]
-		let nextPage = buildlog.slice(i+1, i+2)[0]
-		console.log('creating page', `/buildlog/${createPath(post)}`)
-		createPage({ // Index pages
-			path: `/buildlog/${createPath(post)}`,
-			component: require.resolve('./src/templates/page.js'),
-			context: {
-				page: post,
-				prevPage,
-				nextPage
-			}
-		})
-	})
-	dev.sort()
-	dev.reverse()
-	dev.forEach(function(post, i) {
-		let prevPage = dev.slice(i-1, i)[0]
-		let nextPage = dev.slice(i+1, i+2)[0]
-		console.log('creating page', `/dev/${createPath(post)}`)
-		createPage({
-			path: `/dev/${createPath(post)}`,
-			component: require.resolve('./src/templates/page.js'),
-			context: {
-				page: post,
-				prevPage,
-				nextPage
-			}
-		})
-	})
-	workshop.sort()
-	workshop.reverse()
-	workshop.forEach(function(post, i) {
-		let prevPage = workshop.slice(i-1, i)[0]
-		let nextPage = workshop.slice(i+1, i+2)[0]
-		console.log('creating page', `/workshop/${createPath(post)}`)
-		createPage({
-			path: `/workshop/${createPath(post)}`,
-			component: require.resolve('./src/templates/page.js'),
-			context: {
-				page: post,
-				prevPage,
-				nextPage
-			}
-		})
-	})
-
-	// Dictionary to aggregate on lists
-	const posts = { buildlog, dev, workshop }
+	// Creating pages
 	pages.forEach(function(page) {
 		console.log('creating page', page.path)
-		if (page.category) {
-			let categoryPosts = posts[page.category]
-			categoryPosts = categoryPosts.map((p) => {
-				p.path = `${page.category}/${createPath(p)}`
-				return p
-			})
-			createPage({ // Index pages
-				path: page.file.name.slice(0, -3),
-				component: require.resolve('./src/templates/index.js'),
-				context: {
-					page: page,
-					posts: categoryPosts
-				}
-			})
-		} else {
+		// If page doesn't have category, render single page template
+		if (!page.category) {
 			createPage({ // Pages
 				path: page.path,
 				component: require.resolve('./src/templates/page.js'),
@@ -119,6 +56,49 @@ exports.createPages = async function(e) {
 					page: page
 				}
 			})
+		} else {
+			/*
+			If page has category, render the index template with the posts
+			from content dictionary
+			*/
+			let categoryPosts = content[page.category] || []
+			categoryPosts = categoryPosts.map((p) => {
+				p.path = `${page.category}/${createSlug(p)}`
+				return p
+			})
+			categoryPosts.sort()
+			categoryPosts.reverse()
+			createPage({ // Index pages
+				path: page.path,
+				component: require.resolve('./src/templates/index.js'),
+				context: {
+					page: page,
+					posts: categoryPosts
+				}
+			})
 		}
 	})
+
+	/*
+	Iterate over first level of content dictionary (category) and create the
+	single posts
+	*/
+	Object.keys(content).forEach((category) => {
+		let posts = content[category] || []
+		posts.forEach((post, i) => {
+			let prevPage = posts.slice(i-1, i)[0]
+			let nextPage = posts.slice(i+1, i+2)[0]
+			console.log('creating page', `/${category}/${createSlug(post)}`)
+			createPage({ // Index pages
+				path: `/${category}/${createSlug(post)}`,
+				component: require.resolve('./src/templates/page.js'),
+				context: {
+					page: post,
+					prevPage,
+					nextPage
+				}
+			})
+		})
+	})
+
 }

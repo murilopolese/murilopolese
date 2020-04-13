@@ -1,6 +1,5 @@
 ---
 title: "Webrepl.js"
-categories: buildlog
 excerpt: "Javascript library to interact with MicroPython WebREPL"
 ---
 

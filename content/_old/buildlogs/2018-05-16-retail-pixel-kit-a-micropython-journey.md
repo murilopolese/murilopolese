@@ -1,6 +1,5 @@
 ---
 title: "Retail Pixel Kit - A MicroPython Journey"
-categories: buildlog
 excerpt: "Retail Pixel Kit and it's a retail oriented redesign of the \"Kano 2\" Kickstarter Pixel Kit. It features the ESP32 as a replacement for the Banana Pi brains and it's a perfect MicroPython device!"
 ---
 
