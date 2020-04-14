@@ -6,9 +6,11 @@ import Menu from '../components/Menu'
 import Thumbnail from '../components/Thumbnail'
 
 import mdToReact from '../utils/mdToReact'
+import pluralize from '../utils/pluralize'
 import '../globalStyles.css'
 
 const SinglePage = (e) => {
+	const category = e.pageContext.category
 	const page = e.pageContext.page
 	const nextPage = e.pageContext.nextPage
 	const prevPage = e.pageContext.prevPage
@@ -25,6 +27,9 @@ const SinglePage = (e) => {
 				<Grid item>{mdToReact(page.content)}</Grid>
 				<Grid item><br /></Grid>
 				<Grid item container spacing={3}>
+					<Grid item xs={12} align="center">
+						<h3>More {pluralize(category)}</h3>
+					</Grid>
 					<Grid item xs={12} md={6}>
 						{prevPage ? <Thumbnail {...prevPage} /> : null}
 					</Grid>

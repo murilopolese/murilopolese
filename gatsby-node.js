@@ -94,6 +94,7 @@ exports.createPages = async function(e) {
 				component: require.resolve('./src/templates/page.js'),
 				context: {
 					page: post,
+					category,
 					prevPage,
 					nextPage
 				}
