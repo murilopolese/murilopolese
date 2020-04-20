@@ -3,7 +3,7 @@ path: '/cv'
 title: 'CV'
 ---
 
-I started studying Physics in 2007 at my hometown’s university (UFES). There I did internships working as an educator in a after school program and science museum, both targeting children in social risk. I also got involved with the modeling laboratory where I helped to develop software simulations to be used by teachers in classroom as more and more projectors were available. Eventually I dropped the course and became a developer due to the financial pressure of being a teacher in Brazil.
+I started studying Physics in 2007 at my hometown’s university (UFES). There I did internships working as an educator in a after school program and science museum, both targeting children in social risk. I also got involved with the modeling laboratory where they developed software simulations to be used by teachers and students in classroom, in times where projectors were starting to arrive in the classrooms. Eventually I dropped the course and became a developer due to the financial pressures of being a teacher in Brazil. To everyone who persisted: You are my heroes.
 
 <div style="display:flex; align-items: center; justify-content: space-between;">
 
@@ -37,17 +37,22 @@ In 2017 I moved to London where I worked for a company called [Kano](https://kan
 
 In 2019 I went back to work (and play) with my beloved friends at [Strawbees](https://strawbees.com/) where I play different roles developing software and content with educational focus.
 
-![](/strawbees_team.jpg)
 
-<div style="display:flex; align-items: center; justify-content: space-around;">
+<div style="display:flex; align-items: center; justify-content: center;">
 
-<div style="width:30%">
+<div style="width:30%; margin: 0 10px;">
 
 ![](/muris.jpg)
 
 </div>
 
-<div style="width:30%">
+<div style="width:40%; margin: 0 10px;">
+
+![](/strawbees_team.jpg)
+
+</div>
+
+<div style="width:30%; margin: 0 10px;">
 
 ![](/muris_strawbees.jpg)
 
@@ -55,8 +60,12 @@ In 2019 I went back to work (and play) with my beloved friends at [Strawbees](ht
 
 </div>
 
+<div style="text-align: center">
+
 If you are smiling after reading this, please get in touch and let's have a chat!
 
 :)
 
 [Github](https://github.com/murilopolese) / [Email](maito:murilopolese+dotcom@gmail.com) / [Twitter](https://twitter.com/murilopolese) / [Instagram](https://instagram.com/murilopolese)
+
+</div>

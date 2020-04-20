@@ -2,6 +2,8 @@
 title: "Kids Hack Day: Club (2015 - 2016)"
 cover: '/workshops/khd-club-2015_01.jpg'
 excerpt: "Following the success of 2014’s Summer Camp, we decided to go further and establish a Kids Hack Day Club that ran initially from Makerspark's basement, then moved to a few rooms at Stadsgården and finally to Stockholm Makerspace, in 2016."
+tags:
+- '2015'
 ---
 
 Following the success of [2014’s Summer Camp]("/workshop/2014-06-kids-hack-day-summer-camp), we decided to go further and establish a Kids Hack Day Club that ran initially from Makerspark's basement, then moved to a few rooms at Stadsgården and finally to Stockholm Makerspace, in 2016.

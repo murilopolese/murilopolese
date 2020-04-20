@@ -2,6 +2,8 @@
 title: "Fast Prototyping: Bergs September 2015"
 cover: '/workshops/berghs-2015-10_01.jpg'
 excerpt: "Yet again my friend Paulo Barcelos and I got invited to lecture at Berghs School of Communication for a mixed of students from different courses about the process and techniques to bring ideas to reality through fast and constant prototyping."
+tags:
+- '2015'
 ---
 
 Yet again my friend [Paulo Barcelos](https://www.linkedin.com/in/paulobarcelos/) and I got invited to lecture at Berghs School of Communication for a mixed of students from different courses about the process and techniques to bring ideas to reality through fast and constant prototyping.

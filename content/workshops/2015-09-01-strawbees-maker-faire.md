@@ -2,6 +2,8 @@
 title: "Strawbees: Makers Faire NY September 2015"
 cover: '/workshops/strawbees-makerfaire-2015-10_01.jpg'
 excerpt: "During the days I joined the 2015 Maker Faire as part of the Strawbees gang, we set a booth next to the gift shop and had a lot of fun, apart from business and marketing related activities."
+tags:
+- '2015'
 ---
 
 During the days I joined the 2015 Maker Faire as part of the Strawbees gang, we set a booth next to the gift shop and had a lot of fun, apart from business and marketing related activities.

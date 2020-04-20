@@ -2,6 +2,8 @@
 title: "Quirkbot Robot Race: FabLab@School March 2015"
 cover: '/workshops/quirkbot-2015-03_01.jpg'
 excerpt: "I went to Vejle to join a national conference of schools who had or wanted to have a FabLab at their schools. We ran a workshop with a classic Quirkbot activity: build a moving creature with Strawbees and a pre-programmed Quirkbot in 20 to 30 minutes. After the creatures were built, we suggested a few competitions like races or battles, so participants could interact with each other's creations."
+tags:
+- '2015'
 ---
 
 I went to Vejle with [Carl Bärstad](https://www.linkedin.com/in/carlbarstad/) to join a national conference of schools who had or wanted to have a FabLab at their schools. We ran a workshop with a classic Quirkbot activity: build a moving creature with Strawbees and a pre-programmed Quirkbot in 20 to 30 minutes. After the creatures were built, we suggested a few competitions like races or battles, so participants could interact with each other's creations.

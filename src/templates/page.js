@@ -28,7 +28,7 @@ const SinglePage = (e) => {
 				<Grid item><br /></Grid>
 				<Grid item container spacing={3}>
 					<Grid item xs={12} align="center">
-						<h3>More {pluralize(category)}</h3>
+						{category ? <h3>Other {pluralize(category)}</h3> : null}
 					</Grid>
 					<Grid item xs={12} md={6}>
 						{prevPage ? <Thumbnail {...prevPage} /> : null}

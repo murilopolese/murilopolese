@@ -2,6 +2,8 @@
 title: "Kids Hack Day: KHD For Adults March and April 2016"
 cover: '/workshops/khd-for-adults-2016-03_01.jpg'
 excerpt: "After we hosted Kids Hack Day Hyper Island a lot of people came to us to ask about Kids Hack Day Club and other events. We noticed a lot of parents, educators and curious grown ups asking about event they could attend as well. Since Kids Hack Day was mainly focused on the younger ones, we decide to create a special event, more adult-oriented."
+tags:
+- '2016'
 ---
 
 After we hosted [Kids Hack Day Hyper Island](/workshop/2016-03-kids-hack-day-hyper-island) a lot of people came to us to ask about Kids Hack Day Club and other events. We noticed a lot of parents, educators and curious grown ups asking about event they could attend as well. Since Kids Hack Day was mainly focused on the younger ones, we decide to create a special event, more adult-oriented.

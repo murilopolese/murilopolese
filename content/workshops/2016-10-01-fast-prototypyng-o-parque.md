@@ -2,6 +2,8 @@
 title: "Fast Prototyping: O Parque October 2016"
 cover: '/workshops/oparque-2016-10_01.jpg'
 excerpt: "While I was back home in Brazil for a while I did a one month residency at O Parque, a creative hub, coworking space and studio. There, I interacted with many creative professionals from street artists to local brands on a daily basis, experimenting and understanding how people would see and interact with the tools and approach to technology I was proposing."
+tags:
+- '2016'
 ---
 
 While I was back home in Brazil for a while I did a one month residency at [O Parque](http://www.oparque.com.br/), a creative hub, coworking space and studio. There, I interacted with many creative professionals from street artists to local brands on a daily basis, experimenting and understanding how people would see and interact with the tools and approach to technology I was proposing.

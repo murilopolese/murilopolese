@@ -2,6 +2,8 @@
 title: "Strawbees: Paide May 2015"
 cover: '/workshops/strawbees-2015-05_01.jpg'
 excerpt: "I was invited through Makerspark and Pixelache to give a Strawbees workshop at Paide, in Estonia during a gathering to advertise a residency program on the city’s community center. When I got there I was amazed by the strength of the ideas people were articulating around there."
+tags:
+- '2015'
 ---
 
 I was invited through Makerspark and [Pixelache](https://pixelache.ac/) to give a Strawbees workshop at Paide, in Estonia during a gathering to advertise a residency program on the city’s community center. When I got there I was amazed by the strength of the ideas people were articulating around there.

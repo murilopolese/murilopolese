@@ -2,6 +2,8 @@
 title: "Kids Hack Day London"
 cover: '/workshops/khd2_1.jpg'
 excerpt: "2019 I had the pleasure to co-organize the first and second Kids Hack Day in London. They were two beautiful and inspiring days with children, parents, volunteers and passing by curious having a good time being curious and building things."
+tags:
+- '2019'
 ---
 <iframe width="890" height="500" src="https://www.youtube-nocookie.com/embed/aYqIuhzOemI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

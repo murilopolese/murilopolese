@@ -2,6 +2,9 @@
 title: "Urbanears Pigeon Bingo"
 excerpt: "Urbanears Pigeon Bingo was a bingo style game where pigeons shit on the washable headphones to call the numbers."
 cover: '/dev/pigeon-bingo.jpg'
+tags:
+- 'web'
+- 'interactive'
 ---
 
 <iframe src="https://player.vimeo.com/video/117785141?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

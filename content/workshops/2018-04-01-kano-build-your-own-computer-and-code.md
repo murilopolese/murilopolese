@@ -2,6 +2,8 @@
 title: "Kano: Build your computer and code"
 cover: '/workshops/kano-build-your-computer-2018-04_01.jpg'
 excerpt: "After the last workshop, my friend Taylor and I gave at Poplar Union we decided to explore more specifically the Kano range of products since they weren’t as performant as expected on a building scenario. These new workshops would focus on how to present the app Make Art (that comes on the KanoOS) in a way we could introduce a more complex language."
+tags:
+- '2018'
 ---
 
 ![](/workshops/kano-build-your-computer-2018-04_01.jpg)

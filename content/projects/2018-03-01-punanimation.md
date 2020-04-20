@@ -2,6 +2,8 @@
 title: "Punanimation Directory"
 excerpt: "Punanimation is a community with over 2000 women, trans and non-binary friends from all over the world, working within the many different fields and specializations of animation and motion graphics."
 cover: '/dev/punanimation-directory.png'
+tags:
+- 'web'
 ---
 
 ![](/dev/punanimation-directory.png)

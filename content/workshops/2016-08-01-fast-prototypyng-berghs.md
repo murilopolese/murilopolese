@@ -2,6 +2,8 @@
 title: "Fast Prototyping: Berghs August 2016"
 cover: '/workshops/berghs-2016-08_01.jpg'
 excerpt: "Joe Coppard invited my friend Paulo Barcelos and me to give a lecture about techniques and tools for rapid prototyping to another class at Berghs School of Communication. This time we updated the content and tools to focus even more on how to integrate and hack new technologies introduced into students creative workflow."
+tags:
+- '2016'
 ---
 
 [Joe](http://www.anothertomorrow.io/) invited my friend [Paulo](https://www.linkedin.com/in/paulobarcelos/) and I to give a lecture about techniques and tools for rapid prototyping to another class at Berghs School of Communication. This time we updated the content and tools to focus even more on how to integrate and hack new technologies introduced into students creative workflow.
