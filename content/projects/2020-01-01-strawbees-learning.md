@@ -4,7 +4,7 @@ cover: "strawbeeslearning.png"
 excerpt: "Strawbees Learning is an oasis for innovative teachers who embrace creative thinking and hands-on learning with Strawbees."
 tags:
 - 'web'
-- 'hardware'
+- 'research'
 ---
 
 <iframe width="890" height="550" src="https://www.youtube-nocookie.com/embed/Wh8MHh-Vzbw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
