@@ -86,8 +86,17 @@ exports.createPages = async function(e) {
 	Object.keys(content).forEach((category) => {
 		let posts = content[category] || []
 		posts.forEach((post, i) => {
-			let prevPage = posts.slice(i-1, i)[0]
-			let nextPage = posts.slice(i+1, i+2)[0]
+			let prevPage, nextPage
+			if (i == posts.length-1) { // last
+				prevPage = posts[i-1]
+				nextPage = posts[i-2]
+			} else if (i == 0) { // first
+				prevPage = posts[i+1]
+				nextPage = posts[i+2]
+			} else {
+				prevPage = posts[i-1]
+				nextPage = posts[i+1]
+			}
 			console.log('creating page', `/${category}/${createSlug(post)}`)
 			createPage({ // Index pages
 				path: `/${category}/${createSlug(post)}`,
