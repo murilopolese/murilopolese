@@ -1,6 +1,6 @@
 ---
 title: "New Year's Experiment"
-cover: "https://static1.squarespace.com/static/55c63ae6e4b06ae6eeb73710/t/5c4f23456d2a73c5a05b007b/1548690416364/newyears.gif?format=1000w"
+cover: "new-years-experiment.gif"
 excerpt: "Using a 3D printer to print frames of a stop motion animation."
 tags:
 - 'animated'
