@@ -8,7 +8,10 @@ tags:
 - 'interactive'
 ---
 
+*Disclaimer: The [actual interaction](https://superbeast.herokuapp.com/) is much smoother than in the video.*
+
 <iframe width="890" height="550" src="https://www.youtube-nocookie.com/embed/WqblcNuzV-Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 In April 2020 I have worked with [SuperBeast](https://superbeast.co) on an interactive logo for the cover for their home page. This project was a real pleasure to work on, mixing the right amount of creative freedom and tight art direction.
 
