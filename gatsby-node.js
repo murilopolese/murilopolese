@@ -1,23 +1,25 @@
 const frontmatter = require('frontmatter')
 const fs = require('fs').promises
 const resolve = require('path').resolve
+const graphql = require('graphql')
 
 async function getContent(contentPath) {
 	let content = resolve('./content', contentPath)
 	let dir = await fs.readdir(content)
-	let filesPromise = dir.map(async (path) => {
+	let filesPromise = dir.map(async function(path) {
 		return await fs.readFile(resolve(content, path), 'utf8')
 	})
 	let files = await Promise.all(filesPromise)
-	return files.map((file, i) => {
+	return files.map(function(file, i) {
 		try {
 			let md = frontmatter(file)
+			// Messed up way to get dates from filename
 			let date = dir[i].split('-').slice(0, 2)
 			return {
-				content: md.content,
-				file: { name: dir[i], content: file },
+				file: { name: dir[i], content: file }, // Original file
 				date: date,
-				...md.data
+				content: md.content, // Markdown content (raw text format)
+				...md.data // front matter meta data
 			}
 		} catch (e) {
 			console.log("error parsing markdown", e)
@@ -35,8 +37,55 @@ function createSlug(post) {
 	return `${year}-${month}-${title}`
 }
 
+async function getAllImages(graphql) {
+	return await graphql(`
+	{
+		allFile(filter: {extension: {ne: "md"}}) {
+			nodes {
+				relativePath
+				publicURL
+				childImageSharp {
+					fixed(width:420) {
+						tracedSVG
+						width
+						height
+						src
+						srcSet
+					}
+					fluid(maxWidth: 920) {
+						tracedSVG
+						aspectRatio
+						src
+						srcSet
+						sizes
+					}
+				}
+			}
+		}
+	}
+`)
+}
+
 exports.createPages = async function(e) {
 	const createPage = e.actions.createPage
+	const graphql = e.graphql
+
+	const query = await getAllImages(graphql)
+	const imageNodes = query.data.allFile.nodes
+	const images = imageNodes.reduce(
+		function(acc, node) {
+			if (node.childImageSharp) {
+				acc[node.relativePath] = node.childImageSharp
+			} else {
+				acc[node.relativePath] = {
+					src: node.publicURL
+				}
+			}
+			return acc
+		},
+		{}
+	)
+
 	const pages = await getContent('pages')
 	const content = {
 		'project': await getContent('projects'),
@@ -53,7 +102,8 @@ exports.createPages = async function(e) {
 				path: page.path,
 				component: require.resolve('./src/templates/page.js'),
 				context: {
-					page: page
+					page: page,
+					images: images
 				}
 			})
 		} else {
@@ -62,7 +112,7 @@ exports.createPages = async function(e) {
 			from content dictionary
 			*/
 			let categoryPosts = content[page.category] || []
-			categoryPosts = categoryPosts.map((p) => {
+			categoryPosts = categoryPosts.map(function(p) {
 				p.path = `${page.category}/${createSlug(p)}`
 				return p
 			})
@@ -73,7 +123,8 @@ exports.createPages = async function(e) {
 				component: require.resolve('./src/templates/index.js'),
 				context: {
 					page: page,
-					posts: categoryPosts
+					posts: categoryPosts,
+					images: images
 				}
 			})
 		}
@@ -83,9 +134,9 @@ exports.createPages = async function(e) {
 	Iterate over first level of content dictionary (category) and create the
 	single posts
 	*/
-	Object.keys(content).forEach((category) => {
+	Object.keys(content).forEach(function(category) {
 		let posts = content[category] || []
-		posts.forEach((post, i) => {
+		posts.forEach(function(post, i) {
 			let prevPage, nextPage
 			if (i == posts.length-1) { // last
 				prevPage = posts[i-1]
@@ -103,9 +154,10 @@ exports.createPages = async function(e) {
 				component: require.resolve('./src/templates/page.js'),
 				context: {
 					page: post,
-					category,
-					prevPage,
-					nextPage
+					category: category,
+					prevPage: prevPage,
+					nextPage: nextPage,
+					images: images
 				}
 			})
 		})

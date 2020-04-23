@@ -1,6 +1,6 @@
 ---
 title: "Microcosmic Journals"
-cover: "https://i.imgur.com/7khaoNa.jpg"
+cover: "/microcosmos.jpg"
 excerpt: "I keep a collection of dirty water from different sources carefully prepared for maximum fun under the microscope. Eventually I record new and weird things I see living inside these water."
 ---
 

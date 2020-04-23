@@ -1,8 +1,10 @@
 import React from "react"
 import { Link } from 'gatsby'
+import Img from 'gatsby-image'
 import { Box } from '@material-ui/core'
 import Youtube from '../components/Youtube.js'
-import withPrefix from '../utils/prefix'
+import withPrefix from './prefix'
+import getImage from './getImage'
 
 import unified from 'unified'
 import markdown from 'remark-parse'
@@ -11,9 +13,16 @@ import rehype2react from 'rehype-react'
 import raw from 'rehype-raw'
 
 function MyImage(props) {
+	let src = props.src
+	let images = props.images || {}
+	let image = getImage(images, src, 'fluid')
 	return (
 		<Box py={1} display="inline-block" align="center" width="100%">
-			<img src={withPrefix(props.src)} alt={props.alt} />
+			{
+				image
+				? <Img alt={props.alt} fluid={image} />
+				: <img alt={props.alt} src={props.src} />
+			}
 		</Box>
 	)
 }
@@ -24,7 +33,6 @@ function MyLink(props) {
 		return <Link to={props.href} {...props}>{props.children}</Link>
 	}
 }
-
 function MyIframe(props) {
 	if (props.src.indexOf('youtube') !== -1) {
 		return (
@@ -56,21 +64,23 @@ function MyIframe(props) {
 }
 
 
-let processor = unified()
-	.use(markdown)
-	.use(remark2rehype, { allowDangerousHTML: true })
-	.use(raw)
-	.use(rehype2react, {
-		createElement: React.createElement,
-		components: {
-			a: MyLink,
-			img: MyImage,
-			iframe: MyIframe
-		}
-	})
-
-function mdToReact(md) {
+function mdToReact(md, images) {
+	let processor = unified()
+		.use(markdown)
+		.use(remark2rehype, { allowDangerousHTML: true })
+		.use(raw)
+		.use(rehype2react, {
+			createElement: React.createElement,
+			components: {
+				a: MyLink,
+				img: (props) => <MyImage images={images} {...props} />,
+				iframe: MyIframe
+			}
+		})
 	return processor.processSync(md).contents
 }
+
+// function mdToReact(md, images) {
+// }
 
 export default mdToReact
