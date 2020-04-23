@@ -4,6 +4,7 @@ excerpt: "I worked with a ridiculously talented team from Serious Business on a 
 cover: '/dev/reykjavik-fashion-festival.png'
 tags:
 - 'animated'
+- 'interactive'
 ---
 
 ![](/dev/reykjavik-fashion-festival.png)

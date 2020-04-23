@@ -60,12 +60,4 @@ In 2019 I went back to work (and play) with my beloved friends at [Strawbees](ht
 
 </div>
 
-<div style="text-align: center">
-
-If you are smiling after reading this, please get in touch and let's have a chat!
-
-:)
-
 [Github](https://github.com/murilopolese) / [Email](maito:murilopolese+dotcom@gmail.com) / [Twitter](https://twitter.com/murilopolese) / [Instagram](https://instagram.com/murilopolese)
-
-</div>
