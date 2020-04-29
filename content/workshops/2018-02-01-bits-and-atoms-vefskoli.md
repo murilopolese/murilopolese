@@ -16,6 +16,24 @@ The course was all about the journey electricity does from the browser to the bo
 
 Naturally, students and teachers found where their major interest was during in the journey and were able to deeper understand something they were curious about or find out entirely new worlds to explore.
 
+<div style="display:flex; align-items: center; justify-content: space-between;">
+
+<div style="width:30%">
+
 ![](/workshops/bits-and-atoms-2018-02_01.jpg)
-![](/workshops/bits-and-atoms-2018-02_02.jpg)
+
+</div>
+
+<div style="width:30%">
+
 ![](/workshops/bits-and-atoms-2018-02_03.jpg)
+
+</div>
+
+<div style="width:30%">
+
+![](/workshops/bits-and-atoms-2018-02_02.jpg)
+
+</div>
+
+</div>

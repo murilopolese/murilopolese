@@ -45,14 +45,14 @@ async function getAllImages(graphql) {
 				relativePath
 				publicURL
 				childImageSharp {
-					fixed(width:420) {
+					fixed(width: 420, quality: 100) {
 						tracedSVG
 						width
 						height
 						src
 						srcSet
 					}
-					fluid(maxWidth: 920) {
+					fluid(maxWidth: 920, quality: 100) {
 						tracedSVG
 						aspectRatio
 						src

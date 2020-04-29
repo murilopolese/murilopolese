@@ -12,6 +12,22 @@ import remark2rehype from 'remark-rehype'
 import rehype2react from 'rehype-react'
 import raw from 'rehype-raw'
 
+function NonStretchedImage(props) {
+  let normalizedProps = props
+  if (props.fluid && props.fluid.presentationWidth) {
+    normalizedProps = {
+      ...props,
+      style: {
+        ...(props.style || {}),
+        maxWidth: props.fluid.presentationWidth,
+        margin: "0 auto", // Used to center the image
+      },
+    }
+  }
+
+  return <Img {...normalizedProps} />
+}
+
 function MyImage(props) {
 	let src = props.src
 	let images = props.images || {}
@@ -20,7 +36,7 @@ function MyImage(props) {
 		<Box py={1} display="inline-block" align="center" width="100%">
 			{
 				image
-				? <Img alt={props.alt} fluid={image} />
+				? <NonStretchedImage alt={props.alt} fluid={image} />
 				: <img alt={props.alt} src={props.src} />
 			}
 		</Box>
