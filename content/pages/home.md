@@ -1,6 +1,6 @@
 ---
 path: '/'
-title: ''
+title: 'Home page'
 ---
 
 <div style="padding: 0 20%;">
