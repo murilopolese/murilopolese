@@ -60,6 +60,6 @@ In 2019 I went back to work (and play) with my beloved friends at [Strawbees](ht
 
 </div>
 
-Right now I'm looking for new work related opportunities, meaningful collaborations and learning.
+I'm actively looking for new work related opportunities, meaningful collaborations and learning experiences.
 
 [Github](https://github.com/murilopolese) / [Email](maito:murilopolese+dotcom@gmail.com) / [Twitter](https://twitter.com/murilopolese) / [Instagram](https://instagram.com/murilopolese)
