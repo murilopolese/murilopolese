@@ -10,7 +10,9 @@ I felt and still feeling like a gong that has been banged for 10 weeks in a row:
 
 During the course I documented the recreations in a repository that has physical objects, pdfs, electronics and sketches made with p5js and openFrameworks. All source code and research documents are there too if you want to browse the content. I also wrote weekly about the artists and the process on [Scuttlebutt](https://viewer.scuttlebot.io/@NcgzCoOPLjSkj9Y+GIMFbhxbqIzJCOwYBn/QQDYAOmk=.ed25519) (and there I also write about everything else).
 
-[https://murilopolese.github.io/RTP_SFPC_SUMMER20/](https://murilopolese.github.io/RTP_SFPC_SUMMER20/)
+Class repository: [https://murilopolese.github.io/RTP_SFPC_SUMMER20/](https://murilopolese.github.io/RTP_SFPC_SUMMER20/)
+
+You can also see some of the recreations running on the browser: [https://murilopolese.github.io/gallery](https://murilopolese.github.io/gallery)
 
 <iframe width="890" height="500" src="https://www.youtube-nocookie.com/embed/Hamc3hDBP2k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

@@ -1,11 +1,11 @@
 ---
 path: '/'
-title: 'Home page'
+title: ''
 ---
 
 <div style="padding: 0 20%;">
 
-![](/muris_draw.jpg)
+![](/murilism.jpg)
 
 </div>
 

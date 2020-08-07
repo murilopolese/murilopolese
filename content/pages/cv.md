@@ -1,6 +1,6 @@
 ---
 path: '/cv'
-title: 'CV'
+title: 'A bit of my history'
 ---
 
 I started studying Physics in 2007 at my hometown’s university (UFES). There I did internships working as an educator in a after school program and science museum, both targeting children in social risk. I also got involved with the modeling laboratory where they developed software simulations to be used by teachers and students in classroom in times when projectors were starting to arrive in the classrooms. Eventually I dropped the course and became a developer due to the financial pressures of being a teacher in Brazil.

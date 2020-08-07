@@ -9,7 +9,7 @@ const Thumbnail = ({path, date, cover, title, excerpt, images}) => {
 	let resizedImage = getImage(images, cover, 'fixed')
 	let Image = ''
 	if (resizedImage) {
-		Image = <Img fixed={resizedImage} alt={title} />
+		Image = <Img fixed={resizedImage} alt={title} align="center" />
 	} else if (cover) {
 		let originalImage = images[cover]
 		if (originalImage) {

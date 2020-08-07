@@ -1,5 +1,7 @@
-let pathPrefix = '/murilopolese'
-let siteUrl = 'https://murilopolese.github.io'
+let pathPrefix = '/'
+let siteUrl = 'http://murilopolese.com'
+// let pathPrefix = '/murilopolese'
+// let siteUrl = 'https://murilopolese.github.io'
 // let pathPrefix = '/public'
 // let siteUrl = 'http://localhost:8080'
 

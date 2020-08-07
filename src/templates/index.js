@@ -90,7 +90,7 @@ const IndexPage = (e) => {
 						onClick={toggleTag}
 						/>
 				</Grid>
-				<Grid item container spacing={5}>
+				<Grid item container spacing={5} alignItems="center">
 				{filteredPosts.map((p, i) => {
 					return (
 						<Grid item xs={12} md={6}>
