@@ -50,7 +50,9 @@ function SEO({ description, lang, meta, title, image }) {
 			link={[
 					{ rel: "icon", type: "image/png", href: `${favicon}` }
 				]}
-		/>
+		>
+		<script async defer data-website-id="981e504f-9b11-4611-b323-3acddfde0c08" src="http://umami.bananabanana.me/umami.js"></script>
+		</Helmet>
 	)
 }
 
