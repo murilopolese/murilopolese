@@ -1,6 +1,6 @@
 ---
 title: "Super Beast Interactive Logo"
-cover: "superbeast.png"
+cover: "/superbeast.png"
 excerpt: "SuperBeast is your lean and mean creative partner. For the past 8 years they've been pioneering and perfecting a radically streamlined way to supercharge their client's marketing."
 tags:
 - 'web'
@@ -10,7 +10,7 @@ tags:
 
 *Disclaimer: The [actual interaction](https://superbeast.herokuapp.com/) is smoother than in any exported video.*
 
-![](superbeast.png)
+![](/superbeast.png)
 
 In April 2020 I have worked with [Super Beast](https://superbeast.co) on an interactive logo for the cover for their home page. This project was a real pleasure to work on, mixing the right amount of creative freedom and tight art direction.
 

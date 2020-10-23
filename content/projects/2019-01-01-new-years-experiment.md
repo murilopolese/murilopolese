@@ -1,6 +1,6 @@
 ---
 title: "New Year's Experiment"
-cover: "new-years-experiment.gif"
+cover: "/new-years-experiment.gif"
 excerpt: "Using a 3D printer to print frames of a stop motion animation."
 tags:
 - 'animated'

@@ -1,6 +1,10 @@
 @font-face { font-family: 'Inconsolata'; src: url('./fonts/Inconsolata-Regular.ttf') format('truetype'); font-weight: 400; font-style: normal; }
 @font-face { font-family: 'Inconsolata'; src: url('./fonts/Inconsolata-Bold.ttf') format('truetype'); font-weight: 700; font-style: bold; }
 
+* {
+	box-sizing: border-box;
+}
+
 body {
 	margin: 0;
 	padding: 0;
@@ -21,6 +25,10 @@ h1, h2, h3, h4, h5 {
 	line-height: 1.1em;
 }
 
+p, iframe {
+	margin: 0.5em 0;
+}
+
 a:link, a:visited, a:active {
 	font-weight: normal;
 	text-decoration: none;
@@ -29,6 +37,38 @@ a:link, a:visited, a:active {
 a:hover {
 	text-decoration: underline;
 }
+
+.container {
+	margin: 0 auto;
+	max-width: 960px;
+	display: flex;
+	flex-direction: column;
+	padding: 0 1.5em 5em 0;
+}
+
+#header {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-between;
+	margin-bottom: 1em;
+}
+@media (max-width: 640px) {
+	#header {
+		flex-direction: column;
+	}
+}
+
+#header .menu ul {
+	display: flex;
+	flex-direction: row;
+	list-style: none;
+}
+
+#header .menu ul li {
+	padding: 0 0.5em;
+}
+
 #header a:link,
 #header a:hover,
 #header a:visited,
@@ -36,16 +76,31 @@ a:hover {
 	color: #333;
 	font-weight: bold;
 }
-#menu a:link,
-#menu a:hover,
-#menu a:visited,
-#menu a:active {
+#header .menu a:link,
+#header .menu a:hover,
+#header .menu a:visited,
+#header .menu a:active {
 	text-transform: uppercase;
 	font-size: 1.2rem;
 	letter-spacing: 3.5px;
+	color: #9da0a2;
+	font-weight: 400;
+}
+
+.list {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	align-items: flex-start;
 }
 .thumbnail {
-	max-width: 740px;
+	width: 50%;
+	padding: 1em;
+}
+@media (max-width: 640px) {
+	.thumbnail {
+		width: 100%;
+	}
 }
 .thumbnail a:link,
 .thumbnail a:active,
@@ -55,7 +110,7 @@ a:hover {
 	font-weight: bold;
 }
 
-.grid > p {
+.grid p {
 	display: flex;
 	flex-direction: row;
 	flex-wrap: wrap;

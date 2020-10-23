@@ -1,11 +1,13 @@
 ---
-path: '/'
-title: ''
+title: 'Hello!'
+description: 'This is the home page'
+thumbnail: '/murilism.jpg'
+type: 'page'
 ---
 
-<div style="padding: 0 20%;">
+<div style="padding: 0 20%; margin-bottom: 1em;">
 
-![](/murilism.jpg)
+![Drawing of me by Bee](/murilism.jpg)
 
 </div>
 
@@ -13,7 +15,7 @@ title: ''
 
 I am profoundly interested in learning experiences and technology. But I'm equally interested in music and drawing machines.
 
-<div style="text-align: center">
+<div style="text-align: center;">
 
 If you are smiling after reading this, please get in touch and let's have a chat!
 
