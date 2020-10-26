@@ -3,3 +3,10 @@
 Hey! This is my personal website.
 
 Check [murilopolese.com](http://www.murilopolese.com) to see how it looks like.
+
+
+TODO:
+- Image resizing
+  - Thumbnail
+  - Giant images
+- Tags

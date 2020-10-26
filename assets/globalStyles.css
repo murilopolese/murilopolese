@@ -19,6 +19,7 @@ body {
 
 img {
 	max-width: 100%;
+	width: 100%;
 }
 
 h1, h2, h3, h4, h5 {
@@ -27,6 +28,10 @@ h1, h2, h3, h4, h5 {
 
 p, iframe {
 	margin: 0.5em 0;
+}
+
+iframe {
+	transition: all 0.5s;
 }
 
 a:link, a:visited, a:active {
@@ -43,7 +48,7 @@ a:hover {
 	max-width: 960px;
 	display: flex;
 	flex-direction: column;
-	padding: 0 1.5em 5em 0;
+	padding: 0 32px 32px 32px;
 }
 
 #header {
