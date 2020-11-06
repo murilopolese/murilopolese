@@ -18,6 +18,7 @@ function parseMarkdown(filePath) {
     thumbnail: data.attributes.thumbnail,
     cover: data.attributes.cover,
     type: data.attributes.type,
+    tags: data.attributes.tags,
     html: marked(data.body)
   }
 }

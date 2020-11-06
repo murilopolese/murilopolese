@@ -115,8 +115,38 @@ a:hover {
 	font-weight: bold;
 }
 
+.thumbnail.hidden {
+	display: none;
+}
+
 .grid p {
 	display: flex;
 	flex-direction: row;
 	flex-wrap: wrap;
+}
+
+.tag-list {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+button.tag-button {
+	font-size: 0.8em;
+	font-family: inherit;
+	border: none;
+	outline: none;
+	border-radius: 1em;
+	background: white;
+	color: black;
+	padding: 0.5em 0.8em;
+	margin: 0 0.25em;
+	cursor: pointer;
+	transition: all 0.15s;
+}
+
+button.tag-button.selected {
+	background: black;
+	color: white;
+	font-weight: bold;
 }

@@ -9,8 +9,43 @@ function resizeIframes() {
     }
   }
 }
+
+function handleTagButtons() {
+  let tagButtons = document.querySelectorAll('.tag-button')
+  tagButtons.forEach(function(button) {
+    button.addEventListener('click', function(e) {
+      let b = e.target
+      let tag = b.attributes['data-tag'] ? b.attributes['data-tag'].value : null
+      if (b.classList.contains('selected')) {
+        button.classList.remove('selected')
+        filterContent(null)
+      } else {
+        tagButtons.forEach(function(button) {
+          button.classList.remove('selected')
+        })
+        b.classList.add('selected')
+        filterContent(tag)
+      }
+    })
+  })
+}
+
+function filterContent(tag) {
+  let listItems = document.querySelectorAll('.thumbnail')
+  listItems.forEach(function(item) {
+    if (!tag) {
+      item.classList.remove('hidden')
+    } else if (item.classList.contains(`tag-${tag}`)) {
+      item.classList.remove('hidden')
+    } else {
+      item.classList.add('hidden')
+    }
+  })
+}
+
 window.onload = function() {
   resizeIframes()
+  handleTagButtons()
 }
 
 window.onresize = function() {
