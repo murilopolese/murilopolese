@@ -42,7 +42,7 @@ function renderTags(posts) {
   }, {})
   return Object.keys(tags).map(function(tagName) {
     return `
-      <button class="tag-button" data-tag=${tagName}>${tagName} (${tags[tagName]})</button>
+      <button class="tag-button" data-tag=${tagName}>${tagName}</button>
     `
   }).join('')
 }
