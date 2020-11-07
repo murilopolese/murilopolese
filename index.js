@@ -6,6 +6,8 @@ const createPage = require('./src/createPage.js')
 const createIndex = require('./src/createIndex.js')
 const makeURL = require('./src/makeURL.js')
 
+const processImages = require('./src/processImages.js')
+
 function getPrevious(array, category, i) {
   const previous = array[(array.length + i - 1) % array.length]
   return {
@@ -23,7 +25,8 @@ function getNext(array, category, i) {
 }
 
 cleanBuildFolder()
-.then(function() { return moveFolder('./media', './build') })
+.then(function() { return processImages('./media', './processed_media') })
+.then(function() { return moveFolder('./processed_media', './build') })
 .then(function() { return moveFolder('./assets', './build') })
 .then(function() {
   // Create single pages
@@ -63,5 +66,5 @@ cleanBuildFolder()
   })
 })
 .catch(function(error) {
-  console.log(error)
+  console.log('error', error)
 })

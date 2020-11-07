@@ -15,10 +15,16 @@ function renderThumbnails(pagePath, posts) {
             return `tag-${tagName}`
           }).join(' ')
         }
+        let thumbImage = post.cover
+        if (post.cover.indexOf('/') === 0) {
+          thumbImage = `/thumb_${thumbImage.substring(1)}`
+        } else {
+          thumbImage = `/thumb_${thumbImage}`
+        }
         return `
           <div class="thumbnail ${tags}">
             <h3><a href="/${url}">${date}: ${post.title}</a></h3>
-            <p><a href="/${url}"><img src="${post.cover}" alt="${post.title}" /></a></p>
+            <p><a href="/${url}"><img src="${thumbImage}" alt="${post.title}" /></a></p>
             <p>${post.excerpt}</p>
           </div>
         `
