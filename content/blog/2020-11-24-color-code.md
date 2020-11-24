@@ -50,127 +50,127 @@ My answers are so far are: 7, interactive animations and yes!
 
 <div style="width: 12.5%; padding: 1%;">
 
-[![](http://colorcode.bananabanana.me/v3/stories/animationfinn.png)](http://colorcode.bananabanana.me/v3/#story-0)
+[![](/colorcode/animationfinn.png)](http://colorcode.bananabanana.me/v3/#story-0)
 
 </div>
 
 <div style="width: 12.5%; padding: 1%;">
 
-[![](http://colorcode.bananabanana.me/v3/stories/animationmonster.png)](http://colorcode.bananabanana.me/v3/#story-1)
+[![](/colorcode/animationmonster.png)](http://colorcode.bananabanana.me/v3/#story-1)
 
 </div>
 
 <div style="width: 12.5%; padding: 1%;">
 
-[![](http://colorcode.bananabanana.me/v3/stories/breakout.png)](http://colorcode.bananabanana.me/v3/#story-2)
+[![](/colorcode/breakout.png)](http://colorcode.bananabanana.me/v3/#story-2)
 
 </div>
 
 <div style="width: 12.5%; padding: 1%;">
 
-[![](http://colorcode.bananabanana.me/v3/stories/fluidsimulation.png)](http://colorcode.bananabanana.me/v3/#story-3)
+[![](/colorcode/fluidsimulation.png)](http://colorcode.bananabanana.me/v3/#story-3)
 
 </div>
 
 <div style="width: 12.5%; padding: 1%;">
 
-[![](http://colorcode.bananabanana.me/v3/stories/protopacman.png)](http://colorcode.bananabanana.me/v3/#story-4)
+[![](/colorcode/protopacman.png)](http://colorcode.bananabanana.me/v3/#story-4)
 
 </div>
 
 <div style="width: 12.5%; padding: 1%;">
 
-[![](http://colorcode.bananabanana.me/v3/stories/shootkaboom.png)](http://colorcode.bananabanana.me/v3/#story-5)
+[![](/colorcode/shootkaboom.png)](http://colorcode.bananabanana.me/v3/#story-5)
 
 </div>
 
 <div style="width: 12.5%; padding: 1%;">
 
-[![](http://colorcode.bananabanana.me/v3/stories/wireworld.png)](http://colorcode.bananabanana.me/v3/#story-6)
+[![](/colorcode/wireworld.png)](http://colorcode.bananabanana.me/v3/#story-6)
 
 </div>
 
 <div style="width: 12.5%; padding: 1%;">
 
-[![](http://colorcode.bananabanana.me/v3/stories/fallcolors.png)](http://colorcode.bananabanana.me/v3/#story-7)
+[![](/colorcode/fallcolors.png)](http://colorcode.bananabanana.me/v3/#story-7)
 
 </div>
 
 <div style="width: 12.5%; padding: 1%;">
 
-[![](http://colorcode.bananabanana.me/v3/stories/rogue.png)](http://colorcode.bananabanana.me/v3/#story-8)
+[![](/colorcode/rogue.png)](http://colorcode.bananabanana.me/v3/#story-8)
 
 </div>
 
 <div style="width: 12.5%; padding: 1%;">
 
-[![](http://colorcode.bananabanana.me/v3/stories/stairs.png)](http://colorcode.bananabanana.me/v3/#story-9)
+[![](/colorcode/stairs.png)](http://colorcode.bananabanana.me/v3/#story-9)
 
 </div>
 
 <div style="width: 12.5%; padding: 1%;">
 
-[![](http://colorcode.bananabanana.me/v3/stories/pixelinvader.png)](http://colorcode.bananabanana.me/v3/#story-10)
+[![](/colorcode/pixelinvader.png)](http://colorcode.bananabanana.me/v3/#story-10)
 
 </div>
 
 <div style="width: 12.5%; padding: 1%;">
 
-[![](http://colorcode.bananabanana.me/v3/stories/snake.png)](http://colorcode.bananabanana.me/v3/#story-11)
+[![](/colorcode/snake.png)](http://colorcode.bananabanana.me/v3/#story-11)
 
 </div>
 
 <div style="width: 12.5%; padding: 1%;">
 
-[![](http://colorcode.bananabanana.me/v3/stories/boulder.png)](http://colorcode.bananabanana.me/v3/#story-12)
+[![](/colorcode/boulder.png)](http://colorcode.bananabanana.me/v3/#story-12)
 
 </div>
 
 <div style="width: 12.5%; padding: 1%;">
 
-[![](http://colorcode.bananabanana.me/v3/stories/trampoline.png)](http://colorcode.bananabanana.me/v3/#story-13)
+[![](/colorcode/trampoline.png)](http://colorcode.bananabanana.me/v3/#story-13)
 
 </div>
 
 <div style="width: 12.5%; padding: 1%;">
 
-[![](http://colorcode.bananabanana.me/v3/stories/fireinthesky.png)](http://colorcode.bananabanana.me/v3/#story-14)
+[![](/colorcode/fireinthesky.png)](http://colorcode.bananabanana.me/v3/#story-14)
 
 </div>
 
 <div style="width: 12.5%; padding: 1%;">
 
-[![](http://colorcode.bananabanana.me/v3/stories/rainbow.png)](http://colorcode.bananabanana.me/v3/#story-15)
+[![](/colorcode/rainbow.png)](http://colorcode.bananabanana.me/v3/#story-15)
 
 </div>
 
 <div style="width: 12.5%; padding: 1%;">
 
-[![](http://colorcode.bananabanana.me/v3/stories/pong2.png)](http://colorcode.bananabanana.me/v3/#story-16)
+[![](/colorcode/pong2.png)](http://colorcode.bananabanana.me/v3/#story-16)
 
 </div>
 
 <div style="width: 12.5%; padding: 1%;">
 
-[![](http://colorcode.bananabanana.me/v3/stories/duel.png)](http://colorcode.bananabanana.me/v3/#story-17)
+[![](/colorcode/duel.png)](http://colorcode.bananabanana.me/v3/#story-17)
 
 </div>
 
 <div style="width: 12.5%; padding: 1%;">
 
-[![](http://colorcode.bananabanana.me/v3/stories/burningfractal.png)](http://colorcode.bananabanana.me/v3/#story-18)
+[![](/colorcode/burningfractal.png)](http://colorcode.bananabanana.me/v3/#story-18)
 
 </div>
 
 <div style="width: 12.5%; padding: 1%;">
 
-[![](http://colorcode.bananabanana.me/v3/stories/tangledforest.png)](http://colorcode.bananabanana.me/v3/#story-19)
+[![](/colorcode/tangledforest.png)](http://colorcode.bananabanana.me/v3/#story-19)
 
 </div>
 
 <div style="width: 12.5%; padding: 1%;">
 
-[![](http://colorcode.bananabanana.me/v3/stories/rollingpixel.png)](http://colorcode.bananabanana.me/v3/#story-20)
+[![](/colorcode/rollingpixel.png)](http://colorcode.bananabanana.me/v3/#story-20)
 
 </div>
 
