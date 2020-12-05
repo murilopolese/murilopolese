@@ -96,7 +96,4 @@ function mdToReact(md, images) {
 	return processor.processSync(md).contents
 }
 
-// function mdToReact(md, images) {
-// }
-
 export default mdToReact

@@ -60,3 +60,10 @@ a:hover {
 	flex-direction: row;
 	flex-wrap: wrap;
 }
+
+pre {
+	font-size: 0.8em;
+	padding: 1rem;
+	background-color: #eee;
+	overflow-x: scroll;
+}

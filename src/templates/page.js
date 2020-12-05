@@ -26,7 +26,7 @@ const SinglePage = (e) => {
 			<Grid container direction="column">
 				<Grid item><Menu /></Grid>
 				<Grid item><h2>{page.title}</h2></Grid>
-				<Grid item>{mdToReact(page.content, images)}</Grid>
+				<Grid item style={{width: '100%', maxWidth: 960}}>{mdToReact(page.content, images)}</Grid>
 				<Grid item><br /></Grid>
 				<Grid item container spacing={3}>
 					<Grid item xs={12} align="center">
