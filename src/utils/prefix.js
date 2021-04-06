@@ -1,4 +1,3 @@
-import React from 'react'
 import { withPrefix } from 'gatsby'
 
 // Appends local prefix if not an absolute path

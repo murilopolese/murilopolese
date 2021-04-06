@@ -3,7 +3,6 @@ import { Link } from 'gatsby'
 import Img from 'gatsby-image'
 import { Box } from '@material-ui/core'
 import Youtube from '../components/Youtube.js'
-import withPrefix from './prefix'
 import getImage from './getImage'
 
 import unified from 'unified'
