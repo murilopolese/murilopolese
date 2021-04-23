@@ -10,9 +10,9 @@ tags:
 
 We gathered at [Blivande](http://www.blivande.com) to have a little bit of a play and test session for an app I'm working with: The [Makey Makey Sampler](https://makeymakey.com/sampler).
 
-I have done workshops around and involving using objects of our daily lives as computer interface. During those workshops a wide range of experiences are explored: Playing games, drawing, improving workflow and making sounds.
+In the past I have done workshops around using objects of our daily lives as computer interface. During those workshops a wide range of experiences are explored: Playing games, drawing, improving workflow and making sounds.
 
-Because of my underlying goal to test the application I'm working on this workshop was centred around music and triggering sounds.
+Because of my underlying goal to test the sampler app, this workshop was centred around music and triggering sounds.
 
 Most people who came in had never touched a Makey Makey before yet they have all been able to inspect and explore the material and its potential for musicality.
 
