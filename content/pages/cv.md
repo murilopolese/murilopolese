@@ -62,6 +62,10 @@ In 2019 I went back to work (and play) with my beloved friends at [Strawbees](ht
 
 In 2020 I had the honour and pleasure to meet and work with [JoyLabz](https://joylabz.com/), one of the companies that most sparked my interest in prototyping, education and technology as well as becoming [literate on the world of inventions that surround us](https://www.ted.com/talks/jay_silver_hack_a_banana_make_a_keyboard).
 
+In 2021 I joined [Blivande](https://blivande.com) house and community, where I participate on this experiment in stewarding and cultivating a co-created, participatory and self-sustaining ecosystem. Always becoming!
+
+![](/blivande.jpg)
+
 I'm actively looking for new, meaningful collaboration opportunities, connections and learning experiences.
 
 [Github](https://github.com/murilopolese) / [Email](maito:murilopolese+dotcom@gmail.com) / [Twitter](https://twitter.com/murilopolese) / [Instagram](https://instagram.com/murilopolese)
