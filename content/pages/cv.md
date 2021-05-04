@@ -1,7 +1,13 @@
 ---
 path: '/cv'
-title: 'A bit of my history'
+title: ''
 ---
+
+**Short version:**
+
+I have worked as full stack software developer, creative technologist, consultant and leading R&D projects for the past 10+ years. I have experience developing interactive media for art installations, advertisement campaigns as well as developing and maintaining robust systems, databases, embedded software and infrastructure. For the past 5 years I leveraged on my training as Physics teacher and focused on my real passion: Empowering through playful education. I worked with companies such as Kano, Quirkbot, Strawbees and JoyLabz. I also participate, run and am an ambassador of Science Hack Day and Kids Hack Day hackathons.
+
+**Long version:**
 
 I started studying Physics in 2007 at my hometown’s university (UFES). There I did internships working as an educator in a after school program and science museum, both targeting children in social risk. I also got involved with the modeling laboratory where they developed software simulations to be used by teachers and students in classroom in times when projectors were starting to arrive in the classrooms. Eventually I dropped the course and became a developer due to the financial pressures of being a teacher in Brazil.
 
@@ -68,4 +74,4 @@ In 2021 I joined [Blivande](https://blivande.com) house and community, where I p
 
 I'm actively looking for new, meaningful collaboration opportunities, connections and learning experiences.
 
-[Github](https://github.com/murilopolese) / [Email](maito:murilopolese+dotcom@gmail.com) / [Twitter](https://twitter.com/murilopolese) / [Instagram](https://instagram.com/murilopolese)
+[Github](https://github.com/murilopolese) / [Email](mailto:murilopolese+dotcom@gmail.com) / [Twitter](https://twitter.com/murilopolese) / [Instagram](https://instagram.com/murilopolese)

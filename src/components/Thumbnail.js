@@ -1,8 +1,7 @@
 import React from 'react'
 import { Link } from 'gatsby'
 import Img from 'gatsby-image'
-import { Container, Grid, Box } from '@material-ui/core'
-import withPrefix from '../utils/prefix'
+import { Box } from '@material-ui/core'
 import getImage from '../utils/getImage'
 
 const Thumbnail = ({path, date, cover, title, excerpt, images}) => {

@@ -9,10 +9,9 @@ function getImage(images, path, variant) {
 	switch (variant) {
 		case 'fixed':
 			return image.fixed
-			break;
 		case 'fluid':
 		default:
-		return image.fluid
+			return image.fluid
 
 	}
 }

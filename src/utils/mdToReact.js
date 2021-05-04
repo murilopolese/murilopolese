@@ -44,6 +44,8 @@ function MyImage(props) {
 function MyLink(props) {
 	if (props.href.indexOf('http') !== -1) {
 		return <a target="_blank" refer="noreferer noopener" {...props}>{props.children}</a>
+	} else if (props.href.indexOf('mailto:') === 0) {
+    return <a target="_blank" refer="noreferer noopener" {...props}>{props.children}</a>
 	} else {
 		return <Link to={props.href} {...props}>{props.children}</Link>
 	}
@@ -58,7 +60,7 @@ function MyIframe(props) {
 	} else if (props.src.indexOf('vimeo') !== -1) {
 		return (
 			<Box py={2} >
-				<iframe src={props.src}
+				<iframe src={props.src} title={`vimeo-${props.src}`}
 					width="890" height="500" frameBorder="0"
 					allow="autoplay; fullscreen" allowFullScreen />
 			</Box>
@@ -69,7 +71,7 @@ function MyIframe(props) {
 				<video width={props.width} height={props.height || 500} controls>
 					<source src={props.src} type="video/mp4" />
 					Your browser does not support the video tag. Watch the video
-					<a href={props.src} target="_blank" rel="noopener noreferer">here</a> instead.
+					<a href={props.src} target="_blank" rel="noopener noreferrer">here</a> instead.
 				</video>
 			</Box>
 		)

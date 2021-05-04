@@ -1,6 +1,5 @@
 import React, { useState } from 'react'
-import { Link } from 'gatsby'
-import { Container, Grid, Box, Chip } from '@material-ui/core'
+import { Container, Grid, Chip } from '@material-ui/core'
 import SEO from '../components/SEO'
 import Menu from '../components/Menu'
 import Thumbnail from '../components/Thumbnail'
@@ -65,7 +64,7 @@ const IndexPage = (e) => {
 		}
 	})
 	const toggleTag = (tag) => {
-		if (selectedTag != tag) {
+		if (selectedTag !== tag) {
 			setSelectedTag(tag)
 		} else {
 			setSelectedTag(null)
