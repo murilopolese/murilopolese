@@ -11,7 +11,7 @@ title: ''
 
 **Hello! My name is Murilo, I am a Brazilian technologist** (or a full stack developer if you prefer).
 
-I am profoundly interested in learning experiences and technology. But I'm equally interested in music and drawing machines.
+I am profoundly interested in learning experiences and technology. But I'm equally interested in music, microscope and drawing machines.
 
 <div style="text-align: center">
 
