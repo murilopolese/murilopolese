@@ -1,5 +1,5 @@
 ---
-title: "Kids Hack Day: Hyper Island March 2016"
+title: "Kids Hack Day: Hyper Island"
 cover: '/workshops/khd-2016-03_01.jpg'
 excerpt: "After Hyper Island bought Quirkbot kits for prototyping and development of projects, students organized a Kids Hack Day with it. I joined the event with my friend Carl Bärstad as volunteer and consultant both training the students and helping to design the space."
 tags:

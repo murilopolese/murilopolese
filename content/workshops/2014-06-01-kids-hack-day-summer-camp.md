@@ -1,5 +1,5 @@
 ---
-title: "Kids Hack Day: Summer Camp June 2014"
+title: "Kids Hack Day: Summer Camp"
 cover: '/workshops/khd-2014-06_01.jpg'
 excerpt: "During early days of Kids Hack Day, the main format was “one day events”. As people kept asking for more and more about next events and the subscription list increased, I was invited to join the new format Kids Hack Day was trying out: Summer Camp."
 tags:
