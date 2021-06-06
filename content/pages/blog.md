@@ -4,4 +4,4 @@ title: 'Building Log'
 category: blog
 ---
 
-I like to build things out of atoms and bits and here are some logs from the things I build:
+I like to build things out of bits and atoms. Here are some logs from the things I do:
