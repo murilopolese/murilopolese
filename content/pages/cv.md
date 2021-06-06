@@ -5,7 +5,7 @@ title: ''
 
 **Short version:**
 
-I have worked as full stack software developer, creative technologist, consultant and leading R&D projects for the past 10+ years. I have experience developing interactive media for art installations, advertisement campaigns as well as developing and maintaining robust systems, databases, embedded software and infrastructure. For the past 5 years I leveraged on my training as Physics teacher and focused on my real passion: Empowering through playful education. I worked with companies such as Kano, Quirkbot, Strawbees and JoyLabz. I also participate, run and am an ambassador of Science Hack Day and Kids Hack Day hackathons.
+I have worked as full stack software developer, creative technologist, consultant and leading R&D projects for the past 10+ years. I have experience developing interactive media for art installations, advertisement campaigns as well as developing and maintaining robust systems, databases, embedded software and infrastructure. For the past 5 years I leveraged on my training as Physics teacher and focused on my real passion: Empowering through playful education. I worked with companies such as [Kano](https://kano.me), Quirkbot, [Strawbees](https://strawbees.com/) and [JoyLabz](https://joylabz.com/). I also participate, run and am an ambassador of [Science Hack Day](http://sciencehackday.org/ambassador/) and [Kids Hack Day](https://www.kidshackday.com/about) hackathons.
 
 **Long version:**
 
