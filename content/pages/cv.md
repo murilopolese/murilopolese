@@ -41,7 +41,7 @@ In 2014, I moved to Sweden where I worked as a creative technologist in a [digit
 
 In 2017 I moved to London where I worked for a company called [Kano](https://kano.me/), developing [desktop apps](https://kano.me/landing/app/uk), [website](https://world.kano.me/challenges) and [embed software](https://murilopolese.github.io/kano-pixel-kit-pixel32-docs/).
 
-In 2019 I went back to work (and play) with my beloved friends at [Strawbees](https://strawbees.com/) where I play different roles developing software and content with educational focus.
+In 2019 I went back to work (and play) with my beloved friends at [Strawbees](https://strawbees.com/) where I took different roles developing software and content with educational focus.
 
 
 <div style="display:flex; align-items: center; justify-content: center;">
@@ -66,7 +66,7 @@ In 2019 I went back to work (and play) with my beloved friends at [Strawbees](ht
 
 </div>
 
-In 2020 I had the honour and pleasure to meet and work with [JoyLabz](https://joylabz.com/), one of the companies that most sparked my interest in prototyping, education and technology as well as becoming [literate on the world of inventions that surround us](https://www.ted.com/talks/jay_silver_hack_a_banana_make_a_keyboard).
+In 2020 I had the honour and pleasure to work with [JoyLabz](https://joylabz.com/), one of the companies that most sparked my interest in prototyping, education and technology as well as becoming [literate on the world of inventions that surround us](https://www.ted.com/talks/jay_silver_hack_a_banana_make_a_keyboard).
 
 In 2021 I joined [Blivande](https://blivande.com) house and community, where I participate on this experiment in stewarding and cultivating a co-created, participatory and self-sustaining ecosystem. Always becoming!
 
