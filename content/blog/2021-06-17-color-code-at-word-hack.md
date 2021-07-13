@@ -4,7 +4,7 @@ cover: "/wordhack.jpg"
 excerpt: "I got pretty excited to share my programming language without words at an event about words and language! It was a great chance to also share a new version of Color Code and say thanks to people who helped me along the way."
 ---
 
-[![](wordhack.jpg)](https://www.twitch.tv/videos/1059472189)
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=2fgbmhTnHQo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [Babycastles](https://www.babycastles.com/) is a NYC based collective fostering and amplifying diverse voices in videogame culture. We provide artists support to actualize ideas and expose that work to new audiences.
 
