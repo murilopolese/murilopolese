@@ -1,7 +1,7 @@
 ---
 title: "Makey Makey Sampler"
 cover: "makeymakeysampler_small.png"
-excerpt: "Makey Makey Sampler is a follow up on the piano and bongo classic apps. It's a browser instrument to inspire and empower people to see the world as a musical instrument."
+excerpt: "I worked with JoyLabz to design and built our own Audio Sampler App because we saw the demand from the music community for a simple tool to be able to mix sounds and music with Makey Makey."
 tags:
 - 'web'
 - 'interactive'
@@ -29,28 +29,6 @@ If you have ever seen or played with a [MakeyMakey](https://makeymakey.com/), yo
 
 With this question in mind I had the honour to brainstorm, prototype, design, develop and release a sampler app for MakeyMakey.  Our dream was to create an app where people could play and create beyond the classic apps. It’s a real joy to work with JoyLabz team!
 
-<div style="display:flex; align-items: center; justify-content: center;">
+I have also made a tutorial showing a few of my favorite features:
 
-<div style="width: 20%; margin: 0 5%;">
-
-![Wireframe](makeymakeysampler_play.png)
-
-</div>
-
-<div style="width: 20%; margin: 0 5%;">
-
-![Wireframe](makeymakeysampler_library.png)
-
-</div>
-
-<div style="width: 20%; margin: 0 5%;">
-
-![Wireframe](makeymakeysampler_recorder.png)
-
-</div>
-
-</div>
-
-The main feature of MakeyMakey Sampler app is to assign any sound to the MakeyMakey keys. They can be uploaded from your computer or recorded with an [Erik Rosenbaum’s MK-1](https://www.ericrosenbaum.com/#/mk1-sampler/) inspired recorder. You can also save, share and load full key arrangements!
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/IVBkp5_QFd8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Zj7ezjOlPbc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
