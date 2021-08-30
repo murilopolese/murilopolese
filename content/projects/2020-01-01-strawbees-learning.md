@@ -1,6 +1,6 @@
 ---
 title: "Strawbees Learning"
-cover: "strawbeeslearning.png"
+cover: "/strawbeeslearning.png"
 excerpt: "Strawbees Learning is an oasis for innovative teachers who embrace creative thinking and hands-on learning with Strawbees."
 tags:
 - 'web'

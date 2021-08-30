@@ -1,7 +1,7 @@
 ---
 title: "Bits and Atoms: Vefskoli"
 cover: '/workshops/bits-and-atoms-2018-02_01.jpg'
-excerpt: "My great friend Pedro Netto teaches web technologies at Vefskoli in Reykjavik. He invited me to give a 3 day lecture about how his students could extend their web knowledge beyond the browser into the physical world. We sold the workshop as Internet of Things although I do prefer to call it “A journey from atoms to bits and back again” or just “bits and atoms” for short."
+excerpt: "My friend Pedro Netto teaches web technologies at Vefskoli in Reykjavik. He invited me to give a 3 day lecture about how his students could extend their web knowledge beyond the browser into the physical world."
 tags:
 - '2018'
 ---

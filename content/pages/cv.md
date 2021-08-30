@@ -1,6 +1,8 @@
 ---
 path: '/cv'
-title: ''
+title: "Who am I?"
+subtitle: "Tricky question."
+template: "page"
 ---
 
 **Short version:**

@@ -1,6 +1,6 @@
 ---
 title: "Super Beast Interactive Logo"
-cover: "superbeast.png"
+cover: "/superbeast.png"
 excerpt: "SuperBeast is your lean and mean creative partner. For the past 8 years they've been pioneering and perfecting a radically streamlined way to supercharge their client's marketing."
 tags:
 - 'web'
