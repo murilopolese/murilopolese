@@ -4,49 +4,22 @@
   "description": "Personal website, portfolio and blog.",
   "main": "index.js",
   "scripts": {
-    "build": "gatsby build --prefix-paths",
-    "develop": "gatsby develop",
-    "start": "npm run develop",
-    "serve": "gatsby serve",
-    "clean": "gatsby clean",
     "deploy-gh": "gatsby build --prefix-paths && gh-pages -d public",
     "deploy-s3": "npm run build && aws s3 sync ./public/ s3://www.murilopolese.com/ --exclude '.*' --acl public-read"
   },
   "dependencies": {
-    "@material-ui/core": "^4.7.0",
-    "@material-ui/styles": "^4.7.1",
-    "dotenv": "^8.2.0",
-    "frontmatter": "0.0.3",
-    "gatsby": "^2.18.4",
-    "gatsby-image": "^2.3.4",
-    "gatsby-plugin-feed": "^2.5.11",
-    "gatsby-plugin-sharp": "^2.5.6",
-    "gatsby-transformer-remark": "^2.7.1",
-    "gatsby-transformer-sharp": "^2.4.6",
-    "react": "^16.12.0",
-    "react-dom": "^16.12.0",
-    "react-helmet": "^5.2.1",
-    "rehype-raw": "^4.0.1",
-    "rehype-react": "^4.0.1",
-    "remark": "^11.0.2",
-    "remark-parse": "^7.0.2",
-    "remark-rehype": "^5.0.0",
-    "unified": "^8.4.2"
+    "dotenv": "^10.0.0",
+    "gray-matter": "^4.0.3",
+    "html-prettify": "^1.0.3",
+    "marked": "^3.0.2",
+    "nanohtml": "^1.9.1",
+    "potrace": "^2.1.8",
+    "sharp": "^0.29.0"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/murilopolese/murilopolese.git"
   },
   "author": "Murilo Polese <murilopolese@gmail.com>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/murilopolese/murilopolese/issues"
-  },
-  "homepage": "https://github.com/murilopolese/murilopolese#readme",
-  "devDependencies": {
-    "gatsby-plugin-material-ui": "^2.1.6",
-    "gatsby-plugin-react-helmet": "^3.1.16",
-    "gatsby-source-filesystem": "^2.2.2",
-    "gh-pages": "^2.2.0"
-  }
+  "license": "MIT"
 }
