@@ -1,7 +1,6 @@
 // 3rd party modules
 const fs = require('fs')
 const path = require('path')
-const html = require('nanohtml')
 const prettify = require('html-prettify')
 const matter = require('gray-matter')
 
@@ -15,7 +14,7 @@ const listTemplate = require('./templates/list.js')
 
 async function main() {
   // Step 1: process images
-  // await processImages()
+  await processImages()
 
   // Step 2: move static files
   const staticSrc = './static'
