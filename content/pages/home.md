@@ -3,6 +3,7 @@ path: '/'
 title: 'Home Page'
 cover: '/murilism.jpg'
 template: "home"
+description: ""
 ---
 
 **Hello! My name is Murilo, I am a Brazilian technologist** (or a full stack developer if you prefer).

@@ -1,7 +1,8 @@
 ---
 title: "Color Code at Babycastle's WordHack"
 cover: "/wordhack.jpg"
-excerpt: "I got pretty excited to share my programming language without words at an event about words and language! It was a great chance to also share a new version of Color Code and say thanks to people who helped me along the way."
+description: "I got pretty excited to share my programming language without words at an event about words and language! It was a great chance to also share a new version of Color Code and say thanks to people who helped me along the way."
+path: "/blog/2021-06-color-code-at-word-hack"
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=2fgbmhTnHQo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

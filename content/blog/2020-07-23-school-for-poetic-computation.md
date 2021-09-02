@@ -1,7 +1,8 @@
 ---
 title: "School for Poetic Computation - Recreating the Past"
 cover: "/sfpc.jpg"
-excerpt: "One of the most brilliant learning experiences at School for Poetic Computation. I enrolled on the online version of Recreating the Past course and got to learn new ways to think, research and make. Whether it was a familiar subject or an uncomfortable practice, I got a fresh, fantastic new perspective on it."
+description: "One of the most brilliant learning experiences at School for Poetic Computation. I enrolled on the online version of Recreating the Past course and got to learn new ways to think, research and make. Whether it was a familiar subject or an uncomfortable practice, I got a fresh, fantastic new perspective on it."
+path: "/blog/2020-07-school-for-poetic-computation"
 ---
 
 For the past 10 weeks I had one of the most brilliant learning experiences at School for Poetic Computation. I enrolled on the online version of Recreating the Past course taught by Zach Lieberman, with Max Bittker as teacher assistant and many amazing classmates (I'll try to link them somewhere). I got to learn new ways to think, research and make. Whether it was a familiar subject or an uncomfortable practice, I got a fresh, fantastic new perspective on it.

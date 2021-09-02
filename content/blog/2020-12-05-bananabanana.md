@@ -1,7 +1,8 @@
 ---
 title: "Banana Banana"
 cover: "/bananabanana.png"
-excerpt: "Banana Banana is my home server and a journey of learning and practice on important digital sovereignty ideas that both healed and inspired my relationship with internet."
+description: "Banana Banana is my home server and a journey of learning and practice on important digital sovereignty ideas that both healed and inspired my relationship with internet."
+path: "/blog/2020-12-bananabanana"
 ---
 
 [![BananaBanana.me Home Page](/bananabanana.png)](http://bananabanana.me)

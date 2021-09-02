@@ -1,7 +1,8 @@
 ---
 title: "Fabulous remote control"
 cover: '/buildlogs/rccars.jpg'
-excerpt: "Revisiting one of my favourite childhood game but as a grown up kid."
+description: "Revisiting one of my favourite childhood game but as a grown up kid."
+path: "/blog/2018-10-fabulous-remote-control"
 ---
 
 I used to love flicking games when I was a child and there was something about making the tracks, easy access to material and the playfulness of it all that stuck with me. In fact I still like flicking games! At a certain point it felt natural for me to start using the new abundant material around: Technology!

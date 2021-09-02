@@ -1,7 +1,8 @@
 ---
 title: "Color Code!"
 cover: "/color_code.png"
-excerpt: "Color Code is a programming language without words or symbols!"
+description: "Color Code is a programming language without words or symbols!"
+path: "/blog/2020-11-color-code"
 ---
 
 [![Color Code](/color_code_screenshot.png)](http://colorcode.bananabanana.me)

@@ -1,7 +1,8 @@
 ---
 title: "Microcosmic Gazing at CCTV x Visualia"
 cover: "/microcosmicperformance.jpg"
-excerpt: "Paulo Barcelos and I made a visual performance out of our favourite microcosmic samples from an early spring puddle."
+description: "Paulo Barcelos and I made a visual performance out of our favourite microcosmic samples from an early spring puddle."
+path: "/blog/2021-05-microcosmic-gazing-performance"
 ---
 
 ![](microcosmicperformance.jpg)

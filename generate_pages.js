@@ -14,7 +14,7 @@ const listTemplate = require('./templates/list.js')
 
 async function main() {
   // Step 1: process images
-  await processImages()
+  // await processImages()
 
   // Step 2: move static files
   const staticSrc = './static'
@@ -103,6 +103,18 @@ async function main() {
     }
     return page
   })
+  posts.blog = posts.blog.map((blog) => {
+    blog.html = pageTemplate(blog)
+    return blog
+  })
+  posts.project = posts.project.map((project) => {
+    project.html = pageTemplate(project)
+    return project
+  })
+  posts.workshop = posts.workshop.map((workshop) => {
+    workshop.html = pageTemplate(workshop)
+    return workshop
+  })
 
   // Step 5: write files to the correct path
   pages.forEach((page) => {
@@ -125,8 +137,66 @@ async function main() {
       prettify(page.html)
     )
   })
-
-
+  posts.blog = posts.blog.map((blog) => {
+    console.log('writting', blog.matter.data.path)
+    // Create folder for clean paths
+    fs.mkdirSync(
+      path.resolve(
+        './public',
+        blog.matter.data.path.substring(1)
+      ),
+      { recursive: true }
+    )
+    // Write index inside folder
+    fs.writeFileSync(
+      path.resolve(
+        './public',
+        blog.matter.data.path.substring(1),
+        'index.html'
+      ),
+      prettify(blog.html)
+    )
+  })
+  // posts.project = posts.project.map((project) => {
+  //   console.log('writting', project.matter.data.path)
+  //   // Create folder for clean paths
+  //   fs.mkdirSync(
+  //     path.resolve(
+  //       './public',
+  //       project.matter.data.path.substring(1)
+  //     ),
+  //     { recursive: true }
+  //   )
+  //   // Write index inside folder
+  //   fs.writeFileSync(
+  //     path.resolve(
+  //       './public',
+  //       project.matter.data.path.substring(1),
+  //       'index.html'
+  //     ),
+  //     prettify(project.html)
+  //   )
+  // })
+  // posts.workshop = posts.workshop.map((workshop) => {
+  //   console.log('writting', workshop.matter.data.path)
+  //   // Create folder for clean paths
+  //   fs.mkdirSync(
+  //     path.resolve(
+  //       './public',
+  //       workshop.matter.data.path.substring(1)
+  //     ),
+  //     { recursive: true }
+  //   )
+  //   // Write index inside folder
+  //   fs.writeFileSync(
+  //     path.resolve(
+  //       './public',
+  //       workshop.matter.data.path.substring(1),
+  //       'index.html'
+  //     ),
+  //     prettify(workshop.html)
+  //   )
+  // })
 }
 
 main()

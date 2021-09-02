@@ -1,7 +1,8 @@
 ---
 title: "TodePond visits BananaBanana land"
 cover: "/todepond_colorcode.png"
-excerpt: "Luke Wilson made a tour around the internet showcasing \"cellular automata engines\" and visited Banana land!"
+description: "Luke Wilson made a tour around the internet showcasing \"cellular automata engines\" and visited Banana land!"
+path: "/blog/2021-05-tode-pond-visits-banana-land"
 ---
 
 Luke Wilson is the creator behind [TodePond](https://www.youtube.com/watch?v=nCR9zMU2Q_M) YouTube channel, which is house to the most informative, sweet, calming and heartwarming collection of videos about pretty hardcore nerdy stuff. [Max](https://maxbittker.com/) has told me about these videos when we were talking about [Color Code](http://www.murilopolese.com/blog/2020-11-color-code) and to be very honest, they were and still are the very best explanation about spacial programming languages I have ever watched. Check it out:

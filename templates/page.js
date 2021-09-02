@@ -5,17 +5,18 @@ const headerTemplate = require('./components/header.js')
 module.exports = function(page) {
   const header = headerTemplate()
   const pageContent = markdown(page.matter.content)
+  const { title, description } = page.matter.data
 
   return documentTemplate({
-    title: page.matter.data.title,
+    title: title,
     content: `
       <div class="container">
         ${header}
         <div class="body">
           <div class="title">
-            <h2>${page.matter.data.title}</h2>
+            <h2>${title}</h2>
             <div class="description">
-              ${page.matter.data.subtitle}
+              ${description}
             </div>
           </div>
           <div class="content">

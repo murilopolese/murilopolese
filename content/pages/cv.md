@@ -1,7 +1,7 @@
 ---
 path: '/cv'
 title: "Who am I?"
-subtitle: "Tricky question."
+description: "Tricky question, uh? :)"
 template: "page"
 ---
 
@@ -68,7 +68,7 @@ In 2019 I went back to work (and play) with my beloved friends at [Strawbees](ht
 
 </div>
 
-In 2020 I had the honour and pleasure to work with [JoyLabz](https://joylabz.com/), one of the companies that most sparked my interest in prototyping, education and technology as well as becoming [literate on the world of inventions that surround us](https://www.ted.com/talks/jay_silver_hack_a_banana_make_a_keyboard).
+In mid 2020 I had the honour to start working with [JoyLabz](https://joylabz.com/), one of the companies that most sparked my interest in prototyping, education and technology as well as becoming [literate on the world of inventions that surround us](https://www.ted.com/talks/jay_silver_hack_a_banana_make_a_keyboard).
 
 In 2021 I joined [Blivande](https://blivande.com) house and community, where I participate on this experiment in stewarding and cultivating a co-created, participatory and self-sustaining ecosystem. Always becoming!
 

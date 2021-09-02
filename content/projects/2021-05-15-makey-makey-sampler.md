@@ -1,6 +1,6 @@
 ---
 title: "Makey Makey Sampler"
-cover: "/makeymakeysampler_small.png"
+cover: "/makeymakeysampler.png"
 excerpt: "I worked with JoyLabz to design and built our own Audio Sampler App because we saw the demand from the music community for a simple tool to be able to mix sounds and music with Makey Makey."
 tags:
 - 'web'

@@ -1,7 +1,8 @@
 ---
 title: "A new player has entered the room"
 cover: "/t2tileupdate.png"
-excerpt: "\"Everybody talks about how internet allows you to find your audience no matter what it is, but it's not just a flood, it doesn't have to go viral to have each person that finds it feel really happy.\""
+description: "\"Everybody talks about how internet allows you to find your audience no matter what it is, but it's not just a flood, it doesn't have to go viral to have each person that finds it feel really happy.\""
+path: "/blog/2020-12-a-new-player-has-entered-the-room"
 ---
 
 So I wrote [Color Code](http://www.murilopolese.com/blog/2020-11-color-code) and recorded a video explaining how it works but as expected, not a lot of people engaged. It's a weird, complicated, challenging theme sometimes. But it was there and I was and still am super happy with it.

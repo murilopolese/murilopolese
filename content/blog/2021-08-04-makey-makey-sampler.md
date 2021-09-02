@@ -1,7 +1,8 @@
 ---
 title: "Makey Makey Sampler"
-cover: "/makeymakeysampler_small.png"
-excerpt: "In the spring of 2021, we designed and built our own Audio Sampler App because we saw the demand from the music community for a simple tool to be able to mix sounds and music with Makey Makey."
+cover: "/makeymakeysampler.png"
+description: "In the spring of 2021, we designed and built our own Audio Sampler App because we saw the demand from the music community for a simple tool to be able to mix sounds and music with Makey Makey."
+path: "/blog/2021-05-makey-makey-sampler"
 ---
 
 [![](makeymakeysampler.png)](https://apps.makeymakey.com/sampler/)
