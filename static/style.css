@@ -64,6 +64,10 @@ a:hover {
   text-decoration: underline;
 }
 
+h1, h2, h3, h4, h5, ul, ol, iframe {
+  padding-bottom: 1rem;
+}
+
 pre,
 code,
 blockquote {
@@ -71,6 +75,11 @@ blockquote {
   background: #eee;
   margin-bottom: 1rem;
   overflow-x: scroll;
+}
+
+iframe {
+  width: 100%;
+  padding-bottom: 1rem;
 }
 
 .container {

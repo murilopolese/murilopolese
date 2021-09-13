@@ -21,9 +21,22 @@ Being in this video with this gang is such an accomplishment in life for me. I b
 
 I am also particularly proud of how [banana land](http://bananabanana.me) was pictured:
 
-![](/todepond_bananaland.png)
-![](/todepond_colorcode.png)
+<div class="row">
+
+<div style="width: 47.5%">
+
+![](./todepond_bananaland.png)
+
+</div>
+
+<div style="width: 47.5%">
+
+![](./todepond_colorcode.png)
+
+</div>
+
+</div>
 
 And completely amazed with Luke's pink sand elegant implementation in SPLATy:
 
-![](/todepond_pinksand.png)
+![](./todepond_pinksand.png)

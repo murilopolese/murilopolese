@@ -5,7 +5,7 @@ description: "Paulo Barcelos and I made a visual performance out of our favourit
 path: "/blog/2021-05-microcosmic-gazing-performance"
 ---
 
-![](microcosmicperformance.jpg)
+![](./microcosmicperformance.jpg)
 
 [CCTV Stockholm](https://cctvsthlm.se/) is an audiovisual and community concept, documenting and developing the cultural scene in Stockholm.
 

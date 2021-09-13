@@ -5,7 +5,7 @@ description: "I got pretty excited to share my programming language without word
 path: "/blog/2021-06-color-code-at-word-hack"
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=2fgbmhTnHQo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/2fgbmhTnHQo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [Babycastles](https://www.babycastles.com/) is a NYC based collective fostering and amplifying diverse voices in videogame culture. We provide artists support to actualize ideas and expose that work to new audiences.
 
@@ -17,7 +17,7 @@ This was a great chance to also share a new version of Color Code with a new int
 
 It was also the first time I officially presented Color Code as a project and beyond sharing how to write simple programs without words, I wanted to talk a little bit about why is it important, how did I get here and what are the guiding questions that are floating in my head when I'm developing, exploring and playing with Color Code.
 
-![Mindstorms, Technological Sovereignity and Decolonizing the Digital](wordhack_bookcovers.png)
+![Mindstorms, Technological Sovereignity and Decolonizing the Digital](./wordhack_bookcovers.png)
 
 Books like [Mindstorms](https://en.wikipedia.org/wiki/Mindstorms_(book)) and [Decolonizing the Digital](http://ojs.decolonising.digital/index.php/decolonising_digital/issue/view/DecolonisingTheDigital) as well as the [Technological Sovereignity zine](https://sobtec.gitbooks.io/sobtec2/content/en/) have pretty much shaped the way I think about this project as well as getting myself completely confused with millions of questions to ask!
 

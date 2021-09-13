@@ -13,7 +13,7 @@ In a few hours I had the first glimpse of what would become my new hobby, appare
 
 This is an ESP8266, 2 big continuous servo motors and a 3.7V battery inside a cardboard box. Technically speaking the first setup wasn’t so different from what I use today: A WebSocket server on the board and a web page split in 4 areas with different colors, each one sending a different message through a websocket connection with the board.
 
-![Remote control interface](/remotecontrol.png)
+![Remote control interface](./remotecontrol.png)
 
 A few days after building the first one, I made a second one only changing the motors and the housing.
 
@@ -27,7 +27,7 @@ Figuring out how much fun that was, I flashed a second board and build a second 
 
 At this point I wanted to test it with other people to make sure me and [Bee](https://beegrandinetti.com/) and we invited some friends over to build cool cars and race.
 
-![](/buildlogs/rccars.jpg)
+![](./buildlogs/rccars.jpg)
 
 [https://www.instagram.com/p/BWm58wzBbTN/](https://www.instagram.com/p/BWm58wzBbTN/)
 
