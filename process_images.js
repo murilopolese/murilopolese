@@ -21,13 +21,13 @@ function resizeOperation() {
   // RESIZE 420
   promises = promises.concat(
     files.map((file) => {
-      return resize(fileSrc, 420, file)
+      return resize(fileSrc, 420, undefined, file)
     })
   )
   // RESIZE 960
   promises = promises.concat(
     files.map((file) => {
-      return resize(fileSrc, 960, file)
+      return resize(fileSrc, 960, undefined, file)
     })
   )
   return Promise.all(promises)

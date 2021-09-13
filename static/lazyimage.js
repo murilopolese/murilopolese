@@ -2,7 +2,6 @@ window.onload = function() {
   const images = document.querySelectorAll('.image-wrapper')
   for (let i = 0; i < images.length; i++) {
     const image = images.item(i)
-    console.log(image)
     if (!image.dataset['small']) continue
     fetch(image.dataset['small'])
       .then(r => r.arrayBuffer())

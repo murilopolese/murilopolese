@@ -1,7 +1,7 @@
 ---
 title: "Fast Prototyping: Berghs"
 cover: '/workshops/berghs-2014-10_01.jpg'
-excerpt: "As everybody enjoyed the spring lectures, Paulo got invited again to give the same lecture and extended the invitation to me. I was more than happy to join again and the idea was very similar: Give a class of Copywriting students a crash course on rapid prototyping."
+description: "A lecture with my friend Paulo Barcelos about techniques and tools for rapid prototyping at Berghs School of Communication."
 tags:
 - '2014'
 ---

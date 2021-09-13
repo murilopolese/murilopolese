@@ -1,7 +1,7 @@
 ---
 title: "TATE Exchange: Power Play"
 cover: '/workshops/tate-exchange-02.jpg'
-excerpt: "Invited by London CLC to host a Strawbees workshop station at TATE Exchange to explore the theme of Power and Play."
+description: "Invited by London CLC to host a Strawbees workshop station at TATE Exchange to explore the theme of Power and Play."
 tags:
 - '2020'
 ---

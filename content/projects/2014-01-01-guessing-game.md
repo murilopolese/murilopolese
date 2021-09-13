@@ -1,6 +1,6 @@
 ---
 title: "Guessing Game"
-excerpt: "While working at Oakwood I did a few projects involving a guessing game for song releases. The basic concept is that you would listen to the instrumental version of the song and guess the lyric."
+description: "A guessing game for a song release. The basic concept is to listen the instrumental version of the song and guess the lyric."
 cover: '/dev/guessing-game.png'
 tags:
 - 'web'

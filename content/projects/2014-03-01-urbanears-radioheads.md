@@ -1,6 +1,6 @@
 ---
 title: "Urbanears Radioheads"
-excerpt: "Urbanears Radio Heads was a live streamed tournament with youtubers racing each other with radio controlled heads to dramatize the freedom of wireless listening."
+description: "Urbanears Radio Heads was a live streamed tournament with youtubers racing each other with radio controlled 3D printed heads."
 cover: '/dev/radioheads.jpg'
 tags:
 - 'web'

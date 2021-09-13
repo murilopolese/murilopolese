@@ -1,6 +1,6 @@
 ---
 title: "Urbanears Pigeon Bingo"
-excerpt: "Urbanears Pigeon Bingo was a bingo style game where pigeons shit on the washable headphones to call the numbers."
+description: "Urbanears Pigeon Bingo was a bingo style game where pigeons shit on the washable headphones to call the numbers."
 cover: '/dev/pigeon-bingo.jpg'
 tags:
 - 'web'

@@ -1,7 +1,7 @@
 ---
 title: "Fast Prototyping: Bergs"
 cover: '/workshops/berghs-2015-10_01.jpg'
-excerpt: "Yet again my friend Paulo Barcelos and I got invited to lecture at Berghs School of Communication for a mix of students from different courses. Our subject was the process and techniques for turning ideas into reality through fast and constant prototyping."
+description: "A lecture with my friend Paulo Barcelos about techniques and tools for rapid prototyping at Berghs School of Communication."
 tags:
 - '2015'
 ---

@@ -1,7 +1,7 @@
 ---
 title: "School for Poetic Computation - Recreating the Past"
 cover: "/sfpc.jpg"
-description: "One of the most brilliant learning experiences at School for Poetic Computation. I enrolled on the online version of Recreating the Past course and got to learn new ways to think, research and make. Whether it was a familiar subject or an uncomfortable practice, I got a fresh, fantastic new perspective on it."
+description: "I enrolled on the online version of Recreating the Past course and got to learn new ways to think, research and make."
 path: "/blog/2020-07-school-for-poetic-computation"
 ---
 

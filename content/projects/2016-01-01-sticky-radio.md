@@ -1,6 +1,6 @@
 ---
 title: "Sticky Radio"
-excerpt: "Sticky Radio was the result of a consultancy and prototyping work for Sveriges Radio Ressearch and Development department. The goal was to explore the idea of what could be a \"seamless experience\" between digital and traditional radio broadcasting."
+description: "Sticky Radio was the result of a consultancy and prototyping work for Sveriges Radio Ressearch and Development department."
 cover: '/dev/sticky-radio.jpg'
 tags:
 - 'research'

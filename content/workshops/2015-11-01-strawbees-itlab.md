@@ -1,7 +1,7 @@
 ---
 title: "Strawbees: ItLab"
 cover: '/workshops/strawbees-itlab-2015-11_02.jpg'
-excerpt: "While working at Designit in Stockholm I was invited to be a mentor on a design bootcamp in Munich. The participants were interns from different Designit offices across the globe and the theme was “how can strategic design help the current refugee crisis”."
+description: "I was a mentor on a design bootcamp where interns from different Designit offices designed around the theme: Refugee crisis."
 tags:
 - '2015'
 ---

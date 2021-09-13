@@ -4,17 +4,17 @@ const path = require('path')
 const prettify = require('html-prettify')
 const matter = require('gray-matter')
 
-// Local modules and helpers
-const processImages = require('./process_images.js')
-const listFiles = require('./templates/utils/listfiles.js')
-// Templates
-const pageTemplate = require('./templates/page.js')
-const homeTemplate = require('./templates/home.js')
-const listTemplate = require('./templates/list.js')
-
 async function main() {
   // Step 1: process images
+  const processImages = require('./process_images.js')
   // await processImages()
+
+  // Local modules and helpers
+  const listFiles = require('./templates/utils/listfiles.js')
+  // Templates
+  const pageTemplate = require('./templates/page.js')
+  const homeTemplate = require('./templates/home.js')
+  const listTemplate = require('./templates/list.js')
 
   // Step 2: move static files
   const staticSrc = './static'
@@ -200,3 +200,4 @@ async function main() {
 }
 
 main()
+// processImages()

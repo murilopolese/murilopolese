@@ -1,7 +1,7 @@
 ---
 title: "Microcosmic Gazing"
 cover: "/blivande-microcosmic-gazing.png"
-description: "A biweekly gathering to gaze at wonders of microscopic, microbiotic, microcosmic reality"
+description: "A biweekly gathering to gaze and be curious about the wonders of microscopic, microbiotic, microcosmic reality."
 path: "/blog/2021-03-microcosmic-gazing"
 ---
 

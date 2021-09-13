@@ -1,7 +1,7 @@
 ---
 title: "Bits and Atoms: Vefskoli"
 cover: '/workshops/bits-and-atoms-2018-02_01.jpg'
-excerpt: "My friend Pedro Netto teaches web technologies at Vefskoli in Reykjavik. He invited me to give a 3 day lecture about how his students could extend their web knowledge beyond the browser into the physical world."
+description: "A 3 day lecture about how to extend web technology students to extend their knowledge beyond the browser into the physical world."
 tags:
 - '2018'
 ---

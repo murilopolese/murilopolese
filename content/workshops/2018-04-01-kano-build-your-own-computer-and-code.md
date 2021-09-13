@@ -1,7 +1,7 @@
 ---
 title: "Kano: Build your computer and code"
 cover: '/workshops/kano-build-your-computer-2018-04_01.jpg'
-excerpt: "After the previous workshop my friend Taylor and I gave at Poplar Union we decided to explore more specifically the Kano range of products. These new workshops would focus on how to present the app Make Art in a way we could introduce a more complex language."
+description: "An exploration day on how to use the Make Art app to introduce a more complex programming language skills."
 tags:
 - '2018'
 ---

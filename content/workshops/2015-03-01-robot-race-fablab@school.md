@@ -1,7 +1,7 @@
 ---
 title: "Quirkbot Robot Race: FabLab@School"
 cover: '/workshops/quirkbot-2015-03_01.jpg'
-excerpt: "I went to Vejle to join a national conference of schools who had or wanted to have a FabLab. We ran a workshop with a classic Quirkbot activity: Build a robotic creature in 20 minutes."
+description: "A workshop at Vejle's FabLab@School conference with a classic Quirkbot activity: Build a robotic creature in 20 minutes."
 tags:
 - '2015'
 ---

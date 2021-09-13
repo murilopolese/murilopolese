@@ -1,7 +1,7 @@
 ---
 title: "Kano: Code Dojo Girls Only"
 cover: '/workshops/kano-girls-dojo-2017-04_01.jpg'
-excerpt: "I hosted a table at Code Dojo Girls Only edition. During the event, there were stations covering all sorts of content, like scratch, game development, robotics, python programming, etc. I was in charge of a “make your own computer” workshop with computer kits from Kano."
+description: "Me and my wife hosted a table at Code Dojo Girls Only edition. I was in charge of a “make your own computer” workshop."
 tags:
 - '2017'
 ---

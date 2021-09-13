@@ -1,7 +1,7 @@
 ---
 title: "New Year's Experiment"
 cover: "/new-years-experiment.gif"
-excerpt: "Using a 3D printer to print frames of a stop motion animation."
+description: "Using a 3D printer to make new years cards but each card would be a frame of a stop motion animation."
 tags:
 - 'animated'
 - 'hardware'

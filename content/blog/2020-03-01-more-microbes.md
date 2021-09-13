@@ -1,7 +1,7 @@
 ---
 title: "Microcosmic Journals"
 cover: "/microcosmos.jpg"
-description: "I keep a collection of dirty water from different sources carefully prepared for maximum fun under the microscope. Eventually I record new and weird things I see living inside these water."
+description: "I keep a collection of dirty water from different sources carefully prepared for maximum fun under the microscope."
 path: "/blog/2020-03-more-microbes"
 ---
 

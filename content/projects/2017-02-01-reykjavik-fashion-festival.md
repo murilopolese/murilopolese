@@ -1,6 +1,6 @@
 ---
 title: "Reykjavik Fashion Festival"
-excerpt: "I worked with a ridiculously talented team from Serious Business on a tool to explore and export visuals related to one of the natural elements present in the Reykjavik's Fashion Festival brand: Wind."
+description: "Exploration and generation of visuals related to one of the natural elements present in the Reykjavik's Fashion Festival brand: Wind."
 cover: '/dev/reykjavik-fashion-festival.png'
 tags:
 - 'animated'

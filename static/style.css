@@ -278,3 +278,16 @@ ul.menu a:link {
     flex-direction: column;
   }
 }
+
+.row {
+  display:flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+@media only screen and (max-width: 760px) {
+  .row {
+    flex-direction: column;
+  }
+}

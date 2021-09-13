@@ -1,7 +1,7 @@
 ---
 title: "Kids Hack Day London"
 cover: '/workshops/khd2_1.jpg'
-excerpt: "I had the pleasure to co-organize the first and second Kids Hack Day in London. They were two beautiful and inspiring days with children, parents, volunteers and people passing by having a good time, being curious and building things."
+description: "Two beautiful and inspiring days with children, parents and volunteers having a good time, being curious and building things."
 tags:
 - '2019'
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Fast Prototyping: Berghs"
 cover: '/workshops/berghs-2014-05_01.jpg'
-excerpt: "The first time I got invited to give a lecture was by Paulo Barcelos and Joe Coppard at Berghs. The idea was to get a class of Digital Art Direction and give a crash course on how to go from idea to prototype in a couple of days."
+description: "A lecture with my friend Paulo Barcelos about techniques and tools for rapid prototyping at Berghs School of Communication."
 tags:
 - '2014'
 ---

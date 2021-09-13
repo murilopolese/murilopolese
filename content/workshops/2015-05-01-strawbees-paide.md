@@ -1,7 +1,7 @@
 ---
 title: "Strawbees: Paide"
 cover: '/workshops/strawbees-2015-05_01.jpg'
-excerpt: "I was invited through Makerspark and Pixelache to give a Strawbees workshop at Paide during a gathering to advertise a residency program on the city’s community center."
+description: "A Strawbees workshop at Paide during a gathering to advertise a residency program on the city’s community centre."
 tags:
 - '2015'
 ---
