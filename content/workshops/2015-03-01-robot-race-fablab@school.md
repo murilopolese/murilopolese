@@ -14,4 +14,4 @@ I found this to be a quite unique opportunity to learn from so many different pe
 
 We were also talking about Kids Hack Day and Quirkbot on a booth next to other fantastic projects and companies such as Lego.
 
-![](/workshops/quirkbot-2015-03_01.jpg)
+![](./workshops/quirkbot-2015-03_01.jpg)

@@ -16,9 +16,9 @@ This couldn't be a more appropriate theme! The station was simple yet engaging a
 >
 > Strawbees is a construction set, which means it is material for playful building, testing, sharing ideas and thinking creatively.
 
-![](/workshops/tate-exchange-01.jpg)
-![](/workshops/tate-exchange-02.jpg)
-![](/workshops/tate-exchange-03.jpg)
-![](/workshops/tate-exchange-04.jpg)
+![](./workshops/tate-exchange-01.jpg)
+![](./workshops/tate-exchange-02.jpg)
+![](./workshops/tate-exchange-03.jpg)
+![](./workshops/tate-exchange-04.jpg)
 
 <iframe width="890" height="500" src="https://www.youtube.com/embed/nmSj93RiJ6g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

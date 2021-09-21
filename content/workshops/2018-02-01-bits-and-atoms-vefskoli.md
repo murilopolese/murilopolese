@@ -6,7 +6,7 @@ tags:
 - '2018'
 ---
 
-![](/workshops/bits-and-atoms-2018-02_04.jpg)
+![](./workshops/bits-and-atoms-2018-02_04.jpg)
 
 My great friend [Pedro](https://brisa.is/) teaches web technologies at [Vefskoli](https://vefskoli.is/) in Reykjavik. He invited me to give a 3 day lecture about how his students could extend their web knowledge beyond the browser into the physical world. We sold the workshop as Internet of Things although I do prefer to call it “A journey from atoms to bits and back again” or just “bits and atoms” for short.
 
@@ -20,19 +20,19 @@ Naturally, students and teachers found where their major interest was during in 
 
 <div style="width:30%">
 
-![](/workshops/bits-and-atoms-2018-02_01.jpg)
+![](./workshops/bits-and-atoms-2018-02_01.jpg)
 
 </div>
 
 <div style="width:30%">
 
-![](/workshops/bits-and-atoms-2018-02_03.jpg)
+![](./workshops/bits-and-atoms-2018-02_03.jpg)
 
 </div>
 
 <div style="width:30%">
 
-![](/workshops/bits-and-atoms-2018-02_02.jpg)
+![](./workshops/bits-and-atoms-2018-02_02.jpg)
 
 </div>
 

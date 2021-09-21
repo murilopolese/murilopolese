@@ -15,9 +15,9 @@ They were two beautiful and inspiring days with children, parents, volunteers an
 
 We even made a video about the event and our experience and published our chapter on the Kids Hack Day Youtube channel!
 
-![](/workshops/khd1.jpg)
-![](/workshops/khd2_0.jpg)
-![](/workshops/khd2_1.jpg)
-![](/workshops/khd2_3.jpg)
-![](/workshops/khd2_4.jpg)
-![](/workshops/khd2_5.jpg)
+![](./workshops/khd1.jpg)
+![](./workshops/khd2_0.jpg)
+![](./workshops/khd2_1.jpg)
+![](./workshops/khd2_3.jpg)
+![](./workshops/khd2_4.jpg)
+![](./workshops/khd2_5.jpg)

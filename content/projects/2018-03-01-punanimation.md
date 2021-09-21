@@ -7,7 +7,7 @@ tags:
 - 'web'
 ---
 
-![](/dev/punanimation-directory.png)
+![](./dev/punanimation-directory.png)
 
 Punanimation was founded in April 2015, by 3 friends: [Bee Grandinetti](https://www.beegrandinetti.com/), [Hedvig Ahlberg](https://vimeo.com/hedvigahlberg) and [Linn Fritz](http://www.linnfritz.com/).
 

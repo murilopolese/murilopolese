@@ -12,6 +12,6 @@ After putting together their computers and booting their operating systems, girl
 
 [I wrote a blog post on Kano’s blog about it!](https://kano.me/blog/we-attended-a-coder-dojo-girls-only-hackathon-it-was-awesome/)
 
-![](/workshops/kano-girls-dojo-2017-04_03.jpg)
-![](/workshops/kano-girls-dojo-2017-04_01.jpg)
-![](/workshops/kano-girls-dojo-2017-04_02.jpg)
+![](./workshops/kano-girls-dojo-2017-04_03.jpg)
+![](./workshops/kano-girls-dojo-2017-04_01.jpg)
+![](./workshops/kano-girls-dojo-2017-04_02.jpg)

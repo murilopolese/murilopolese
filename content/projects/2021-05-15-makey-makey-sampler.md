@@ -8,7 +8,7 @@ tags:
 - 'interactive'
 ---
 
-[![](makeymakeysampler.png)](https://apps.makeymakey.com/sampler/)
+[![](./makeymakeysampler.png)](https://apps.makeymakey.com/sampler/)
 
 If you have ever seen or played with a [MakeyMakey](https://makeymakey.com/), you probably played piano or bongo with a household object, perhaps a fruit or cutlery. The [Piano](https://apps.makeymakey.com/piano/) and [Bongos](https://apps.makeymakey.com/bongos/) apps are a success to onboard and to score a smile on everyone’s face. But why being limited to piano and bongos sounds only?
 
@@ -16,13 +16,13 @@ If you have ever seen or played with a [MakeyMakey](https://makeymakey.com/), yo
 
 <div style="width: 40%; margin: 0 5%;">
 
-[![](makeymakeypiano.png)](https://apps.makeymakey.com/piano/)
+[![](./makeymakeypiano.png)](https://apps.makeymakey.com/piano/)
 
 </div>
 
 <div style="width: 40%; margin: 0 5%;">
 
-[![](makeymakeybongos.png)](https://apps.makeymakey.com/bongos/)
+[![](./makeymakeybongos.png)](https://apps.makeymakey.com/bongos/)
 
 </div>
 

@@ -12,7 +12,7 @@ Kids Hack Day Club ran as a maker/hackerspace. Children would have access to equ
 
 In the beginning, I ran a series of Minecraft hacking sessions using a version of Minecraft that would only allow to modify the world through code. Later on I also ran robotics, 3D printing, hardware and software hacking workshops to get them excited and started with their own projects.
 
-![](/workshops/khd-club-2015_01.jpg)
+![](./workshops/khd-club-2015_01.jpg)
 
 <iframe src="//www.youtube.com/embed/oJ-ZoAo1dfs"></iframe>
 <iframe src="//www.youtube.com/embed/8vaSNUhJ4vY"></iframe>

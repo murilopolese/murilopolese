@@ -14,7 +14,7 @@ When I joined Strawbees in early 2019 I knew I was up to work on any task and I 
 
 In this project I was able to use my knowledge on building reproducible physical things and my expertise as fullstack developer, have implemented both [backend](https://github.com/strawbees/learning-cms) and [frontend](https://github.com/strawbees/learning-platform-gatsby) using WordPress and Gatsby.
 
-![](sierpinski.jpg)
+![](./sierpinski.jpg)
 
 The thing I'm most proud of in this project is how we translated our experience after years using Strawbees into how we suggest the world to use it. From  [https://learning.strawbees.com/strawbees-learning/](https://learning.strawbees.com/strawbees-learning/):
 

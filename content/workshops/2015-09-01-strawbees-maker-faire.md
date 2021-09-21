@@ -14,7 +14,7 @@ It was a huge opportunity for me to be around so many talented and inspiring peo
 
 During the event, our booth functioned as a drop in, building party. Anyone could come, sit and play as much as they wanted with guided introductions provided by us, playing with the examples or digging through the bags of Strawbees and straws themselves to build their own ideas.
 
-![](/workshops/strawbees-makerfaire-2015-10_01.jpg)
+![](./workshops/strawbees-makerfaire-2015-10_01.jpg)
 
 <iframe width="640" height="480" src="//www.youtube.com/embed/HdjJwpAghwg" allowfullscreen></iframe>
 <iframe width="640" height="480" src="//www.youtube.com/embed/fKLIDv6dUl0" allowfullscreen></iframe>

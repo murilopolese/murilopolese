@@ -10,4 +10,4 @@ tags:
 
 For the first time the main board we used to do hardware interaction was a Quirkbot. We began the day with a robot race and followed it with the classic run through examples of what can be done using the MakeyMakey capabilities on Quirkbot. The following days were about guiding the students on how to use the tools to prototype their ideas.
 
-![](/workshops/berghs-2016-08_01.jpg)
+![](./workshops/berghs-2016-08_01.jpg)

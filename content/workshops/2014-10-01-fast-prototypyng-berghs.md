@@ -12,6 +12,6 @@ The idea behind the workshop was to enable students to not wait until the techni
 
 This time we still used Processing and Makey Makeys but we also used Arduinos for motor outputs and [Spacebrew](http://docs.spacebrew.cc/) for connecting hardware and software over the internet.
 
-![](/workshops/berghs-2014-10_01.jpg)
+![](./workshops/berghs-2014-10_01.jpg)
 
 <iframe width="640" height="480" src="//www.youtube.com/embed/-uB4NsL3Kbg" allowfullscreen></iframe>
