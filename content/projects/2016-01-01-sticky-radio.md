@@ -2,6 +2,7 @@
 title: "Sticky Radio"
 description: "Sticky Radio was the result of a consultancy and prototyping work for Sveriges Radio Ressearch and Development department."
 cover: '/dev/sticky-radio.jpg'
+path: '/project/2016-01-sticky-radio'
 tags:
 - 'research'
 ---

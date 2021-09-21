@@ -2,6 +2,7 @@
 title: "Urbanears Pigeon Bingo"
 description: "Urbanears Pigeon Bingo was a bingo style game where pigeons shit on the washable headphones to call the numbers."
 cover: '/dev/pigeon-bingo.jpg'
+path: '/project/2014-02-urbanears-pigeon-bingo'
 tags:
 - 'web'
 - 'interactive'

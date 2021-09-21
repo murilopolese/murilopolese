@@ -2,6 +2,7 @@
 title: "Urbanears Radioheads"
 description: "Urbanears Radio Heads was a live streamed tournament with youtubers racing each other with radio controlled 3D printed heads."
 cover: '/dev/radioheads.jpg'
+path: '/project/2014-03-urbanears-radioheads'
 tags:
 - 'web'
 - 'interactive'

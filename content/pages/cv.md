@@ -11,25 +11,27 @@ I have worked as a full-stack software developer, creative technologist, consult
 
 **Long version:**
 
-I started studying Physics in 2007 at my hometown’s university (UFES). There I did internships working as an educator in an after school program and science museum, both targeting children at social risk. I also got involved with the modelling laboratory where they developed software simulations to be used by teachers and students in the classroom in times when projectors were starting to arrive in schools. In 2009 I dropped the course and became a developer due to the financial pressure of being a <del>hero</del> teacher in Brazil.
+I started studying Physics in **2007** at my hometown’s university (UFES). There I did internships working as an educator in an after school program and science museum, both targeting children at social risk. I also got involved with the modelling laboratory where they developed software simulations to be used by teachers and students in the classroom in times when projectors were starting to arrive in schools.
+
+In **2009** I dropped the course and became a developer due to the financial pressure of being a <del>hero</del> teacher in Brazil.
 
 <div class="row">
 
 <div style="width:30%">
 
-![](/muris_eaf.jpg)
+![](muris_eaf.jpg)
 
 </div>
 
 <div style="width:30%">
 
-![](/muris_capacete.jpg)
+![](muris_capacete.jpg)
 
 </div>
 
 <div style="width:30%">
 
-![](/muris_infinito.jpg)
+![](muris_infinito.jpg)
 
 </div>
 
@@ -37,42 +39,42 @@ I started studying Physics in 2007 at my hometown’s university (UFES). There I
 
 As a developer I worked in a range of places that dealt with the impacts of modern technology in our lives including "software houses", the government’s culture department, [projection mapping art collective](https://www.youtube.com/watch?v=Cp4usRl-nSg) and running my startup. I also became a [Science Hack Day Ambassador](http://sciencehackday.org/ambassador/)!
 
-![](/science_hack_day.jpg)
+![](science_hack_day.jpg)
 
-In 2014, I moved to Sweden where I worked as a creative technologist in a [digital agency](https://oakwood.se/), as a consultant for a [strategic design firm](https://www.designit.com/) and first got involved with a non-profit organisation called [Kids Hack Day](http://www.kidshackday.com/). While volunteering at Kids Hack Day I had the pleasure to develop some of the features of [Strawbees](https://strawbees.com/) and [Quirkbot](https://www.quirkbot.com/), toys designed to engage kids in perceiving that we can interact with technology more creatively and actively, rather than passively consuming it.
+In **2014**, I moved to Sweden where I worked as a creative technologist in a [digital agency](https://oakwood.se/), as a consultant for a [strategic design firm](https://www.designit.com/) and first got involved with a non-profit organisation called [Kids Hack Day](http://www.kidshackday.com/). While volunteering at Kids Hack Day I had the pleasure to develop some of the features of [Strawbees](https://strawbees.com/) and [Quirkbot](https://www.quirkbot.com/), toys designed to engage kids in perceiving that we can interact with technology more creatively and actively, rather than passively consuming it.
 
-In 2017 I moved to London where I worked for a company called [Kano](https://kano.me/), developing [desktop apps](https://kano.me/landing/app/uk), [websites](https://world.kano.me/challenges) and [embedded software](https://murilopolese.github.io/kano-pixel-kit-pixel32-docs/).
+In **2017** I moved to London where I worked for a company called [Kano](https://kano.me/), developing [desktop apps](https://kano.me/landing/app/uk), [websites](https://world.kano.me/challenges) and [embedded software](https://murilopolese.github.io/kano-pixel-kit-pixel32-docs/).
 
-In 2019 I went back to work (and play) with my beloved friends at [Strawbees](https://strawbees.com/) where I took different roles developing software and content with an educational focus.
+In **2019** I went back to work (and play) with my beloved friends at [Strawbees](https://strawbees.com/) where I took different roles developing software and content with an educational focus.
 
 
 <div class="row">
 
 <div style="width:30%; margin: 0 10px;">
 
-![](/muris.jpg)
+![](muris.jpg)
 
 </div>
 
 <div style="width:40%; margin: 0 10px;">
 
-![](/strawbees_team.jpg)
+![](strawbees_team.jpg)
 
 </div>
 
 <div style="width:30%; margin: 0 10px;">
 
-![](/muris_strawbees.jpg)
+![](muris_strawbees.jpg)
 
 </div>
 
 </div>
 
-In 2020 I moved back to Stockholm and had the honour of start working with [JoyLabz](https://joylabz.com/), one of the companies that most sparked my interest in prototyping, education and technology as well as becoming [literate on the world of inventions that surround us](https://www.ted.com/talks/jay_silver_hack_a_banana_make_a_keyboard).
+**2020** started with the pandemic taking away some of my dreams and giving me others. I left Strawbees and enrolled on a course called ["Recreating the Past" at School for Poetic Computation](https://sfpc.io/recreatingthepast-spring2020/). I moved back to Stockholm and started working with [JoyLabz](https://joylabz.com/), one of the companies that most sparked my interest in prototyping, education and technology as well as becoming [literate on the world of inventions that surround us](https://www.ted.com/talks/jay_silver_hack_a_banana_make_a_keyboard).
 
-In 2021 I joined [Blivande](https://blivande.com) house and community, where I participate in this experiment in stewarding and cultivating a co-created, participatory and self-sustaining ecosystem. Always becoming!
+In **2021** I joined [Blivande](https://blivande.com) house and community, where I participate in this experiment in stewarding and cultivating a co-created, participatory and self-sustaining ecosystem. Always becoming!
 
-![](/blivande.jpg)
+![](blivande.jpg)
 
 I'm actively looking for new, meaningful collaboration opportunities, connections and learning experiences.
 

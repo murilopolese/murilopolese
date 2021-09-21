@@ -2,6 +2,7 @@
 title: "Makey Makey Sampler"
 cover: "/makeymakeysampler.png"
 description: "I worked with JoyLabz to design and built our own Audio Sampler App because we saw the demand from the Makey Makey community."
+path: '/project/2021-05-makey-makey-sampler'
 tags:
 - 'web'
 - 'interactive'

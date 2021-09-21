@@ -157,26 +157,26 @@ async function main() {
       prettify(blog.html)
     )
   })
-  // posts.project = posts.project.map((project) => {
-  //   console.log('writting', project.matter.data.path)
-  //   // Create folder for clean paths
-  //   fs.mkdirSync(
-  //     path.resolve(
-  //       './public',
-  //       project.matter.data.path.substring(1)
-  //     ),
-  //     { recursive: true }
-  //   )
-  //   // Write index inside folder
-  //   fs.writeFileSync(
-  //     path.resolve(
-  //       './public',
-  //       project.matter.data.path.substring(1),
-  //       'index.html'
-  //     ),
-  //     prettify(project.html)
-  //   )
-  // })
+  posts.project = posts.project.map((project) => {
+    console.log('writting', project.matter.data.path)
+    // Create folder for clean paths
+    fs.mkdirSync(
+      path.resolve(
+        './public',
+        project.matter.data.path.substring(1)
+      ),
+      { recursive: true }
+    )
+    // Write index inside folder
+    fs.writeFileSync(
+      path.resolve(
+        './public',
+        project.matter.data.path.substring(1),
+        'index.html'
+      ),
+      prettify(project.html)
+    )
+  })
   // posts.workshop = posts.workshop.map((workshop) => {
   //   console.log('writting', workshop.matter.data.path)
   //   // Create folder for clean paths

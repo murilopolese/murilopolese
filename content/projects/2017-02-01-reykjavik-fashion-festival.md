@@ -2,6 +2,7 @@
 title: "Reykjavik Fashion Festival"
 description: "Exploration and generation of visuals related to one of the natural elements present in the Reykjavik's Fashion Festival brand: Wind."
 cover: '/dev/reykjavik-fashion-festival.png'
+path: '/project/2017-02-reykjavik-fashion-festival'
 tags:
 - 'animated'
 - 'interactive'

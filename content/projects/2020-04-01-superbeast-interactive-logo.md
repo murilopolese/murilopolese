@@ -2,6 +2,7 @@
 title: "Super Beast Interactive Logo"
 cover: "/superbeast.png"
 description: "Interactive logo for a design consultancy that mixed of generative and semi-random and ciliate inspired undulatory movement."
+path: '/project/2020-04-superbeast-interactive-logo'
 tags:
 - 'web'
 - 'animated'
