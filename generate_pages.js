@@ -4,10 +4,39 @@ const path = require('path')
 const prettify = require('html-prettify')
 const matter = require('gray-matter')
 
+function generateFrontMatter(content) {
+  content.matter = matter(content.filecontent)
+  return content
+}
+
+
+
+function writeFile(content) {
+  console.log('writting', content.matter.data.path)
+  // Create folder for clean paths
+  fs.mkdirSync(
+    path.resolve(
+      './public',
+      content.matter.data.path.substring(1)
+    ),
+    { recursive: true }
+  )
+  // Write index inside folder
+  fs.writeFileSync(
+    path.resolve(
+      './public',
+      content.matter.data.path.substring(1),
+      'index.html'
+    ),
+    prettify(content.html)
+  )
+}
+
+
 async function main() {
   // Step 1: process images
   const processImages = require('./process_images.js')
-  await processImages()
+  // await processImages()
 
   // Local modules and helpers
   const listFiles = require('./templates/utils/listfiles.js')
@@ -15,6 +44,11 @@ async function main() {
   const pageTemplate = require('./templates/page.js')
   const homeTemplate = require('./templates/home.js')
   const listTemplate = require('./templates/list.js')
+
+  function generateHTML(content) {
+    content.html = pageTemplate(content)
+    return content
+  }
 
   // Step 2: move static files
   const staticSrc = './static'
@@ -68,22 +102,10 @@ async function main() {
     }
   })
   // Front matter
-  pages = pages.map((page) => {
-    page.matter = matter(page.filecontent)
-    return page
-  })
-  posts.blog = posts.blog.map((blog) => {
-    blog.matter = matter(blog.filecontent)
-    return blog
-  })
-  posts.project = posts.project.map((project) => {
-    project.matter = matter(project.filecontent)
-    return project
-  })
-  posts.workshop = posts.workshop.map((workshop) => {
-    workshop.matter = matter(workshop.filecontent)
-    return workshop
-  })
+  pages = pages.map(generateFrontMatter)
+  posts.blog = posts.blog.map(generateFrontMatter)
+  posts.project = posts.project.map(generateFrontMatter)
+  posts.workshop = posts.workshop.map(generateFrontMatter)
 
   // Step 4: generate html
   pages = pages.map((page) => {
@@ -103,101 +125,15 @@ async function main() {
     }
     return page
   })
-  posts.blog = posts.blog.map((blog) => {
-    blog.html = pageTemplate(blog)
-    return blog
-  })
-  posts.project = posts.project.map((project) => {
-    project.html = pageTemplate(project)
-    return project
-  })
-  posts.workshop = posts.workshop.map((workshop) => {
-    workshop.html = pageTemplate(workshop)
-    return workshop
-  })
+  posts.blog = posts.blog.map(generateHTML)
+  posts.project = posts.project.map(generateHTML)
+  posts.workshop = posts.workshop.map(generateHTML)
 
   // Step 5: write files to the correct path
-  pages.forEach((page) => {
-    console.log('writting', page.matter.data.path)
-    // Create folder for clean paths
-    fs.mkdirSync(
-      path.resolve(
-        './public',
-        page.matter.data.path.substring(1)
-      ),
-      { recursive: true }
-    )
-    // Write index inside folder
-    fs.writeFileSync(
-      path.resolve(
-        './public',
-        page.matter.data.path.substring(1),
-        'index.html'
-      ),
-      prettify(page.html)
-    )
-  })
-  posts.blog = posts.blog.map((blog) => {
-    console.log('writting', blog.matter.data.path)
-    // Create folder for clean paths
-    fs.mkdirSync(
-      path.resolve(
-        './public',
-        blog.matter.data.path.substring(1)
-      ),
-      { recursive: true }
-    )
-    // Write index inside folder
-    fs.writeFileSync(
-      path.resolve(
-        './public',
-        blog.matter.data.path.substring(1),
-        'index.html'
-      ),
-      prettify(blog.html)
-    )
-  })
-  posts.project = posts.project.map((project) => {
-    console.log('writting', project.matter.data.path)
-    // Create folder for clean paths
-    fs.mkdirSync(
-      path.resolve(
-        './public',
-        project.matter.data.path.substring(1)
-      ),
-      { recursive: true }
-    )
-    // Write index inside folder
-    fs.writeFileSync(
-      path.resolve(
-        './public',
-        project.matter.data.path.substring(1),
-        'index.html'
-      ),
-      prettify(project.html)
-    )
-  })
-  posts.workshop = posts.workshop.map((workshop) => {
-    console.log('writting', workshop.matter.data.path)
-    // Create folder for clean paths
-    fs.mkdirSync(
-      path.resolve(
-        './public',
-        workshop.matter.data.path.substring(1)
-      ),
-      { recursive: true }
-    )
-    // Write index inside folder
-    fs.writeFileSync(
-      path.resolve(
-        './public',
-        workshop.matter.data.path.substring(1),
-        'index.html'
-      ),
-      prettify(workshop.html)
-    )
-  })
+  pages.forEach(writeFile)
+  posts.blog.forEach(writeFile)
+  posts.project.forEach(writeFile)
+  posts.workshop.forEach(writeFile)
 }
 
 main()
-// processImages()
