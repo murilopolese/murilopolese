@@ -2,6 +2,7 @@
 title: "Kids Hack Day: Club (2015 - 2016)"
 cover: '/workshops/khd-club-2015_01.jpg'
 description: "Following the success of 2014’s Summer Camp, we decided to go further and establish a Kids Hack Day Club."
+path: '/workshop/2015-01-kids-hack-day-club'
 tags:
 - '2015'
 ---

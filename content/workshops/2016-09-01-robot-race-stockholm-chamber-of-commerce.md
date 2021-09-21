@@ -1,7 +1,8 @@
 ---
 title: "Quirkbot Robot Race: Stockholm Chamber of Commerce"
-cover: '/workshops/quirkbot-2016-09_01.jpg'
+cover: '/workshops/quirkbot-2016-09_01_cropped.jpg'
 description: "A series of workshops with members from the Stockholm Chamber of Commerce, educators and students."
+path: '/workshop/2016-09-robot-race-stockholm-chamber-of-commerce'
 tags:
 - '2016'
 ---

@@ -7,7 +7,7 @@ const matter = require('gray-matter')
 async function main() {
   // Step 1: process images
   const processImages = require('./process_images.js')
-  // await processImages()
+  await processImages()
 
   // Local modules and helpers
   const listFiles = require('./templates/utils/listfiles.js')
@@ -177,26 +177,26 @@ async function main() {
       prettify(project.html)
     )
   })
-  // posts.workshop = posts.workshop.map((workshop) => {
-  //   console.log('writting', workshop.matter.data.path)
-  //   // Create folder for clean paths
-  //   fs.mkdirSync(
-  //     path.resolve(
-  //       './public',
-  //       workshop.matter.data.path.substring(1)
-  //     ),
-  //     { recursive: true }
-  //   )
-  //   // Write index inside folder
-  //   fs.writeFileSync(
-  //     path.resolve(
-  //       './public',
-  //       workshop.matter.data.path.substring(1),
-  //       'index.html'
-  //     ),
-  //     prettify(workshop.html)
-  //   )
-  // })
+  posts.workshop = posts.workshop.map((workshop) => {
+    console.log('writting', workshop.matter.data.path)
+    // Create folder for clean paths
+    fs.mkdirSync(
+      path.resolve(
+        './public',
+        workshop.matter.data.path.substring(1)
+      ),
+      { recursive: true }
+    )
+    // Write index inside folder
+    fs.writeFileSync(
+      path.resolve(
+        './public',
+        workshop.matter.data.path.substring(1),
+        'index.html'
+      ),
+      prettify(workshop.html)
+    )
+  })
 }
 
 main()

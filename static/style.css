@@ -82,6 +82,11 @@ iframe {
   padding-bottom: 1rem;
 }
 
+ul {
+  list-style: disc;
+  padding-left: 1em;
+}
+
 .container {
   max-width: 960px;
   margin: 0 auto;

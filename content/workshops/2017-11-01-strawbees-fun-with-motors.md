@@ -2,6 +2,7 @@
 title: "Strawbees: Fun with motors"
 cover: '/workshops/strawbees-fun-with-motors-2017-11_01.jpg'
 description: "A series of small activities to brainstorm about how could we explore motors, building and GPIOs and Kano products together."
+path: '/workshop/2017-11-strawbees-fun-with-motors'
 tags:
 - '2017'
 ---

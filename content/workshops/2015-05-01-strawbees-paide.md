@@ -2,6 +2,7 @@
 title: "Strawbees: Paide"
 cover: '/workshops/strawbees-2015-05_01.jpg'
 description: "A Strawbees workshop at Paide during a gathering to advertise a residency program on the city’s community centre."
+path: '/workshop/2015-05-strawbees-paide'
 tags:
 - '2015'
 ---
@@ -14,4 +15,4 @@ That is where Reiner, behind the community center, comes in. He’s life is dedi
 
 I gave a workshop more focused on using Strawbees as a tool to communicate ideas and arguments then the technical side. The activity was to build the widest hanging structure that wouldn’t touch the floor. After building it, we did a few rounds of reflection followed by very quick rebuilding sessions to consolidate what was said during the chat.
 
-![Strawbees at Paide]("/workshops/strawbees-2015-05_01.jpg)
+![Strawbees at Paide](./workshops/strawbees-2015-05_01.jpg)

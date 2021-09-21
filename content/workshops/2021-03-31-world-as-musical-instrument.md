@@ -2,6 +2,7 @@
 title: "World as Musical Instrument"
 cover: '/blivande-world-as-musical-instrument.png'
 description: "We gathered at Blivande to have a little bit of a play around music, tangible interface and triggering sounds."
+path: '/workshop/2021-03-world-as-musical-instrument'
 tags:
 - '2021'
 ---

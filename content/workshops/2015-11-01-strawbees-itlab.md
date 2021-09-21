@@ -2,6 +2,7 @@
 title: "Strawbees: ItLab"
 cover: '/workshops/strawbees-itlab-2015-11_02.jpg'
 description: "I was a mentor on a design bootcamp where interns from different Designit offices designed around the theme: Refugee crisis."
+path: '/workshop/2015-11-strawbees-itlab'
 tags:
 - '2015'
 ---
