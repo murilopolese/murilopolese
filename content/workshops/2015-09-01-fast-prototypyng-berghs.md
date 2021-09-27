@@ -12,7 +12,9 @@ Yet again my friend [Paulo Barcelos](https://www.linkedin.com/in/paulobarcelos/)
 This time was no much different from the previous two, except we took out the focus on teaching how to program on Processing in exchange to suggest students to hack their own professional tools such as keynote, media players or word processors for prototyping purposes. We also upgraded the hardware to a DIY version of Makey Makey Go.
 
 ![](./workshops/berghs-2015-10_01.jpg)
+
 ![](./workshops/berghs-2015-10_03.jpg)
+
 ![](./workshops/berghs-2015-10_02.jpg)
 
 <iframe src="//www.youtube.com/embed/vo51YZVkbDc"></iframe>

@@ -4,12 +4,21 @@ const path = require('path')
 const prettify = require('html-prettify')
 const matter = require('gray-matter')
 
+// Templates
+const pageTemplate = require('./templates/page.js')
+const postTemplate = require('./templates/post.js')
+const homeTemplate = require('./templates/home.js')
+const listTemplate = require('./templates/list.js')
+
 function generateFrontMatter(content) {
   content.matter = matter(content.filecontent)
   return content
 }
 
-
+function generatePostHTML(content) {
+  content.html = postTemplate(content)
+  return content
+}
 
 function writeFile(content) {
   console.log('writting', content.matter.data.path)
@@ -36,19 +45,13 @@ function writeFile(content) {
 async function main() {
   // Step 1: process images
   const processImages = require('./process_images.js')
-  // await processImages()
+  if (process.env.PROCESS_IMAGES) {
+    await processImages()
+  }
 
   // Local modules and helpers
   const listFiles = require('./templates/utils/listfiles.js')
-  // Templates
-  const pageTemplate = require('./templates/page.js')
-  const homeTemplate = require('./templates/home.js')
-  const listTemplate = require('./templates/list.js')
 
-  function generateHTML(content) {
-    content.html = pageTemplate(content)
-    return content
-  }
 
   // Step 2: move static files
   const staticSrc = './static'
@@ -107,7 +110,27 @@ async function main() {
   posts.project = posts.project.map(generateFrontMatter)
   posts.workshop = posts.workshop.map(generateFrontMatter)
 
-  // Step 4: generate html
+  // Step 4: Get related content
+  posts.blog = posts.blog.map((content, i) => {
+    const next = posts.blog[(i+1) % posts.blog.length]
+    const prev = posts.blog[(posts.blog.length+i-1) % posts.blog.length]
+    content.related = [prev, next]
+    return content
+  })
+  posts.project = posts.project.map((content, i) => {
+    const next = posts.project[(i+1) % posts.project.length]
+    const prev = posts.project[(posts.project.length+i-1) % posts.project.length]
+    content.related = [prev, next]
+    return content
+  })
+  posts.workshop = posts.workshop.map((content, i) => {
+    const next = posts.workshop[(i+1) % posts.workshop.length]
+    const prev = posts.workshop[(posts.workshop.length+i-1) % posts.workshop.length]
+    content.related = [prev, next]
+    return content
+  })
+
+  // Step 5: generate html
   pages = pages.map((page) => {
     // Generate pages according to its template
     switch (page.matter.data.template) {
@@ -125,11 +148,11 @@ async function main() {
     }
     return page
   })
-  posts.blog = posts.blog.map(generateHTML)
-  posts.project = posts.project.map(generateHTML)
-  posts.workshop = posts.workshop.map(generateHTML)
+  posts.blog = posts.blog.map(generatePostHTML)
+  posts.project = posts.project.map(generatePostHTML)
+  posts.workshop = posts.workshop.map(generatePostHTML)
 
-  // Step 5: write files to the correct path
+  // Step 6: write files to the correct path
   pages.forEach(writeFile)
   posts.blog.forEach(writeFile)
   posts.project.forEach(writeFile)

@@ -18,6 +18,7 @@ Because of my underlying goal to test the sampler app, this workshop was centred
 Most people who came in had never touched a Makey Makey before yet they have all been able to inspect and explore the material and its potential for musicality.
 
 ![Zoe showing a lemon with an alligator clip](./blivande-world-as-musical-instrument1.png)
+
 ![Hugi using an old tape recorder to trigger sounds](./blivande-world-as-musical-instrument3.png)
 
 Follow the [Blivande Forum thread](https://forum.blivande.com/t/the-world-as-a-music-instrument-workshop/2048) to learn more about this and upcoming workshops!

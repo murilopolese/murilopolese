@@ -16,6 +16,9 @@ We introduced Strawbees as the framework for creating physical structures while 
 We've built amazing constructions from massive, combined marble runs to crazy castles with waving towers.
 
 ![](./workshops/strawbees-fun-with-motors-2017-11_05.jpg)
+
 ![](./workshops/strawbees-fun-with-motors-2017-11_04.jpg)
+
 ![](./workshops/strawbees-fun-with-motors-2017-11_02.jpg)
+
 ![](./workshops/strawbees-fun-with-motors-2017-11_03.jpg)

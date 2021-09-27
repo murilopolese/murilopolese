@@ -14,4 +14,5 @@ To start the residency I organized a workshop very much inspired by the ones [I 
 I considered the workshop a success based on the different, exciting and unexpected projects that came out from it. The groups not only nailed the process of creation but also the project presentation, where they shared the most exciting and frustrating parts.
 
 ![](./workshops/oparque-2016-10_01.jpg)
+
 ![](./workshops/oparque-2016-10_02.jpg)

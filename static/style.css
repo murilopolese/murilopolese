@@ -150,6 +150,7 @@ ul.menu a:link {
   justify-content: space-between;
   align-items: center;
   font-size: 1.1rem;
+  padding-top: 1.5rem;
 }
 .home > * { padding: 0 1rem; }
 .home > :first-child { padding-left: 0; }
@@ -175,9 +176,11 @@ ul.menu a:link {
   text-align: center;
   padding-bottom: 2rem;
 }
+.content {
+  padding-bottom: 1rem;
+}
 
 /* LIST PAGE */
-
 .list {
   display: flex;
   flex-direction: column;
@@ -207,6 +210,13 @@ ul.menu a:link {
 .list .item .details h4 a:link,
 .list .item .details h4 a:visited {
   color: #000;
+}
+
+.list .item a:link,
+.list .item a:visited,
+.list .item a:active {
+  color: #000;
+  font-weight: bold;
 }
 
 .filter {
@@ -245,6 +255,7 @@ ul.menu a:link {
 @media only screen and (max-width: 960px) {
   .home {
     flex-direction: column-reverse;
+    padding-top: 0;
   }
   .home > * { padding: 1rem 0; }
   .home .text {

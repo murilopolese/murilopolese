@@ -2,6 +2,7 @@ const imageTemplate = require('./image.js')
 const getDate = require('../utils/getdate.js')
 
 module.exports = function(posts) {
+  if (!posts) return ``
   function item(post) {
     const { title, cover, description, path } = post.matter.data
     const date = getDate(post.filename)
