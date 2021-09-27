@@ -19,19 +19,19 @@ In **2009** I dropped the course and became a developer due to the financial pre
 
 <div style="width:30%">
 
-![](muris_eaf.jpg)
+![](./muris_eaf.jpg)
 
 </div>
 
 <div style="width:30%">
 
-![](muris_capacete.jpg)
+![](./muris_capacete.jpg)
 
 </div>
 
 <div style="width:30%">
 
-![](muris_infinito.jpg)
+![](./muris_infinito.jpg)
 
 </div>
 
@@ -52,19 +52,19 @@ In **2019** I went back to work (and play) with my beloved friends at [Strawbees
 
 <div style="width:30%; margin: 0 10px;">
 
-![](muris.jpg)
+![](./muris.jpg)
 
 </div>
 
 <div style="width:40%; margin: 0 10px;">
 
-![](strawbees_team.jpg)
+![](./strawbees_team.jpg)
 
 </div>
 
 <div style="width:30%; margin: 0 10px;">
 
-![](muris_strawbees.jpg)
+![](./muris_strawbees.jpg)
 
 </div>
 
@@ -74,7 +74,7 @@ In **2019** I went back to work (and play) with my beloved friends at [Strawbees
 
 In **2021** I joined [Blivande](https://blivande.com) house and community, where I participate in this experiment in stewarding and cultivating a co-created, participatory and self-sustaining ecosystem. Always becoming!
 
-![](blivande.jpg)
+![](./blivande.jpg)
 
 I'm actively looking for new, meaningful collaboration opportunities, connections and learning experiences.
 
