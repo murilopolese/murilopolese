@@ -13,8 +13,6 @@ I have worked as a full-stack software developer, creative technologist, consult
 
 I started studying Physics in **2007** at my hometown’s university (UFES). There I did internships working as an educator in an after school program and science museum, both targeting children at social risk. I also got involved with the modelling laboratory where they developed software simulations to be used by teachers and students in the classroom in times when projectors were starting to arrive in schools.
 
-In **2009** I dropped the course and became a developer due to the financial pressure of being a <del>hero</del> teacher in Brazil.
-
 <div class="row">
 
 <div style="width:30%">
@@ -37,11 +35,15 @@ In **2009** I dropped the course and became a developer due to the financial pre
 
 </div>
 
+In **2009** I dropped the course and became a developer due to the financial pressure of being a <del>hero</del> teacher in Brazil.
+
 As a developer I worked in a range of places that dealt with the impacts of modern technology in our lives including "software houses", the government’s culture department, [projection mapping art collective](https://www.youtube.com/watch?v=Cp4usRl-nSg) and running my startup. I also became a [Science Hack Day Ambassador](http://sciencehackday.org/ambassador/)!
 
-![](science_hack_day.jpg)
+![](./science_hack_day.jpg)
 
 In **2014**, I moved to Sweden where I worked as a creative technologist in a [digital agency](https://oakwood.se/), as a consultant for a [strategic design firm](https://www.designit.com/) and first got involved with a non-profit organisation called [Kids Hack Day](http://www.kidshackday.com/). While volunteering at Kids Hack Day I had the pleasure to develop some of the features of [Strawbees](https://strawbees.com/) and [Quirkbot](https://www.quirkbot.com/), toys designed to engage kids in perceiving that we can interact with technology more creatively and actively, rather than passively consuming it.
+
+![](./quirkbot_kickstarter.png)
 
 In **2017** I moved to London where I worked for a company called [Kano](https://kano.me/), developing [desktop apps](https://kano.me/landing/app/uk), [websites](https://world.kano.me/challenges) and [embedded software](https://murilopolese.github.io/kano-pixel-kit-pixel32-docs/).
 
