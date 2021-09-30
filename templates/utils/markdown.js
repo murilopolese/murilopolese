@@ -16,6 +16,13 @@ const renderer = {
       // External image
       return `<img src="${href}" alt="External Image"/>`
     }
+  },
+  code(string) {
+    if (string) {
+      return `<div class="code">${string.replace(/\n/g, '<br>')}</div>`
+    } else {
+      return ``
+    }
   }
 }
 

@@ -316,3 +316,12 @@ ul.menu a:link {
     flex-direction: column;
   }
 }
+
+.code {
+  padding: 1rem;
+  background: #eee;
+  margin-bottom: 1rem;
+  overflow-x: scroll;
+  unicode-bidi: embed;
+  white-space: pre;
+}
