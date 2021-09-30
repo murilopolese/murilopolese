@@ -4,6 +4,9 @@ const path = require('path')
 const prettify = require('html-prettify')
 const matter = require('gray-matter')
 
+// Local modules and helpers
+const listFiles = require('./templates/utils/listfiles.js')
+
 // Templates
 const pageTemplate = require('./templates/page.js')
 const postTemplate = require('./templates/post.js')
@@ -48,10 +51,6 @@ async function main() {
   if (process.env.PROCESS_IMAGES) {
     await processImages()
   }
-
-  // Local modules and helpers
-  const listFiles = require('./templates/utils/listfiles.js')
-
 
   // Step 2: move static files
   const staticSrc = './static'
@@ -135,7 +134,18 @@ async function main() {
     // Generate pages according to its template
     switch (page.matter.data.template) {
       case 'list':
-        const category = page.matter.data.category
+      const category = page.matter.data.category
+        // Get filters
+        page.filters = posts[category].reduce((acc, post) => {
+          const tags = post.matter.data.tags || []
+          tags.forEach((tag) => {
+            if (acc.indexOf(tag) === -1) {
+              acc.push(tag)
+            }
+          })
+          return acc
+        }, [])
+        // Generate HTML
         page.html = listTemplate(page, posts[category].reverse())
         break
       case 'home':

@@ -2,10 +2,10 @@ const fs = require('fs')
 const path = require('path')
 const markdown = require('marked')
 const imageTemplate = require('../components/image.js')
-const files = require('../../public/files.json')
 
 const renderer = {
   image(href, title, text) {
+    const files = require('../../public/files.json')
     if (href.indexOf('://') === -1) {
       // prepend a "dot" if it's a root image
       if (href[0] === '/') href = `.${href}`

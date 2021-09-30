@@ -239,15 +239,15 @@ ul.menu a:link {
 }
 
 .filter > *:hover,
-.filter .active {
+.filter .selected {
   background: #000;
   color: #fff;
 }
 
 .filter > *:hover a:link,
 .filter > *:hover a:visited,
-.filter .active a:link,
-.filter .active a:visited {
+.filter .selected a:link,
+.filter .selected a:visited {
   color: #fff;
 }
 

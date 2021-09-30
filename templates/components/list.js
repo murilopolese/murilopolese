@@ -4,10 +4,11 @@ const getDate = require('../utils/getdate.js')
 module.exports = function(posts) {
   if (!posts) return ``
   function item(post) {
-    const { title, cover, description, path } = post.matter.data
+    const { title, cover, description, path, tags = [] } = post.matter.data
     const date = getDate(post.filename)
+    const tagData = tags.map(tag => `filter-${tag}`).join(' ')
     return `
-      <li class="item">
+      <li class="item ${tagData}">
         <a class="thumbnail" href="${path}">
           ${imageTemplate(`.${cover}`)}
         </a>

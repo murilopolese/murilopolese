@@ -8,6 +8,10 @@ module.exports = function(page, posts) {
   const pageContent = markdown(page.matter.content)
   const { title, description } = page.matter.data
 
+  function filterItem(filter) {
+    return `<a href="#${filter}">${filter}</a>`
+  }
+
   return documentTemplate({
     title: page.matter.data.title,
     content: `
@@ -19,6 +23,9 @@ module.exports = function(page, posts) {
             <div class="description">
               ${description}
             </div>
+          </div>
+          <div class="filter">
+            ${page.filters.map(filterItem).join('')}
           </div>
           <div class="content">
             ${pageContent}

@@ -1,8 +1,8 @@
 const fs = require('fs')
 const path = require('path')
-const files = require('../../public/files.json')
 
 module.exports = function(href) {
+  const files = require('../../public/files.json')
   if (files[href].svg) {
     let svgData = fs.readFileSync(
       path.resolve('./public', files[href].svg)

@@ -70,9 +70,9 @@ In **2019** I went back to work (and play) with my beloved friends at [Strawbees
 
 </div>
 
-**2020** started with the pandemic taking away some of my dreams and giving me others. I left Strawbees and enrolled on a course called ["Recreating the Past" at School for Poetic Computation](https://sfpc.io/recreatingthepast-spring2020/). I moved back to Stockholm and started working with [JoyLabz](https://joylabz.com/), one of the companies that most sparked my interest in prototyping, education and technology as well as becoming [literate on the world of inventions that surround us](https://www.ted.com/talks/jay_silver_hack_a_banana_make_a_keyboard).
+**2020** started with the pandemic taking away some of my dreams and giving me others. I left Strawbees and enrolled on an online course called ["Recreating the Past" at School for Poetic Computation](https://sfpc.io/recreatingthepast-spring2020/). I moved back to Stockholm and started working with [JoyLabz](https://joylabz.com/), one of the companies that sparked my interest in prototyping, education and technology (as well as thinking about [invention literacy](https://www.youtube.com/watch?v=ibrwte1QqUE)).
 
-In **2021** I joined [Blivande](https://blivande.com) house and community, where I participate in this experiment in stewarding and cultivating a co-created, participatory and self-sustaining ecosystem. Always becoming!
+In **2021** I joined [Blivande](https://blivande.com) house, where I participate of an experiment in self-stewarding. There we cultivate a co-created, participatory and self-sustaining ecosystem. Always becoming!
 
 ![](./blivande.jpg)
 

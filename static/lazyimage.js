@@ -1,9 +1,9 @@
-window.onload = function() {
+window.addEventListener('load', function() {
   const images = document.querySelectorAll('.image-wrapper')
   for (let i = 0; i < images.length; i++) {
     const image = images.item(i)
     if (!image.dataset['small']) continue
-    fetch(image.dataset['small'])
+    fetch(`/${image.dataset['small']}`)
       .then(r => r.arrayBuffer())
       .then(() => {
         let img = new Image()
@@ -28,4 +28,4 @@ window.onload = function() {
         }
       })
   }
-}
+})
