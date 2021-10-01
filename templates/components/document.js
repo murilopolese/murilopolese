@@ -15,6 +15,7 @@ function mainTemplate(state) {
         ${content}
         <script src="/lazyimage.js" type="text/javascript"></script>
         <script src="/filter.js" type="text/javascript"></script>
+        <script src="/responsive_youtube.js" type="text/javascript"></script>
       </body>
     </html>
   `
