@@ -315,6 +315,12 @@ ul.menu a:link {
   justify-content: space-between;
 }
 
+.row > div {
+  padding: 0 1rem;
+}
+.row > :first-child { padding-left: 0; }
+.row > :last-child { padding-right: 0; }
+
 @media only screen and (max-width: 760px) {
   .row {
     flex-direction: column;

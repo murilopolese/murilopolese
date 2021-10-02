@@ -15,19 +15,19 @@ I started studying Physics in **2007** at my hometown’s university (UFES). The
 
 <div class="row">
 
-<div style="width:30%">
+<div>
 
 ![](./muris_eaf.jpg)
 
 </div>
 
-<div style="width:30%">
+<div>
 
 ![](./muris_capacete.jpg)
 
 </div>
 
-<div style="width:30%">
+<div>
 
 ![](./muris_infinito.jpg)
 
@@ -52,19 +52,19 @@ In **2019** I went back to work (and play) with my beloved friends at [Strawbees
 
 <div class="row">
 
-<div style="width:30%; margin: 0 10px;">
+<div>
 
 ![](./muris.jpg)
 
 </div>
 
-<div style="width:40%; margin: 0 10px;">
+<div>
 
 ![](./strawbees_team.jpg)
 
 </div>
 
-<div style="width:30%; margin: 0 10px;">
+<div>
 
 ![](./muris_strawbees.jpg)
 
