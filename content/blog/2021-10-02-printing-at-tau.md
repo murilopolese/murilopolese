@@ -7,9 +7,9 @@ path: "/blog/2021-10-02-printing-at-tau"
 
 ![Printing at Tau](./printing_at_tau_01.jpeg)
 
-Around May this year I was [looking into making a new round of research, exploration and development around drawing machines](https://forum.blivande.com/t/printing-at-taus-artist-in-residency-room/2428). I would usually do this at home but this time it was so obvious I should make it at [Blivande](https://www.blivande.com/)!
+Earlier this year I was [looking into making a new round of research, exploration and development around drawing machines](https://forum.blivande.com/t/printing-at-taus-artist-in-residency-room/2428). I would usually do this at home but this time it was very obvious I should make it at [Blivande](https://www.blivande.com/)!
 
-It was a very experimental, collaborative, kids friendly and welcoming process. Some people showed up, many interesting conversations happened and a few workshop moments! I took time to watch, listen and *feel* the movements.
+I rented a room in the heart of the Tau Studio (the house's makerspace) and I conducted a very experimental, collaborative, kids friendly and welcoming process. Some people showed up, many interesting conversations happened and we had a few workshop moments! In the end it was all about taking time to watch, listen and *feel* the **relationship** between hand and machine.
 
 I had a 4 week plan:
 
@@ -65,7 +65,7 @@ I had a 4 week plan:
 
 **Journal**
 
-I kept a journal taking notes on what I tried, what failed, what I liked, conversations, keywords, ideas and much [more here](http://wiki.bananabanana.me/education/drawing-machines). There are also some stuff on [Instagram](https://www.instagram.com/p/CQB5JQyDVgn/).
+I kept a journal taking notes on what I tried, what failed, what I liked, conversations, keywords, ideas and much [more here](http://wiki.bananabanana.me/education/drawing-machines). There are also some documentation on [Instagram](https://www.instagram.com/p/CQB5JQyDVgn/).
 
 <div class="row">
 
