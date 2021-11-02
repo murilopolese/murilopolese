@@ -1,7 +1,7 @@
 ---
 title: "Poetics of Mechanical Movement"
 cover: "/printing_at_tau_01.jpeg"
-description: "I made a new round of exploration around drawing machines at Blivande's Artist in Residency Room."
+description: "A month of exploration around drawing machines at Blivande's Artist in Residency Room."
 path: "/blog/2021-10-02-printing-at-tau"
 ---
 

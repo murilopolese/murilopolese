@@ -9,6 +9,7 @@ function header() {
         <li><a href="/projects">Projects</a></li>
         <li><a href="/workshops">Workshops</a></li>
         <li><a href="/blog">Blog</a></li>
+        <li><a href="http://bananabanana.me">🍌</a></li>
       </ul>
     </div>
   `

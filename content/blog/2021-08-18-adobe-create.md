@@ -1,7 +1,7 @@
 ---
 title: "Creating Animations with a 3D Printer"
 cover: "/new-years-experiment.gif"
-description: "Bee and I made an interview for Adobe Create about an animation we made with a 3D printer hacked into a pen plotter."
+description: "Bee and I gave an interview for Adobe Create about an animation we made with a 3D printer hacked into a pen plotter."
 path: "/blog/2021-08-18-printing-at-tau"
 ---
 
