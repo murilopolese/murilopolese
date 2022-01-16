@@ -16,7 +16,8 @@ const smallPath = path.resolve(path.resolve(process.env.PATH_SMALL))
 // Apply sharp operations:
 function resizeOperation() {
   // List all files from `src` directory
-  const files = listFiles(fileSrc)
+  let files = listFiles(fileSrc)
+  files = files.filter(f => f.indexOf('.pdf') === -1)
   let promises = []
   // RESIZE 420
   promises = promises.concat(
@@ -45,18 +46,17 @@ function traceOperation() {
 }
 
 // Move gifs
-function moveGifs() {
-  const gifs = listFiles(fileSrc).filter(f => f.indexOf('.gif') !== -1)
-
-  for (let i = 0; i < gifs.length; i++) {
-    let gif = gifs[i]
-    let finalName = gif
+function moveFiles(ext) {
+  const files = listFiles(fileSrc).filter(f => f.indexOf(`.${ext}`) !== -1)
+  for (let i = 0; i < files.length; i++) {
+    let file = files[i]
+    let finalName = file
     if (finalName[0] === '.') finalName = finalName.substr(2)
     fs.copyFileSync(
-      path.resolve(fileSrc, gif),
-      path.resolve(fileOut, 'gif', finalName.split('/').join('_'))
+      path.resolve(fileSrc, file),
+      path.resolve(fileOut, ext, finalName.split('/').join('_'))
     )
-    console.log('Copied', gif)
+    console.log('Copied', file)
   }
 }
 
@@ -103,8 +103,10 @@ function main() {
   fs.mkdirSync(path.resolve(fileOut, '960'))
   fs.mkdirSync(path.resolve(fileOut, 'svg'))
   fs.mkdirSync(path.resolve(fileOut, 'gif'))
+  fs.mkdirSync(path.resolve(fileOut, 'pdf'))
 
-  moveGifs()
+  moveFiles('gif')
+  moveFiles('pdf')
   return resizeOperation()
     .then(() => {
       console.log('done resizing')

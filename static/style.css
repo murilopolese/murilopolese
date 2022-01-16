@@ -315,6 +315,10 @@ ul.menu a:link {
   justify-content: space-between;
 }
 
+.row.center {
+  justify-content: center;
+}
+
 .row > div {
   padding: 0 1rem;
 }

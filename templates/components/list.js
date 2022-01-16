@@ -15,7 +15,7 @@ module.exports = function(posts) {
         <div class="details">
           <h4>
             <a href="${path}">
-              ${date[0]}-${date[1]}: ${title}
+              ${date[0]}-${date[1]} ${title}
             </a>
           </h4>
           <p>${description}</p>
