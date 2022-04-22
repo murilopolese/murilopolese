@@ -72,7 +72,7 @@ In **2019** I went back to work (and play) with my beloved friends at [Strawbees
 
 **2020** started with the pandemic taking away some of my dreams and giving me others. I left Strawbees and enrolled on an online course called ["Recreating the Past" at School for Poetic Computation](https://sfpc.io/recreatingthepast-spring2020/). I moved back to Stockholm and started working with [JoyLabz](https://joylabz.com/), one of the companies that sparked my interest in prototyping, education and technology (as well as thinking about [invention literacy](https://www.youtube.com/watch?v=ibrwte1QqUE)).
 
-In **2021** I joined [Blivande](https://blivande.com) house, where I participate of an experiment in self-stewarding. There we cultivate a co-created, participatory and self-sustaining ecosystem. Always becoming! I have also become an active member of JoyLabz R&D team, lectured at [Konstfack](https://www.konstfack.se/en/), worked as Industry Leader at [Hyper Island](https://www.hyperisland.com/) and worked on restructuring and co-teaching the course [Recreating the Past at School for Poetic Computation](https://sfpc.io/fall-2021/rtp/index.html).
+In **2021** I joined [Blivande](https://blivande.com) house, where I participate in a  self-stewarding experiment. There we cultivate a co-created, participatory and self-sustaining ecosystem. Always becoming! I have also become an active member of [JoyLabz R&D team](https://joylabz.com), lectured at [Konstfack](https://www.konstfack.se/en/), Industry Leader at [Hyper Island](https://www.hyperisland.com/) and worked on restructuring and co-teaching the course [Recreating the Past at School for Poetic Computation](https://sfpc.io/fall-2021/rtp/index.html).
 
 <div class="row">
 

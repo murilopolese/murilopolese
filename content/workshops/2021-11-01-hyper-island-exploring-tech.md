@@ -9,7 +9,7 @@ tags:
 
 Since I arrived in Stockholm I'm surrounded by people, projects and sparks from [Hyper Island](https://www.hyperisland.com/). In 2021 I had the pleasure to be Industry Leader of a module called Exploring Tech for the Digital Creative program. When [Mari Leoni](https://www.hyperisland.com/) invited me, she also gave me the most freedom I ever had on designing a course and all the support I needed.
 
-The result was a 3 week module with lectures, talks, workshops, practices and as far as I could feel, a lot of fun! The first week was about Literacy, the second about Poetics and in the third we worked on an assignment from the book Code as Creative Medium. You can download the [Program PDF](/pdf/hi_exploring_tech.pdf).
+The result was a 3 week module with lectures, talks, workshops, practices and as far as I could feel, a lot of fun! The first week was about Literacy, the second about Poetics and in the third we worked on an assignment from the book Code as Creative Medium. You can download the [program booklet](/pdf/hi_exploring_tech.pdf).
 
 I was lucky and very happy to get to invite special people to come and lecture about my favourite, and very relevant, topics.
 
