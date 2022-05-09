@@ -10,8 +10,8 @@ description: ""
 
 I am profoundly interested in learning experiences and technology. But I'm equally interested in music, microscope and drawing machines.
 
-If you are smiling after reading this, please get in touch and let's have a chat!
+I'm actively looking for new meaningful collaborations, opportunities, connections and learning experiences.
 
 :)
 
-[Github](https://github.com/murilopolese) / [Email](mailto:murilopolese+dotcom@gmail.com) / [Twitter](https://twitter.com/murilopolese) / [Instagram](https://instagram.com/murilopolese)
+[Github](https://github.com/murilopolese) / [Email](mailto:murilopolese+dotcom@gmail.com) / [Mastodon](https://sunbeam.city/@murilove)

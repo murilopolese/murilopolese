@@ -96,6 +96,6 @@ In **2021** I joined [Blivande](https://blivande.com) house, where I participate
 
 </div>
 
-I'm actively looking for new, meaningful collaboration opportunities, connections and learning experiences.
+I'm actively looking for new meaningful collaborations, opportunities, connections and learning experiences.
 
 [Github](https://github.com/murilopolese) / [Email](mailto:murilopolese+dotcom@gmail.com) / [Twitter](https://twitter.com/murilopolese) / [Instagram](https://instagram.com/murilopolese)
