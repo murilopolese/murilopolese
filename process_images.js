@@ -11,7 +11,7 @@ const traceSVG = require('./templates/utils/trace.js')
 
 const fileSrc = path.resolve(process.env.FILE_SRC)
 const fileOut = path.resolve(process.env.FILE_OUT)
-const smallPath = path.resolve(path.resolve(process.env.PATH_SMALL))
+const smallPath = path.resolve(process.env.PATH_SMALL)
 
 // Apply sharp operations:
 function resizeOperation() {
