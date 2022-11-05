@@ -41,7 +41,21 @@ In **2009** I left the Physics course and became a software developer due to the
 
 In **2014**, I moved to Sweden where I worked as a creative technologist in a [digital agency](https://oakwood.se/), as a consultant for a [strategic design firm](https://www.designit.com/) and first got involved with a non-profit organisation called [Kids Hack Day](http://www.kidshackday.com/). While volunteering at Kids Hack Day I had the pleasure to develop some of the features of [Strawbees](https://strawbees.com/) and [Quirkbot](https://www.quirkbot.com/), toys designed to engage kids in perceiving that we can interact with technology more creatively and actively, rather than passively consuming it.
 
+<div class="row">
+
+<div>
+
 ![](./quirkbot_kickstarter.png)
+
+</div>
+
+<div>
+
+![](./strawbees_team.jpg)
+
+</div>
+
+</div>
 
 In **2017** I moved to London where I worked for a company called [Kano](https://kano.me/), developing [desktop apps](https://kano.me/landing/app/uk), [websites](https://world.kano.me/challenges) and [embedded software](https://murilopolese.github.io/kano-pixel-kit-pixel32-docs/).
 
@@ -58,12 +72,6 @@ In **2019** I went back to work (and play) with my beloved friends at [Strawbees
 
 <div>
 
-![](./strawbees_team.jpg)
-
-</div>
-
-<div>
-
 ![](./muris_strawbees.jpg)
 
 </div>
@@ -72,15 +80,11 @@ In **2019** I went back to work (and play) with my beloved friends at [Strawbees
 
 **2020** started with the pandemic taking away some of my dreams and giving me others. I left Strawbees and enrolled on an online course called ["Recreating the Past" at School for Poetic Computation](https://sfpc.io/recreatingthepast-spring2020/). I moved back to Stockholm and started working with [JoyLabz](https://joylabz.com/), one of the companies that sparked my interest in prototyping, education and technology (as well as thinking about [invention literacy](https://www.youtube.com/watch?v=ibrwte1QqUE)).
 
-In **2021** I joined [Blivande](https://blivande.com) house, where I participate in a  self-stewarding experiment. There we cultivate a co-created, participatory and self-sustaining ecosystem. Always becoming! I have also become an active member of [JoyLabz R&D team](https://joylabz.com), lectured at [Konstfack](https://www.konstfack.se/en/), Industry Leader at [Hyper Island](https://www.hyperisland.com/) and worked on restructuring and co-teaching the course [Recreating the Past at School for Poetic Computation](https://sfpc.io/fall-2021/rtp/index.html).
-
-<div class="row">
-
-<div>
+In **2021** I joined [Blivande](https://blivande.com) house, where I participate in a  self-stewarding experiment. There we cultivate a co-created, participatory and self-sustaining ecosystem. Always becoming! I have also become an active member of [JoyLabz R&D team](https://joylabz.com), lectured at [Konstfack](https://www.konstfack.se/en/), worked as Industry Leader at [Hyper Island](https://www.hyperisland.com/) and participated on the restructuring and co-teaching the course [Recreating the Past at School for Poetic Computation](https://sfpc.io/fall-2021/rtp/index.html).
 
 ![](./sfpc_rtp_teachers.jpg)
 
-</div>
+<div class="row">
 
 <div>
 
@@ -98,4 +102,4 @@ In **2021** I joined [Blivande](https://blivande.com) house, where I participate
 
 I'm actively looking for new meaningful collaborations, opportunities, connections and learning experiences.
 
-[Github](https://github.com/murilopolese) / [Email](mailto:murilopolese+dotcom@gmail.com) / [Twitter](https://twitter.com/murilopolese) / [Instagram](https://instagram.com/murilopolese)
+[Github](https://github.com/murilopolese) / [Email](mailto:murilopolese+dotcom@gmail.com) / [Mastodon](https://sunbeam.city/@murilove)
