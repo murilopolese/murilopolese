@@ -7,7 +7,7 @@ tags:
 - '2022'
 ---
 
-I was invited by [Pålle Pettersson](https://www.berghs.se/kursansvarig/palle-pettersson/) to co-design and direct a module for the Communication Design program and after a many years I was happy to be back at Berghs School of Communication. Initially this module was designed to be in person but since restrictions were raised a few days before the class started, we decided to go online first with a few presential moments.
+I was invited by [Pålle Pettersson](https://www.berghs.se/kursansvarig/palle-pettersson/) to co-design and direct a module for the Communication Design program and after many years I was happy to be back at Berghs School of Communication. Initially this module was designed to be in person but since restrictions were raised a few days before the class started, we decided to go online first with a few presential moments.
 
 The goal of this course was to grow and understand of how technology can be material for the field of visual communication and how it can change its practices. We've leveraged on topics such creativity and literacy as a path to understand and embrace digital techniques and materials.
 
