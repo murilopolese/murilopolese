@@ -71,16 +71,16 @@ I have taught and facilitated courses at [School for Poetic Computation](https:/
 
 <br>
 <div class="gallery">
-<img alt="" src="/media/muris_eaf.jpg" />
-<img alt="" src="/media/muris_capacete.jpg" />
-<img alt="" src="/media/muris_infinito.jpg" />
-<img alt="" src="/media/science_hack_day.jpg" />
-<img alt="" src="/media/quirkbot_kickstarter.png" />
-<img alt="" src="/media/muris.jpg" />
-<img alt="" src="/media/strawbees_team.jpg" />
-<img alt="" src="/media/blivande.jpg" />
-<img alt="" src="/media/sfpc_rtp_teachers.jpg" />
-<img alt="" src="/media/konstfack_2021_gallery.jpg" />
-<img alt="" src="/media/hi_jonas.jpg" />
-<img alt="" src="/media/microcosmicperformance.jpg" />
+<img alt="" src="/thumbnails/muris_eaf.jpg" />
+<img alt="" src="/thumbnails/muris_capacete.jpg" />
+<img alt="" src="/thumbnails/muris_infinito.jpg" />
+<img alt="" src="/thumbnails/science_hack_day.jpg" />
+<img alt="" src="/thumbnails/quirkbot_kickstarter.png" />
+<img alt="" src="/thumbnails/muris.jpg" />
+<img alt="" src="/thumbnails/strawbees_team.jpg" />
+<img alt="" src="/thumbnails/blivande.jpg" />
+<img alt="" src="/thumbnails/sfpc_rtp_teachers.jpg" />
+<img alt="" src="/thumbnails/konstfack_2021_gallery.jpg" />
+<img alt="" src="/thumbnails/hi_jonas.jpg" />
+<img alt="" src="/thumbnails/microcosmicperformance.jpg" />
 </div>

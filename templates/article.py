@@ -10,7 +10,7 @@ def template(state={}):
             )
     return """
 <article>
-    <figure><img src="./media/{cover}" /></figure>
+    <figure><img src="./thumbnails/{cover}" /></figure>
     <section>
         <h3>{title}</h3>
         <p>{description}</p>

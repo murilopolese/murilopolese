@@ -9,6 +9,7 @@ def template(state={}):
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="stylesheet" href="./static/reset.css">
     <link rel="stylesheet" href="./static/style.css">
+    <script src="./static/gallery.js"></script>
   </head>
     <body>
         <nav>
