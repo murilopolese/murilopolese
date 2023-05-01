@@ -4,6 +4,9 @@ cover: '/sfpc_rtp_students.jpg'
 description: "Teaching computational art from the past decades, and co-creating our own computational art histories through recreating the works of artists who inspire us."
 path: '/workshop/2022-01-sfpc-recreating-the-past'
 featured: true
+links:
+  Archive: 'https://sfpc.study/projects/rtp2021'
+  Program: 'https://murilopolese.github.io/RTP_SFPC_2021/'
 tags:
 - '2022'
 ---

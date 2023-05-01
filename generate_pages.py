@@ -6,7 +6,7 @@ from templates import document, article, homepage, titlepage
 article_template = article.template
 document_template = document.template
 home_page_template = homepage.template
-title_plage_template = titlepage.template
+title_page_template = titlepage.template
 
 project_folder = './content/projects'
 learning_folder = './content/workshops'
@@ -60,6 +60,9 @@ featured_learning_list = get_featured(learning_data)
 learning_html = render_articles_by_year(learning_data[::-1])
 featured_learning_html = render_articles(featured_learning_list[::-1])
 
+about_data = frontmatter.load(about_file)
+about_html = markdown.markdown(about_data.content)
+
 home_page_html = document_template({
     "main": home_page_template({
         "featured_projects": featured_projects_html,
@@ -67,15 +70,22 @@ home_page_html = document_template({
     })
 })
 projects_page_html = document_template({
-    "main": title_plage_template({
+    "main": title_page_template({
         "title": "Projects",
         "content": projects_html
     })
 })
 learning_page_html = document_template({
-    "main": title_plage_template({
+    "main": title_page_template({
         "title": "Learning",
         "content": learning_html
+    })
+})
+
+about_page_html = document_template({
+    "main": title_page_template({
+        "title": "About",
+        "content": about_html
     })
 })
 
@@ -87,3 +97,6 @@ with open('projects.html', 'w') as f:
 
 with open('learning.html', 'w') as f:
     f.write(learning_page_html)
+
+with open('about.html', 'w') as f:
+    f.write(about_page_html)

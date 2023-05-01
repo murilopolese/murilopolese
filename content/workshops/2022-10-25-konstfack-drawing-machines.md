@@ -4,6 +4,9 @@ cover: '/2022-10-25-konstfackdrawingmachines.png'
 description: "A 3 day workshop for graphic design and illustration students about drawing machines where we explored the poetics of mechanical movement."
 path: '/workshop/2022-10-konstfack-drawing-machines'
 featured: true
+links:
+  Konstfack: 'https://www.konstfack.se/en/'
+  Video: 'https://www.youtube.com/watch?v=hXrsmVX1dfk'
 tags:
 - '2022'
 ---

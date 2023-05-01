@@ -9,4 +9,4 @@ Check [murilopolese.com](http://www.murilopolese.com) to see how it looks like.
 
 ## Deploy
 
-aws s3 sync ./public/ s3://www.murilopolese.com/ --exclude '.*' --acl public-read
+aws s3 sync ./ s3://www.murilopolese.com/ --exclude '.*' --exclude 'venv' --acl public-read

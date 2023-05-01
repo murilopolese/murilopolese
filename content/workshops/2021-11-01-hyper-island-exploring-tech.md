@@ -3,6 +3,11 @@ title: "Hyper Island: Exploring Tech"
 cover: '/hi_jonas.jpg'
 description: "An immersive module containing hands-on experimentation with new technologies, learning hardware and digital fabrication."
 path: '/workshop/2021-12-hyper-island-exploring-tech'
+links:
+  'HI': 'https://www.hyperisland.com/'
+  Program: '/media/hi_exploring_tech.pdf'
+  'Student Projects 1': 'https://www.youtube.com/watch?v=P7FcRqAfE7M'
+  'Student Projects 2': 'https://www.youtube.com/watch?v=VN5RA_kRzrQ'
 tags:
 - '2021'
 ---

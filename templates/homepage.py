@@ -2,7 +2,7 @@ def template(state={}):
     return """
 <header id="about">
     <p><strong>Hello! I am a Brazilian technologist</strong><br> (or a full stack developer if you prefer).</p>
-    <p>I'm profoundly interested in learning experiences and technology. But I'm equally interested in music, microscope, drawing machines and <a href="/about.html">more</a></p>
+    <p>I'm profoundly interested in learning experiences and technology. But I'm equally interested in music, microscopes, drawing machines and <a href="/about.html">more</a>.</p>
 </header>
 <section>
     <h2><a href="projects.html">Projects</a></h2>

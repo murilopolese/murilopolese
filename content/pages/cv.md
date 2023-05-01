@@ -5,106 +5,82 @@ description: ""
 template: "page"
 ---
 
-**Short version:**
+I'm a creative technologist, consultant, researcher and full-stack developer.
 
-I have worked as a full-stack software developer, creative technologist, consultant and leading R&D projects for the past 10+ years. I have experience developing interactive media for art installations, advertisement campaigns as well as developing and maintaining robust systems, databases, embedded software and infrastructure. For the past 5 years, I leveraged from my training as a Physics teacher and focused on my real passion: Empowering through playful education. I worked with companies such as [Kano](https://kano.me), Quirkbot, [Strawbees](https://strawbees.com/) and [JoyLabz](https://joylabz.com/). I am also an ambassador of [Science Hack Day](http://sciencehackday.org/ambassador/) and [Kids Hack Day](https://www.kidshackday.com/about) hackathons.
+I have experience with interactive media art for installations and advertisement campaigns but also developing and maintaining robust systems, databases, embed software and infrastructure.
 
-## 2007
+I am currently focusing on education and technology. I have worked with companies such as [Strawbees](https://strawbees.com/), Quirkbot, [Kano](https://kano.me) and [Arduino](https://arduino.cc). I am ambassador of [Kids Hack Day](https://www.kidshackday.com/about) and [Science Hack Day](http://sciencehackday.org/ambassador/) hackathons.
 
-- Physics at UFES
-- Internship at a social risk program in elementary school
-- Monitor at Science Museum
-- Involved with Physics software modeling lab at university
+I have taught and facilitated courses at [School for Poetic Computation](https://sfpc.study/), [Konsftack](https://www.konstfack.se/), [Berghs](https://berghs.se), [Hyper Island](https://www.hyperisland.com) and [Vefskoli](https://vefskoli.is).
 
-<div class="row">
+<br>
+<br>
 
-<div>
+### 2007
 
-![](./muris_eaf.jpg)
+- Studied Physics (UFES)
+- Internship at social risk program in elementary school (Programa Tempo Integral)
+- Monitor at Science Museum (Museu da Ciência)
+- Volunteer on Physics software modeling lab at university (Modelab)
 
+### 2009
+
+- Dropped Physics to become a software developer
+- Support team and lead developer at software house (Fivecom)
+- Technical responsible at culture department’s youth program (Programa Rede Cultura Jovem)
+- Interaction developer at projection mapping collective (PixxFluxx)
+- Hosted Science Hack Day Vitória
+- Attend to Science Hack Day San Francisco
+
+### 2014
+
+- Moved to Stockholm
+- Creative Technologist at Digital Agency (Oakwood)
+- Consultant (Designit)
+- Organizer of Kids Hack Day events and club
+- Produced Strawbees’ first instruction booklet
+- Contributed to Quirkbot Kickstarter
+
+### 2017
+
+- Moved to London
+- Software Engineer at Kano Computer
+- Attended and organized technology workshops for children (Kids Hack Day, Poplar Union, Tate Modern)
+- Head of education (Strawbees)
+
+### 2020
+
+- Moved back to Stockholm
+- Student at Recreating the Past (School for Poetic Computation)
+- Research and Development (JoyLabz)
+
+### 2021
+
+- Joined art collective (Blivande)
+- Taught Creative Tech courses (Konstfack, Hyper Island and Berghs)
+- Restructured syllabus and co-taught Recreating the Past (School for Poetic Computation)
+
+### 2022
+
+- Software Developer and Research and Development (Arduino)
+- Taught drawing machine course (Konstfack)
+
+### 2023
+
+- Taught Cellular Automata course (School for Poetic Computation)
+
+<br>
+<div class="gallery">
+<img alt="" src="/media/muris_eaf.jpg" />
+<img alt="" src="/media/muris_capacete.jpg" />
+<img alt="" src="/media/muris_infinito.jpg" />
+<img alt="" src="/media/science_hack_day.jpg" />
+<img alt="" src="/media/quirkbot_kickstarter.png" />
+<img alt="" src="/media/muris.jpg" />
+<img alt="" src="/media/strawbees_team.jpg" />
+<img alt="" src="/media/blivande.jpg" />
+<img alt="" src="/media/sfpc_rtp_teachers.jpg" />
+<img alt="" src="/media/konstfack_2021_gallery.jpg" />
+<img alt="" src="/media/hi_jonas.jpg" />
+<img alt="" src="/media/microcosmicperformance.jpg" />
 </div>
-
-<div>
-
-![](./muris_capacete.jpg)
-
-</div>
-
-<div>
-
-![](./muris_infinito.jpg)
-
-</div>
-
-</div>
-
-
-
-In **2009** I left the Physics course and became a software developer due to the financial pressure of being a <del>hero</del> teacher in Brazil. As a developer I worked in a range of places that dealt with the impacts of modern technology in our lives including the government’s culture department, a [projection mapping art collective](https://www.youtube.com/watch?v=Cp4usRl-nSg) and running my startup. I also became a [Science Hack Day Ambassador](http://sciencehackday.org/ambassador/)!
-
-![](./science_hack_day.jpg)
-
-In **2014**, I moved to Sweden where I worked as a creative technologist in a [digital agency](https://oakwood.se/), as a consultant for a [strategic design firm](https://www.designit.com/) and first got involved with a non-profit organisation called [Kids Hack Day](http://www.kidshackday.com/). While volunteering at Kids Hack Day I had the pleasure to develop some of the features of [Strawbees](https://strawbees.com/) and [Quirkbot](https://www.quirkbot.com/), toys designed to engage kids in perceiving that we can interact with technology more creatively and actively, rather than passively consuming it.
-
-<div class="row">
-
-<div>
-
-![](./quirkbot_kickstarter.png)
-
-</div>
-
-<div>
-
-![](./strawbees_team.jpg)
-
-</div>
-
-</div>
-
-In **2017** I moved to London where I worked for a company called [Kano](https://kano.me/), developing [desktop apps](https://kano.me/landing/app/uk), [websites](https://world.kano.me/challenges) and [embedded software](https://murilopolese.github.io/kano-pixel-kit-pixel32-docs/).
-
-In **2019** I went back to work (and play) with my beloved friends at [Strawbees](https://strawbees.com/) where I took different roles developing software and content with an educational focus.
-
-
-<div class="row">
-
-<div>
-
-![](./muris.jpg)
-
-</div>
-
-<div>
-
-![](./muris_strawbees.jpg)
-
-</div>
-
-</div>
-
-**2020** started with the pandemic taking away some of my dreams and giving me others. I left Strawbees and enrolled on an online course called ["Recreating the Past" at School for Poetic Computation](https://sfpc.io/recreatingthepast-spring2020/). I moved back to Stockholm and started working with [JoyLabz](https://joylabz.com/), one of the companies that sparked my interest in prototyping, education and technology (as well as thinking about [invention literacy](https://www.youtube.com/watch?v=ibrwte1QqUE)).
-
-In **2021** I joined [Blivande](https://blivande.com) house, where I participate in a  self-stewarding experiment. There we cultivate a co-created, participatory and self-sustaining ecosystem. Always becoming! I have also become an active member of [JoyLabz R&D team](https://joylabz.com), lectured at [Konstfack](https://www.konstfack.se/en/), worked as Industry Leader at [Hyper Island](https://www.hyperisland.com/) and participated on the restructuring and co-teaching the course [Recreating the Past at School for Poetic Computation](https://sfpc.io/fall-2021/rtp/index.html).
-
-![](./sfpc_rtp_teachers.jpg)
-
-<div class="row">
-
-<div>
-
-![](./konstfack_2021_gallery.jpg)
-
-</div>
-
-<div>
-
-![](./hi_jonas.jpg)
-
-</div>
-
-</div>
-
-I'm actively looking for new meaningful collaborations, opportunities, connections and learning experiences.
-
-[Github](https://github.com/murilopolese) / [Email](mailto:murilopolese+dotcom@gmail.com) / [Mastodon](https://sunbeam.city/@murilove)
