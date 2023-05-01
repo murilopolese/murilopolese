@@ -3,6 +3,7 @@ title: "SFPC: Recreating the Past"
 cover: '/sfpc_rtp_students.jpg'
 description: "Teaching computational art from the past decades, and co-creating our own computational art histories through recreating the works of artists who inspire us."
 path: '/workshop/2022-01-sfpc-recreating-the-past'
+featured: true
 tags:
 - '2022'
 ---

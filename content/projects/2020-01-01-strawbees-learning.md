@@ -3,6 +3,7 @@ title: "Strawbees Learning"
 cover: "/strawbeeslearning.png"
 description: "Strawbees Learning is an oasis for innovative teachers who embrace creative thinking and hands-on learning with Strawbees."
 path: '/project/2020-01-strawbees-learning'
+featured: true
 tags:
 - 'web'
 - 'research'

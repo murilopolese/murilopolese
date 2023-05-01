@@ -7,11 +7,14 @@ template: "page"
 
 **Short version:**
 
-I have worked as a full-stack software developer, creative technologist, consultant and leading R&D projects for the past 10+ years. I have experience developing interactive media for art installations, advertisement campaigns as well as developing and maintaining robust systems, databases, embedded software and infrastructure. For the past 5 years, I leveraged from my training as a Physics teacher and focused on my real passion: Empowering through playful education. I worked with companies such as [Kano](https://kano.me), Quirkbot, [Strawbees](https://strawbees.com/) and [JoyLabz](https://joylabz.com/). I also participate, run and am an ambassador of [Science Hack Day](http://sciencehackday.org/ambassador/) and [Kids Hack Day](https://www.kidshackday.com/about) hackathons.
+I have worked as a full-stack software developer, creative technologist, consultant and leading R&D projects for the past 10+ years. I have experience developing interactive media for art installations, advertisement campaigns as well as developing and maintaining robust systems, databases, embedded software and infrastructure. For the past 5 years, I leveraged from my training as a Physics teacher and focused on my real passion: Empowering through playful education. I worked with companies such as [Kano](https://kano.me), Quirkbot, [Strawbees](https://strawbees.com/) and [JoyLabz](https://joylabz.com/). I am also an ambassador of [Science Hack Day](http://sciencehackday.org/ambassador/) and [Kids Hack Day](https://www.kidshackday.com/about) hackathons.
 
-**Long version:**
+## 2007
 
-I started studying Physics in **2007** at my hometown’s university (UFES). There I did internships working as an educator in an after school program and science museum, both targeting children at social risk. I also got involved with the modelling laboratory where they developed software simulations to be used by teachers and students in classroom.
+- Physics at UFES
+- Internship at a social risk program in elementary school
+- Monitor at Science Museum
+- Involved with Physics software modeling lab at university
 
 <div class="row">
 
@@ -34,6 +37,8 @@ I started studying Physics in **2007** at my hometown’s university (UFES). The
 </div>
 
 </div>
+
+
 
 In **2009** I left the Physics course and became a software developer due to the financial pressure of being a <del>hero</del> teacher in Brazil. As a developer I worked in a range of places that dealt with the impacts of modern technology in our lives including the government’s culture department, a [projection mapping art collective](https://www.youtube.com/watch?v=Cp4usRl-nSg) and running my startup. I also became a [Science Hack Day Ambassador](http://sciencehackday.org/ambassador/)!
 
