@@ -1,6 +1,5 @@
 venv
 */__pycache__
-thumbnails
 
 # Ignore .DS_Store files on OS X
 .DS_Store
