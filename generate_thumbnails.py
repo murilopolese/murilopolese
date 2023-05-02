@@ -2,8 +2,8 @@ import glob
 from PIL import Image
 import shutil
 
-W = int(960 / 2)
-H = int(540 / 2)
+W = int(960)
+H = int(540)
 
 def create_thumbnail(source_path, dest_path):
     with Image.open(source_path) as img:
@@ -12,9 +12,9 @@ def create_thumbnail(source_path, dest_path):
 
         img.thumbnail((W, H))
         if '.jpg' in dest_path:
-            img.save(dest_path, "JPEG", optimize=True, quality=20)
+            img.save(dest_path, "JPEG", optimize=True, quality=60)
         if '.png' in dest_path:
-            img.save(dest_path, "PNG", optimize=True, quality=20)
+            img.save(dest_path, "PNG", optimize=True, quality=60)
         if '.gif' in dest_path:
             shutil.copy(source_path, dest_path)
 
