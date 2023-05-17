@@ -1,6 +1,6 @@
 ---
 title: "New Year's Experiment"
-cover: "/new-years-experiment.gif"
+cover: "new-years-experiment.gif"
 description: "Using a 3D printer to make new years cards where each card is a frame of a stop motion animation."
 path: '/project/2019-01-new-years-experiment'
 featured: true

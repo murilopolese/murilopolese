@@ -1,6 +1,6 @@
 ---
 title: "Color Code at Babycastle's WordHack"
-cover: "/wordhack.jpg"
+cover: "wordhack.jpg"
 description: "I got pretty excited to share my programming language without words at an event about words and language!"
 path: "/blog/2021-06-color-code-at-word-hack"
 ---

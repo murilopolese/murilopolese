@@ -125,6 +125,7 @@ article {
 article figure {
   max-height: 11rem;
   width: 40%;
+  overflow: hidden;
 }
 article figure img {
   width: 100%;

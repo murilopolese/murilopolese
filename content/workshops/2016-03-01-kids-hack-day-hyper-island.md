@@ -1,6 +1,6 @@
 ---
 title: "Kids Hack Day: Hyper Island"
-cover: '/workshops/khd-2016-03_01.jpg'
+cover: 'workshops/khd-2016-03_01.jpg'
 description: "I joined the event with my friend Carl Bärstad as volunteer and consultant both training the students and helping to design the space."
 path: '/workshop/2016-03-kids-hack-day-hyper-island'
 tags:

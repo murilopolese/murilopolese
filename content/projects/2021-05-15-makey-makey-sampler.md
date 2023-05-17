@@ -1,6 +1,6 @@
 ---
 title: "Makey Makey Sampler"
-cover: "/makeymakeysampler.png"
+cover: "makeymakeysampler_recorder.png"
 description: "I worked with the educator Colleen Graves to design and built Makey Makey's own Audio Sampler App."
 path: '/project/2021-05-makey-makey-sampler'
 links:

@@ -1,6 +1,6 @@
 ---
 title: "Hyper Island: Exploring Tech"
-cover: '/hi_jonas.jpg'
+cover: 'hi_jonas.jpg'
 description: "An immersive module containing hands-on experimentation with new technologies, learning hardware and digital fabrication."
 path: '/workshop/2021-12-hyper-island-exploring-tech'
 links:

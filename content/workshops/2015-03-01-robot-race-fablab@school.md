@@ -1,6 +1,6 @@
 ---
 title: "Quirkbot Robot Race: FabLab@School"
-cover: '/workshops/quirkbot-2015-03_01.jpg'
+cover: 'workshops/quirkbot-2015-03_01.jpg'
 description: "A workshop at Vejle's FabLab@School conference with a classic Quirkbot activity: Build a robotic creature in 20 minutes."
 path: '/workshop/2015-03-robot-race-fablab@school'
 tags:

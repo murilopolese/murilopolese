@@ -1,6 +1,6 @@
 ---
 title: "Berghs: Creative Tech"
-cover: '/2022-01-berghs.jpg'
+cover: '2022-01-berghs.jpg'
 description: "A course around creative technologies and how it can be material for the field of visual communication as well as changing its practices."
 path: '/workshop/2022-01-berghs-creative-tech'
 links:

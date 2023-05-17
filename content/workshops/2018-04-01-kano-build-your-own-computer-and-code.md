@@ -1,6 +1,6 @@
 ---
 title: "Kano: Build your computer and code"
-cover: '/workshops/kano-build-your-computer-2018-04_01.jpg'
+cover: 'workshops/kano-build-your-computer-2018-04_01.jpg'
 description: "An exploration day on how to use the Make Art app to introduce a more complex programming language skills."
 path: '/workshop/2018-04-kano-build-your-own-computer-and-code'
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "Banana Banana"
-cover: "/bananabanana.png"
+cover: "bananabanana.png"
 description: "BananaBanana is my home server and a journey on digital sovereignty ideas that both healed my relationship with internet."
 path: "/blog/2020-12-bananabanana"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Fabulous remote control"
-cover: '/buildlogs/rccars.jpg'
+cover: 'buildlogs/rccars.jpg'
 description: "Revisiting one of my favourite childhood game as a grown up kid allowed me to reflect and expand on basic and pure joy of open play."
 path: "/blog/2018-10-fabulous-remote-control"
 ---

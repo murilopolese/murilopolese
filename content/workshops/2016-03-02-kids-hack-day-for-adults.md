@@ -1,6 +1,6 @@
 ---
 title: "Kids Hack Day: KHD For Adults"
-cover: '/workshops/khd-for-adults-2016-03_01.jpg'
+cover: 'workshops/khd-for-adults-2016-03_01.jpg'
 description: "After Kids Hack Days a lot of adults came to us to ask about participation. We decide to create a special event only for them."
 path: '/workshop/2016-03-kids-hack-day-for-adults'
 tags:

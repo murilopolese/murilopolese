@@ -1,6 +1,6 @@
 ---
 title: "Makey Makey Sampler"
-cover: "/makeymakeysampler.png"
+cover: "makeymakeysampler.png"
 description: "In the spring of 2021, we designed and built our own Audio Sampler App because we saw the demand from the Makey Makey community."
 path: "/blog/2021-05-makey-makey-sampler"
 ---

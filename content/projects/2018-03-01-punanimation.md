@@ -1,7 +1,7 @@
 ---
 title: "Panimation Directory"
 description: "No more excuses for male-only studios, speaker line-ups and director rosters. Diversity exists, it's got skills and it's here."
-cover: '/dev/punanimation-directory.png'
+cover: 'dev/punanimation-directory.png'
 path: '/project/2018-03-punanimation'
 featured: true
 links:

@@ -1,6 +1,6 @@
 ---
 title: "Bits and Atoms: Vefskoli"
-cover: '/workshops/bits-and-atoms-2018-02_01_cropped.jpg'
+cover: 'workshops/bits-and-atoms-2018-02_01_cropped.jpg'
 description: "A 3 day lecture about how to extend web technology beyond the browser into the physical world."
 path: '/workshop/2018-02-bits-and-atoms-vefskoli'
 tags:

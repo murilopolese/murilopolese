@@ -1,6 +1,6 @@
 ---
 title: "School for Poetic Computation - Recreating the Past"
-cover: "/sfpc.jpg"
+cover: "sfpc.jpg"
 description: "I enrolled on the online version of Recreating the Past course and got to learn new ways to think, research and make."
 path: "/blog/2020-07-school-for-poetic-computation"
 ---

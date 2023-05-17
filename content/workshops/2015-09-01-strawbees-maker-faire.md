@@ -1,6 +1,6 @@
 ---
 title: "Strawbees: Makers Faire NY"
-cover: '/workshops/strawbees-makerfaire-2015-10_01.jpg'
+cover: 'workshops/strawbees-makerfaire-2015-10_01.jpg'
 description: "I joined the Maker Faire as part of the Strawbees gang, we set a booth next to the gift shop and had a lot of fun."
 path: '/workshop/2015-09-strawbees-maker-faire'
 tags:

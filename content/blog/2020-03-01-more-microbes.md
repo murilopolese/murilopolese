@@ -1,6 +1,6 @@
 ---
 title: "Microcosmic Journals"
-cover: "/microcosmos.jpg"
+cover: "microcosmos.jpg"
 description: "I keep a collection of dirty water from different sources carefully prepared for maximum fun under the microscope."
 path: "/blog/2020-03-more-microbes"
 ---

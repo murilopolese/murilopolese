@@ -1,6 +1,6 @@
 ---
 title: "Konstfack: Browser as a Canvas"
-cover: '/konstfack_2021_gallery.jpg'
+cover: 'konstfack_2021_gallery.jpg'
 description: "A 3 week course on how web technologies can be a platform for visual art practices design and expression."
 path: '/workshop/2021-10-konstfack2021gfi2'
 links:

@@ -1,6 +1,6 @@
 ---
 title: "Fast Prototyping: O Parque"
-cover: '/workshops/oparque-2016-10_01.jpg'
+cover: 'workshops/oparque-2016-10_01.jpg'
 description: "An event to wrap up my one month residency at O Parque, where I interacted with local creative professionals through technology."
 path: '/workshop/2016-10-fast-prototypyng-o-parque'
 tags:

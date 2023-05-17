@@ -1,6 +1,6 @@
 ---
 title: "Konstfack: Drawing Machines"
-cover: '/2022-10-25-konstfackdrawingmachines.png'
+cover: '2022-10-25-konstfackdrawingmachines.png'
 description: "A 3 day workshop for graphic design and illustration students about drawing machines where we explored the poetics of mechanical movement."
 path: '/workshop/2022-10-konstfack-drawing-machines'
 featured: true

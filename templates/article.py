@@ -3,7 +3,7 @@ def template(state={}):
     if 'links' in state.keys():
         for title in state['links'].keys():
             links += """
-                <a class="external" target="_blank" href="{url}">{title} 🔗 </a>
+                <a class="external" target="_blank" href="{url}">🔗 {title} </a>
             """.format(
                 title=title,
                 url=state['links'][title]

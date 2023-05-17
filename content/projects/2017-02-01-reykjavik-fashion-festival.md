@@ -1,7 +1,7 @@
 ---
 title: "Reykjavik Fashion Festival"
 description: "Generative visuals exploring one of the natural elements present in the Reykjavik's Fashion Festival brand: Wind."
-cover: '/dev/reykjavik-fashion-festival.png'
+cover: 'dev/reykjavik-fashion-festival.png'
 path: '/project/2017-02-reykjavik-fashion-festival'
 links:
   Case: 'https://serious.business/case/rff/'

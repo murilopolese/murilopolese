@@ -1,6 +1,6 @@
 ---
 title: "Kano: Code Dojo Girls Only"
-cover: '/workshops/kano-girls-dojo-2017-04_01.jpg'
+cover: 'workshops/kano-girls-dojo-2017-04_01.jpg'
 description: "My wife and I hosted a table at Code Dojo Girls Only edition. I was in charge of a “make your own computer” workshop."
 path: '/workshop/2017-04-kano-code-dojo-girls-only'
 tags:

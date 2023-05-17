@@ -1,6 +1,6 @@
 ---
 title: "Kids Hack Day: Summer Camp"
-cover: '/workshops/khd-2014-06_01.jpg'
+cover: 'workshops/khd-2014-06_01.jpg'
 description: "During early days of Kids Hack Day, the main format was “one day events”. I joined the first edition of its new format: Summer Camps."
 path: '/workshop/2014-06-kids-hack-day-summer-camp'
 tags:

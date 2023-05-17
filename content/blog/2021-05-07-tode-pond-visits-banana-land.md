@@ -1,6 +1,6 @@
 ---
 title: "TodePond visits BananaBanana land"
-cover: "/todepond_colorcode.png"
+cover: "todepond_colorcode.png"
 description: "Luke Wilson made a tour around the internet showcasing \"cellular automata engines\" and visited Banana land!"
 path: "/blog/2021-05-tode-pond-visits-banana-land"
 ---

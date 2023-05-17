@@ -1,6 +1,6 @@
 ---
 title: "Color Code!"
-cover: "/color_code.png"
+cover: "color_code.png"
 description: "Color Code is a cellular automaton and visual programming language without words or symbols, just colors!"
 path: "/blog/2020-11-color-code"
 ---

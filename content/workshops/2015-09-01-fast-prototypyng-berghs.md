@@ -1,6 +1,6 @@
 ---
 title: "Fast Prototyping: Bergs"
-cover: '/workshops/berghs-2015-10_01.jpg'
+cover: 'workshops/berghs-2015-10_01.jpg'
 description: "A lecture with my friend Paulo Barcelos about techniques and tools for rapid prototyping at Berghs School of Communication."
 path: '/workshop/2015-09-fast-prototypyng-berghs'
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "Kids Hack Day London"
-cover: '/workshops/khd2_1.jpg'
+cover: 'workshops/khd2_1.jpg'
 description: "Two beautiful and inspiring days with children, parents and volunteers having a good time, being curious and building things."
 path: '/workshop/2019-04-kids-hack-day-london'
 links:

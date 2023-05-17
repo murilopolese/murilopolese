@@ -1,6 +1,6 @@
 ---
 title: "Strawbees: Paide"
-cover: '/workshops/strawbees-2015-05_01.jpg'
+cover: 'workshops/strawbees-2015-05_01.jpg'
 description: "A Strawbees workshop at Paide during a gathering to advertise a residency program on the city’s community centre."
 path: '/workshop/2015-05-strawbees-paide'
 tags:
