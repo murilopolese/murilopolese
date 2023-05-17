@@ -82,16 +82,22 @@ ul {
   font-size: 0.8em;
 }
 
+small {
+  font-size: 0.5em;
+}
+
 
 nav {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  padding: 1rem;
-  /* position: fixed; */
+  padding: 1rem 0;
   top: 0;
   left: 0;
   right: 0;
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
 }
 
 nav .categories {
@@ -134,7 +140,7 @@ article figure img {
 }
 article section {
   width: 60%;
-  padding: 0.5rem 1.5rem;
+  padding: 0 1.5rem;
 }
 
 .gallery {
