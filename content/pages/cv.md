@@ -45,24 +45,26 @@ I have taught and facilitated courses at [School for Poetic Computation](https:/
 
 - Moved to London
 - Software Engineer at Kano Computer
+- Enrolled on Learn Creative Learning online course from Lifelong Kindergarten
 - Attended and organized technology workshops for children (Kids Hack Day, Poplar Union, Tate Modern)
 - Head of education at Strawbees
+- Enrolled on Competency Based Education from MITx
 
 ### 2020
 
-- Moved back to Stockholm
 - Student at Recreating the Past at School for Poetic Computation
 - Research and Development at JoyLabz
+- Moved back to Stockholm
 
 ### 2021
 
-- Joined art collective Blivande
+- Residency at art collective Blivande
 - Taught Creative Tech courses at Konstfack, Hyper Island and Berghs
 - Restructured syllabus and co-taught Recreating the Past at School for Poetic Computation
 
 ### 2022
 
-- Software Developer and Research and Development at Arduino
+- Research and Development at Arduino
 - Taught drawing machine course at Konstfack
 
 ### 2023
