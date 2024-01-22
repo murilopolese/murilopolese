@@ -5,71 +5,67 @@ description: ""
 template: "page"
 ---
 
-I'm a creative technologist, consultant, researcher and full-stack developer.
+As a creative technologist, consultant, researcher, and full-stack developer with experience in interactive media art for installations and advertisement campaigns, I specialize in developing robust systems, databases, embed software and infrastructure.
 
-I have experience with interactive media art for installations and advertisement campaigns but also developing and maintaining robust systems, databases, embed software and infrastructure.
+My current focus is on education and technology and I've worked with companies such as [Strawbees](https://strawbees.com/), [Quirkbot](https://www.youtube.com/watch?v=a2LIR4TEiaI&ab_channel=Quirkbot), [Kano](https://kano.me), and [Arduino](https://arduino.cc). As an ambassador of [Kids Hack Day](https://www.kidshackday.com/about) and [Science Hack Day](http://sciencehackday.org/ambassador/) hackathons, I'm passionate about participating in learning that celebrates creativity, agency and critical thinking.
 
-I am currently focusing on education and technology. I have worked with companies such as [Strawbees](https://strawbees.com/), Quirkbot, [Kano](https://kano.me) and [Arduino](https://arduino.cc). I am an ambassador of [Kids Hack Day](https://www.kidshackday.com/about) and [Science Hack Day](http://sciencehackday.org/ambassador/) hackathons.
-
-I have taught and facilitated courses at [School for Poetic Computation](https://sfpc.study/), [Konsftack](https://www.konstfack.se/), [Berghs](https://berghs.se), [Hyper Island](https://www.hyperisland.com) and [Vefskoli](https://vefskoli.is).
+I've facilitated courses at [School for Poetic Computation](https://sfpc.study/), [Konsftack](https://www.konstfack.se/), [Berghs](https://berghs.se), [Hyper Island](https://www.hyperisland.com), and [Vefskoli](https://vefskoli.is).
 
 <br>
 <br>
 
 ### 2007
 
-- Studied Physics at UFES
-- Internship at social risk program in elementary school at Programa Tempo Integral
-- Monitor at Science Museum at Museu da Ciência
-- Volunteer on Physics software modeling lab at university at Modelab
+- Studied Physics at [UFES](https://ufes.br/)
+- Internship at social risk program in elementary school ([Programa Tempo Integral](https://www.vitoria.es.gov.br/noticias/programa-educacao-em-tempo-integral-amplia-atendimento-em-emefs-233))
+- Monitor at Science Museum ([Escola da Ciência-Física](https://www.vitoria.es.gov.br/cidade/centros-de-ciencia-e-educacao))
+- Volunteer on Physics software modeling lab at university ([Modelab](https://cce.ufes.br/laboratorios))
 
 ### 2009
 
 - Dropped Physics to become a software developer
-- Support team and lead developer at software house at Fivecom
-- Technical responsible at culture department’s youth program at Programa Rede Cultura Jovem
-- Interaction developer at projection mapping collective at PixxFluxx
-- Hosted Science Hack Day Vitória
-- Attended to Science Hack Day San Francisco
+- Support team and lead developer at software house ([Fivecom](https://www.linkedin.com/company/fivecom-sistemas-e-consultoria))
+- Technical responsible at culture department’s youth program ([Programa Rede Cultura Jovem](https://secult.es.gov.br/40-projetos-culturais-capixabas-serao-reconhe))
+- Interaction developer at projection mapping collective ([PixxFluxx](https://www.youtube.com/user/pixxfluxx))
+- Hosted [Science Hack Day](http://sciencehackday.org/) Vitória
+- Attended [Science Hack Day](http://sciencehackday.org/) San Francisco
 
 ### 2014
 
 - Moved to Stockholm
-- Creative Technologist at Oakwood Digital Agency
-- Consultant at Designit
-- Organizer of Kids Hack Day events and club
-- Produced Strawbees’ first instruction booklet
-- Contributed to Quirkbot Kickstarter
+- Creative Technologist at [Oakwood Digital Agency](https://www.oakwood-digital.com/)
+- Consultant at [Designit](https://www.designit.com/)
+- Organized [Kids Hack Day](https://www.kidshackday.com/) events and club
+- Produced [Strawbees’](https://strawbees.com/) first instruction booklet
+- Contributed to [Quirkbot Kickstarter](https://www.kickstarter.com/projects/1687812426/quirkbot-make-your-own-robots-with-drinking-straws)
 
 ### 2017
 
 - Moved to London
-- Software Engineer at Kano Computer
-- Enrolled on Learn Creative Learning online course from Lifelong Kindergarten
-- Attended and organized technology workshops for children (Kids Hack Day, Poplar Union, Tate Modern)
-- Head of education at Strawbees
-- Enrolled on Competency Based Education from MITx
+- Software Engineer at [Kano Computer](https://www.kickstarter.com/projects/alexklein/creative-computing-for-all?token=65de0a77)
+- Enrolled on [Learn Creative Learning](https://lcl.media.mit.edu/) online course from Lifelong Kindergarten
+- Attended and organized technology workshops for children ([Kids Hack Day](https://london.kidshackday.com/), [Poplar Union](https://poplarunion.com/), [Tate Modern](https://www.tate.org.uk/whats-on/tate-modern/power-play-london-clc))
+- Head of education at [Strawbees](https://strawbees.com/)
+- Enrolled on [Competency Based Education from MITx](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+0.502x+1T2019/about)
 
 ### 2020
 
-- Student at Recreating the Past at School for Poetic Computation
-- Research and Development at JoyLabz
+- Student at [Recreating the Past at School for Poetic Computation](https://sfpc.io/recreatingthepast-spring2020/)
+- Research and Development at [JoyLabz](https://joylabz.com/)
 - Moved back to Stockholm
 
 ### 2021
 
-- Residency at art collective Blivande
-- Taught Creative Tech courses at Konstfack, Hyper Island and Berghs
-- Restructured syllabus and co-taught Recreating the Past at School for Poetic Computation
+- Residency at art collective [Blivande](https://www.blivande.com/)
+- Taught Creative Tech courses at [Konstfack](https://www.konstfack.se/en/), [Hyper Island](https://www.hyperisland.com/) and [Berghs](https://www.berghs.se/en/)
+- Restructured syllabus and co-taught [Recreating the Past at School for Poetic Computation](https://sfpc.io/fall-2021/rtp/index.html)
 
 ### 2022
 
-- Research and Development at Arduino
-- Taught drawing machine course at Konstfack
-
-### 2023
-
-- Taught Cellular Automata course at School for Poetic Computation
+- Research and Development at [Arduino](https://www.arduino.cc/)
+- Taught drawing machine course at [Konstfack](https://www.konstfack.se/en/)
+- Taught [Cellular Automata course at School for Poetic Computation](https://sfpc.study/sessions/spring-23/cellular-automata)
+- Started a business with my family called [Muricangas](https://www.instagram.com/muricangas/)
 
 <br>
 <div class="gallery">
