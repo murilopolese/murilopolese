@@ -10,4 +10,5 @@ featured: true
 tags:
 - 'research'
 - 'interactive'
+- 'residency'
 ---
