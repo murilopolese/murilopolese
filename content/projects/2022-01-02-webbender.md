@@ -5,6 +5,7 @@ description: "I worked for JoyLabz on a research and development prototype for a
 links:
   Video: 'https://www.youtube.com/watch?v=TtJgsFJ_TQI'
   JoyLabz: 'https://joylabz.com/'
+  Demo: 'https://murilopolese.github.io/joylabz-webtoy-garden/toys/webbender/'
 tags:
 - 'web'
 - 'interactive'

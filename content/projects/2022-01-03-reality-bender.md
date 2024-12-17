@@ -6,6 +6,7 @@ path: '/project/2021-05-makey-makey-sampler'
 links:
   Concept: '/media/2022-04-11RealityDemoStoryboard.pdf'
   JoyLabz: 'https://joylabz.com/'
+  Report: 'https://realitybender.bananabanana.me/'
 tags:
 - 'hardware'
 - 'interactive'
