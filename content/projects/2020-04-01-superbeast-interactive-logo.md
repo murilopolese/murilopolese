@@ -4,7 +4,7 @@ cover: "superbeast.png"
 description: "Interactive logo for a design consultancy that mixed generative, semi-random and ciliate inspired undulatory movement."
 path: '/project/2020-04-superbeast-interactive-logo'
 links:
-  Archive: 'http://superbeast.dokku.bananabanana.me/'
+  Archive: 'http://superbeast.s3-website.eu-north-1.amazonaws.com/'
   Research: 'https://github.com/murilopolese/superbeast/tree/master/study'
 tags:
 - 'web'
