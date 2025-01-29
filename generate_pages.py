@@ -1,11 +1,10 @@
 from os import listdir, mkdir, rename
 import markdown
 import frontmatter
-from templates import document, article, homepage, titlepage
+from templates import document, article, titlepage
 
 article_template = article.template
 document_template = document.template
-home_page_template = homepage.template
 title_page_template = titlepage.template
 
 project_folder = './content/projects'
@@ -63,12 +62,6 @@ featured_learning_html = render_articles(featured_learning_list[::-1])
 about_data = frontmatter.load(about_file)
 about_html = markdown.markdown(about_data.content)
 
-home_page_html = document_template({
-    "main": home_page_template({
-        "featured_projects": featured_projects_html,
-        "featured_learning": featured_learning_html
-    })
-})
 projects_page_html = document_template({
     "main": title_page_template({
         "title": "Projects",
@@ -89,8 +82,8 @@ about_page_html = document_template({
     })
 })
 
-with open('index.html', 'w') as f:
-    f.write(home_page_html)
+# with open('index.html', 'w') as f:
+#     f.write(home_page_html)
 
 with open('projects.html', 'w') as f:
     f.write(projects_page_html)
