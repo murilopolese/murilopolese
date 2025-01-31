@@ -120,6 +120,7 @@ main {
   max-width: 960px;
   margin: auto;
 }
+
 .thumbnails {
   padding: 1em 0;
   width: 100%;
@@ -135,6 +136,10 @@ main {
   height: 225px;
   width: 225px;
   object-fit: cover;
+}
+
+.thumbnails a {
+  cursor: pointer;
 }
 
 article {
@@ -167,4 +172,119 @@ article section {
   object-fit: contain;
   padding: 1rem;
   cursor: pointer;
+}
+
+::backdrop {
+  background: rgba(0, 0, 0, 0.5);
+}
+
+dialog {
+  background: white;
+  border: none;
+  overflow: visible;
+  padding: 0;
+  max-width: 680px;
+  width: 90%;
+}
+
+.thumbnails dialog img {
+  width: 100%;
+  height: auto;
+  /* max-width: 680px; */
+}
+
+dialog .wrapper {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+  padding: 1em;
+}
+
+dialog button {
+  position: absolute;
+  top: 0em;
+  right: 0em;
+  width: 2em;
+  height: 2em;
+  border-radius: 1em;
+  transform: translate(50%, -50%);
+  background: rgb(0, 0, 0, 0.85);
+  border: none;
+  outline: none;
+  cursor: pointer;
+  color: white;
+}
+
+@media only screen and (max-width: 960px) {
+  body {
+    font-size: 0.8rem;
+  }
+  nav {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 0 4rem;
+    position: relative;
+  }
+  nav h1 {
+    line-height: 1em;
+  }
+  nav .categories a {
+    display: inline-block;
+    width: 100%;
+    padding: 1em 0;
+  }
+  header {
+    padding: 1rem 1rem;
+  }
+  article {
+    flex-direction: column;
+    text-align: center;
+    padding: 1.5rem 0;
+  }
+  article figure,
+  article section {
+    width: 100%;
+    padding: 0;
+  }
+  article h3 {
+    line-height: 1.3em;
+    padding: 1em 0;
+  }
+  .gallery > * {
+    width: 50%;
+    object-fit: contain;
+    padding: 1rem;
+  }
+  .thumbnails {
+    padding: 1em 0;
+    /* padding: 0; */
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 1em;
+  }
+  .thumbnails > a {
+    display: inline-block;
+    height: 125px;
+    width: calc(50% - 1em);
+    object-fit: cover;
+    overflow: hidden;
+  }
+  .thumbnails a img {
+    width: 100%;
+    height: 100%;
+  }
+}
+
+@media only screen and (min-width: 810px) {
+  .thumbnails > a {
+    height: 225px;
+    width: 225px;
+  }
 }

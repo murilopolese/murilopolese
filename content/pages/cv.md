@@ -5,11 +5,11 @@ description: ""
 template: "page"
 ---
 
-As a creative technologist, consultant, researcher, and full-stack developer with experience in interactive media art for installations and advertisement campaigns, I specialize in developing robust systems, databases, embed software and infrastructure.
+Murilo is a creative technologist, consultant, researcher, and full-stack developer with expertise in interactive media art for installations and advertising. Specialising in building robust systems, databases, embedded software, and infrastructure, Murilo is passionate about education and technology.
 
-My current focus is on education and technology and I've worked with companies such as [Strawbees](https://strawbees.com/), [Quirkbot](https://www.youtube.com/watch?v=a2LIR4TEiaI&ab_channel=Quirkbot), [Kano](https://kano.me), [Joy Labz](https://joylabz.com/), [Makey Makey](https://makeymakey.com/) and [Arduino](https://arduino.cc). As an ambassador of [Kids Hack Day](https://www.kidshackday.com/about) and [Science Hack Day](http://sciencehackday.org/ambassador/) hackathons, I'm passionate about participating in learning that celebrates creativity, agency and critical thinking.
+They have worked with companies such as [Strawbees](https://strawbees.com/), [Quirkbot](https://www.youtube.com/watch?v=a2LIR4TEiaI&ab_channel=Quirkbot), [Kano](https://kano.me), [Joy Labz](https://joylabz.com/), [Makey Makey](https://makeymakey.com/) and [Arduino](https://arduino.cc). As an ambassador of [Kids Hack Day](https://www.kidshackday.com/about) and [Science Hack Day](http://sciencehackday.org/ambassador/), they are passionate about participating in learning that celebrates creativity, agency and critical thinking.
 
-I've facilitated courses at [School for Poetic Computation](https://sfpc.study/), [Konsftack](https://www.konstfack.se/), [Berghs](https://berghs.se), [Hyper Island](https://www.hyperisland.com), and [Vefskoli](https://vefskoli.is).
+Murilo facilitated courses at [School for Poetic Computation](https://sfpc.study/), [Konsftack](https://www.konstfack.se/), [Berghs](https://berghs.se), [Hyper Island](https://www.hyperisland.com), and [Vefskoli](https://vefskoli.is).
 
 <br>
 <br>
