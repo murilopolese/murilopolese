@@ -105,6 +105,10 @@ nav {
   margin: 0 auto;
 }
 
+nav h1 {
+  padding-bottom: 0;
+}
+
 nav .categories {
   text-transform: uppercase;
   letter-spacing: 0.15em;
@@ -133,13 +137,18 @@ main {
 }
 
 .thumbnails img {
-  height: 225px;
-  width: 225px;
+  /* height: 225px;
+  width: 225px; */
+  height: 100%;
+  width: 100%;
   object-fit: cover;
 }
 
-.thumbnails a {
+.thumbnails > a {
   cursor: pointer;
+  display: inline-block;
+  width: calc( 33.333% - 0.75em );
+  aspect-ratio: 1 / 1;
 }
 
 article {
@@ -225,11 +234,16 @@ dialog button {
     align-items: center;
     justify-content: center;
     text-align: center;
-    padding: 0 4rem;
+    padding: 0 0rem;
     position: relative;
   }
   nav h1 {
     line-height: 1em;
+  }
+  nav .categories {
+    display: flex;
+    flex-direction: row;
+    gap: 1em;
   }
   nav .categories a {
     display: inline-block;
@@ -238,6 +252,9 @@ dialog button {
   }
   header {
     padding: 1rem 1rem;
+  }
+  .description {
+    text-align: center;
   }
   article {
     flex-direction: column;
@@ -260,7 +277,6 @@ dialog button {
   }
   .thumbnails {
     padding: 1em 0;
-    /* padding: 0; */
     width: 100%;
     display: flex;
     flex-direction: row;
@@ -271,20 +287,11 @@ dialog button {
   }
   .thumbnails > a {
     display: inline-block;
-    height: 125px;
-    width: calc(50% - 1em);
     object-fit: cover;
     overflow: hidden;
   }
   .thumbnails a img {
     width: 100%;
     height: 100%;
-  }
-}
-
-@media only screen and (min-width: 810px) {
-  .thumbnails > a {
-    height: 225px;
-    width: 225px;
   }
 }
