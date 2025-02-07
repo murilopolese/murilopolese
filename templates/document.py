@@ -16,8 +16,8 @@ def template(state={}):
             <h1><a href="/">Murilo Polese</a></h1>
             <div class="categories">
                 <a href="/about.html">About</a>
-                <a href="/projects.html">Projects</a>
-                <a href="/learning.html">Learning</a>
+                <a href="/projects.html">Developer</a>
+                <a href="/learning.html">Educator</a>
                 <!-- <a target="_blank" href="http://bananabanana.me">🍌🍌</a> -->
             </div>
         </nav>
