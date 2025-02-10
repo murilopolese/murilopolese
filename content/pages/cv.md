@@ -5,14 +5,17 @@ description: ""
 template: "page"
 ---
 
-Murilo is a creative technologist, consultant, researcher, and full-stack developer with expertise in interactive media art for installations and advertising. Specialising in building robust systems, databases, embedded software, and infrastructure, Murilo is passionate about education and technology.
+Murilo is a creative technologist, consultant, researcher, and full-stack developer with an appeal for interactivity, computational art and aesthetics. Specialising in building robust systems, databases, embedded software and infrastructure they are also an experienced workshop facilitator and educator. Murilo is passionate about learning and technology.
 
-They have worked with companies such as [Strawbees](https://strawbees.com/), [Quirkbot](https://www.youtube.com/watch?v=a2LIR4TEiaI&ab_channel=Quirkbot), [Kano](https://kano.me), [Joy Labz](https://joylabz.com/), [Makey Makey](https://makeymakey.com/) and [Arduino](https://arduino.cc). As an ambassador of [Kids Hack Day](https://www.kidshackday.com/about) and [Science Hack Day](http://sciencehackday.org/ambassador/), they are passionate about participating in learning that celebrates creativity, agency and critical thinking.
+They have worked with companies such as [Strawbees](https://strawbees.com/), [Quirkbot](https://www.youtube.com/watch?v=a2LIR4TEiaI&ab_channel=Quirkbot), [Kano](https://kano.me), [Joy Labz](https://joylabz.com/), [Makey Makey](https://makeymakey.com/) and [Arduino](https://arduino.cc). As an ambassador of [Kids Hack Day](https://www.kidshackday.com/about) and [Science Hack Day](http://sciencehackday.org/ambassador/), they are interested in participating in learning that celebrates creativity, agency and critical thinking.
 
 Murilo facilitated courses at [School for Poetic Computation](https://sfpc.study/), [Konsftack](https://www.konstfack.se/), [Berghs](https://berghs.se), [Hyper Island](https://www.hyperisland.com), and [Vefskoli](https://vefskoli.is).
 
 <br>
 <br>
+
+### 2025
+- [Group Show: Fast Hiss and Friends](https://www.instagram.com/p/DFfGb1UOC4k/)
 
 ### 2024
 - [Visualia residency at Into the Woods Festival](https://microcosmicgazing.bananabanana.me/intothewoods2024/)
