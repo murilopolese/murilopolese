@@ -9,7 +9,7 @@ Murilo is a creative technologist, consultant, researcher, and full-stack develo
 
 They have worked with companies such as [Strawbees](https://strawbees.com/), [Quirkbot](https://www.youtube.com/watch?v=a2LIR4TEiaI&ab_channel=Quirkbot), [Kano](https://kano.me), [Joy Labz](https://joylabz.com/), [Makey Makey](https://makeymakey.com/) and [Arduino](https://arduino.cc). As an ambassador of [Kids Hack Day](https://www.kidshackday.com/about) and [Science Hack Day](http://sciencehackday.org/ambassador/), they are interested in participating in learning that celebrates creativity, agency and critical thinking.
 
-Murilo facilitated courses at [School for Poetic Computation](https://sfpc.study/), [Konsftack](https://www.konstfack.se/), [Berghs](https://berghs.se), [Hyper Island](https://www.hyperisland.com), and [Vefskoli](https://vefskoli.is).
+Murilo facilitated courses at [School for Poetic Computation](https://sfpc.study/), [Konstfack](https://www.konstfack.se/), [Berghs](https://berghs.se), [Hyper Island](https://www.hyperisland.com), and [Vefskoli](https://vefskoli.is).
 
 <br>
 <br>
