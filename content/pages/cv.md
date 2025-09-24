@@ -15,6 +15,9 @@ Murilo facilitated courses at [School for Poetic Computation](https://sfpc.study
 <br>
 
 ### 2025
+- [Medborgarskolan Robot Camp](https://web.archive.org/web/20250321131758/https://www.medborgarskolan.se/arrangemang-sok/sommarlager-robot-camp-9-15-ar-1456553/)
+- [Svenska Teknare](https://svenskatecknare.se/kurs/coding-patterns-in-blender/)
+- [Microcosmic Gazing](https://www.instagram.com/p/DGtiyzOzcDx/)
 - [Group Show: Fast Hiss and Friends](https://www.instagram.com/p/DFfGb1UOC4k/)
 
 ### 2024
