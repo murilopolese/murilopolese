@@ -15,6 +15,7 @@ def template(state={}):
       /*to prevent Firefox FOUC, this must be here*/
       let FF_FOUC_FIX;
     </script>
+    <script defer src="https://x9.box.bananabanana.me/script.js" data-website-id="feaf0f2b-4ee2-4152-bcb0-0ba737cab103"></script>
   </head>
     <body>
         <nav>
@@ -23,7 +24,7 @@ def template(state={}):
                 <a href="/about.html">About</a>
                 <a href="/projects.html">Developer</a>
                 <a href="/learning.html">Educator</a>
-                <!-- <a target="_blank" href="http://bananabanana.me">🍌🍌</a> -->
+                <a target="_blank" href="http://bananabanana.me">🍌🍌</a>
             </div>
         </nav>
         <main>
