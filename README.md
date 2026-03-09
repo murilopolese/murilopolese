@@ -35,4 +35,4 @@ python generate_pages.py
 
 ## Deploy
 
-aws s3 sync ./ s3://www.murilopolese.com/ --exclude '.*' --exclude './venv' --acl public-read
+rsync -avz ./*.html ./media ./thumbnails ./static  root@murilopolese.com:/var/www/murilopolese
