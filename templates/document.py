@@ -1,5 +1,15 @@
 
 def template(state={}):
+    trackAllScript = ""
+    if "trackAll" in state.keys():
+        trackAllScript = """
+const allLinks = document.querySelectorAll('main a')
+Array.from(allLinks).forEach((trigger, i) => {{
+  trigger.addEventListener('click', () => {{
+    umami.track('link-'+trigger.href.slice(0,40))
+  }})
+}})
+"""
     return """
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
@@ -24,14 +34,24 @@ def template(state={}):
                 <a href="/about.html">About</a>
                 <a href="/projects.html">Developer</a>
                 <a href="/learning.html">Educator</a>
-                <a target="_blank" href="http://bananabanana.me">🍌🍌</a>
+                <a data-umami-event="link-bananabanana" target="_blank" href="http://bananabanana.me">🍌🍌</a>
             </div>
         </nav>
         <main>
             {main}
         </main>
+        <script type="text/javascript">
+          const triggers = document.querySelectorAll('*[data-umami-event]')
+          Array.from(triggers).forEach((trigger, i) => {{
+            trigger.addEventListener('click', () => {{
+              umami.track(trigger.dataset['umamiEvent'])
+            }})
+          }})
+          {trackAllScript}
+        </script>
     </body>
 </html>
     """.format(
-        main=state['main']
+        main=state['main'],
+        trackAllScript=trackAllScript
     )

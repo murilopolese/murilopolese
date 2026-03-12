@@ -21,7 +21,7 @@
                 <a href="/about.html">About</a>
                 <a href="/projects.html">Developer</a>
                 <a href="/learning.html">Educator</a>
-                <a target="_blank" href="http://bananabanana.me">🍌🍌</a>
+                <a data-umami-event="link-bananabanana" target="_blank" href="http://bananabanana.me">🍌🍌</a>
             </div>
         </nav>
         <main>
@@ -39,7 +39,7 @@
                 </div>
               </div>
             </dialog>
-            <a>
+            <a data-umami-event="cover-muricangas">
               <img src="thumbnails/couve_cor_zona_.jpg" alt="Muricanga pattern">
             </a>
 
@@ -52,7 +52,7 @@
                 </div>
               </div>
             </dialog>
-            <a>
+            <a data-umami-event="cover-instagram">
               <img src="thumbnails/svenska_teknare_poster.jpg" alt="Instagram">
             </a>
 
@@ -64,7 +64,7 @@
                 </div>
               </div>
             </dialog>
-            <a>
+            <a data-umami-event="cover-axidraw">
               <img src="thumbnails/print_waves_.jpg" alt='"Waves" print'>
             </a>
 
@@ -78,7 +78,7 @@
                 </div>
               </div>
             </dialog>
-            <a>
+            <a data-umami-event="cover-locop">
               <img src="thumbnails/locop_poster_bee.jpg" alt='"LOCOP" print'>
             </a>
 
@@ -91,7 +91,7 @@
                 </div>
               </div>
             </dialog>
-            <a>
+            <a data-umami-event="cover-anonovo">
               <img src="thumbnails/anonovo.png" alt="New Year's Eve Print">
             </a>
 
@@ -104,7 +104,7 @@
                 </div>
               </div>
             </dialog>
-            <a>
+            <a data-umami-event="cover-simon">
               <img src="thumbnails/Simon_crop.jpg" alt="Prints on tiles">
             </a>
 
@@ -117,7 +117,7 @@
                 </div>
               </div>
             </dialog>
-            <a>
+            <a data-umami-event="cover-recreating-the-past-1">
               <img src="thumbnails/rtp_gallery.png" alt="Recreating the Past mosaic">
             </a>
 
@@ -130,7 +130,7 @@
                 </div>
               </div>
             </dialog>
-            <a>
+            <a data-umami-event="cover-recreating-the-past-2">
               <img src="thumbnails/sfpc_rtp_call.jpg" alt="Call for Recreating the Past">
             </a>
 
@@ -143,7 +143,7 @@
                 </div>
               </div>
             </dialog>
-            <a>
+            <a data-umami-event="cover-cellular-automata">
               <img src="thumbnails/sfpc_ca_.png" alt="Cellular Automata">
             </a>
 
@@ -156,7 +156,7 @@
                 </div>
               </div>
             </dialog>
-            <a>
+            <a data-umami-event="cover-strawbees">
               <img src="thumbnails/mechanicalinventions.jpg" alt="Strawbees">
             </a>
 
@@ -169,7 +169,7 @@
                 </div>
               </div>
             </dialog>
-            <a>
+            <a data-umami-event="cover-microcosmig-gazing">
               <img src="thumbnails/microcosmic_treated2.jpg" alt="Microcosmic Gazing">
             </a>
 
@@ -183,37 +183,42 @@
                 </div>
               </div>
             </dialog>
-            <a>
+            <a data-umami-event="cover-fashion-festival">
               <img src="thumbnails/dev/reykjavik-fashion-festival.png" alt="Reykjavik Fashion Festival Logo">
             </a>
           </section>
 
           <section>
             <p align="center">
-              <a href="https://www.instagram.com/murilopolese">Instagram</a> -
-              <a href="https://sunbeam.city/@murilove">Mastodon</a>
+              <a data-umami-event="link-instagram" href="https://www.instagram.com/murilopolese">Instagram</a> -
+              <a data-umami-event="link-mastodon" href="https://sunbeam.city/@murilove">Mastodon</a>
             </p>
           </section>
         </main>
         <script type="text/javascript">
-          // window.addEventListener('load', () => {
-            const dialogs = document.querySelectorAll("dialog")
-            const showButtons = document.querySelectorAll("dialog + a")
-            const closeButtons = document.querySelectorAll("dialog button")
-            Array.from(dialogs).forEach((dialog, i) => {
-              const showButton = showButtons[i]
-              const closeButton = closeButtons[i]
-              showButton.addEventListener("click", () => dialog.showModal())
-              if (closeButton) {
-                closeButton.addEventListener("click", () => dialog.close())
+          const dialogs = document.querySelectorAll("dialog")
+          const showButtons = document.querySelectorAll("dialog + a")
+          const closeButtons = document.querySelectorAll("dialog button")
+          Array.from(dialogs).forEach((dialog, i) => {
+            const showButton = showButtons[i]
+            const closeButton = closeButtons[i]
+            showButton.addEventListener("click", () => dialog.showModal())
+            if (closeButton) {
+              closeButton.addEventListener("click", () => dialog.close())
+            }
+            dialog.addEventListener('click', (e) => {
+              if (e.target.tagName.toLowerCase() == 'dialog') {
+                dialog.close()
               }
-              dialog.addEventListener('click', (e) => {
-                if (e.target.tagName.toLowerCase() == 'dialog') {
-                  dialog.close()
-                }
-              })
             })
-          // })
+          })
+
+          const triggers = document.querySelectorAll('*[data-umami-event]')
+          Array.from(triggers).forEach((trigger, i) => {
+            trigger.addEventListener('click', () => {
+              umami.track(trigger.dataset['umamiEvent'])
+            })
+          })
         </script>
     </body>
 </html>

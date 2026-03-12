@@ -22,7 +22,7 @@
                 <a href="/about.html">About</a>
                 <a href="/projects.html">Developer</a>
                 <a href="/learning.html">Educator</a>
-                <a target="_blank" href="http://bananabanana.me">🍌🍌</a>
+                <a data-umami-event="link-bananabanana" target="_blank" href="http://bananabanana.me">🍌🍌</a>
             </div>
         </nav>
         <main>
@@ -153,6 +153,22 @@
 </section>
     
         </main>
+        <script type="text/javascript">
+          const triggers = document.querySelectorAll('*[data-umami-event]')
+          Array.from(triggers).forEach((trigger, i) => {
+            trigger.addEventListener('click', () => {
+              umami.track(trigger.dataset['umamiEvent'])
+            })
+          })
+          
+const allLinks = document.querySelectorAll('main a')
+Array.from(allLinks).forEach((trigger, i) => {{
+  trigger.addEventListener('click', () => {{
+    umami.track('link-'+trigger.href.slice(0,40))
+  }})
+}})
+
+        </script>
     </body>
 </html>
     

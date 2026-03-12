@@ -79,7 +79,8 @@ about_page_html = document_template({
     "main": title_page_template({
         "title": "About",
         "content": about_html
-    })
+    }),
+    "trackAll": True
 })
 
 # with open('index.html', 'w') as f:
