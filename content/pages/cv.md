@@ -14,7 +14,11 @@ Murilo facilitated courses at [School for Poetic Computation](https://sfpc.study
 <br>
 <br>
 
+### 2026
+- [Tunnel course](https://courses.nikau.io/tunnel/) with [Julian Oliver](https://julianoliver.com/about/)
+
 ### 2025
+- Software developer at [ICO Partners](https://icopartners.com/)
 - [Medborgarskolan Robot Camp](https://web.archive.org/web/20250321131758/https://www.medborgarskolan.se/arrangemang-sok/sommarlager-robot-camp-9-15-ar-1456553/)
 - [Svenska Teknare](https://svenskatecknare.se/kurs/coding-patterns-in-blender/)
 - [Microcosmic Gazing](https://www.instagram.com/p/DGtiyzOzcDx/)
